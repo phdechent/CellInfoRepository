@@ -1,0 +1,15 @@
+﻿Cell reference,Name,Manufacturer,Name,type,hasCase,hasPositiveElectrode,hasNegativeElectrode,NominalCapacity,UpperVoltageLimit,LowerVoltageLimit,NominalVoltage,ChargingCurrent,MaximumContinuousDischargeCurrent,Mass,Energy,GravEnergy,Year
+Cell 1,JGNE_HTCFR18650,JGNE,HTCFR18650,R18650,CylindricalCase,LFP,,1.8,3.65,2.5,3.2,1.8,5.4,42.0,5.8,137.1,NaN
+Cell 2,JGNE_HTPFR26650,JGNE,HTPFR26650,R26650,CylindricalCase,LFP,,3,3.65,2.5,3.2,9,30,85.0,9.6,112.9,NaN
+Cell 3,JGNE_HTCFR26650,JGNE,HTCFR26650,R26650,CylindricalCase,LFP,,3.8,3.65,2.5,3.2,3.8,11.4,88.0,12.2,138.2,NaN
+Cell 4,LG_18650HE4,LG Chem,18650HE4,R18650,CylindricalCase,NaN,,2.5,4.2,2.5,3.6,4,20,45.7,9.0,196.9,2013
+Cell 5,LG_18650MJ1,LG Chem,18650MJ1,R18650,CylindricalCase,NMC,,3.4,4.2,2.5,3.635,3.4,10,47.0,12.4,263.0,2014
+Cell 6,LG_21700M50LT,LG Chem,21700M50LT,R21700,CylindricalCase,NaN,,4.89,4.2,2.5,3.63,3.395,7.275,68.0,17.8,261.0,2016
+Cell 7,Moli_P28A18650,Molicel,P28A18650,R18650,CylindricalCase,NaN,,2.80,4.20,2.50,3.60,6.00,35.00,46.0,10.1,219.1,NaN
+Cell 8,Moli_P42A21700,Molicel,P42A21700,R21700,CylindricalCase,NaN,,4.2,4.2,2.5,3.6,4.2,45,66.5,15.1,227.4,NaN
+Cell 9,Pana_NCR18650B,Panasonic,NCR18650B,R18650,CylindricalCase,NCA,,3.25,4.2,2.5,3.6,1.625,6.7,45.9,11.7,254.9,2012
+Cell 10,SA_1865025R,Samsung,1865025R,R18650,CylindricalCase,NaN,,2.5,4.2,2.5,3.6,4,20,45.0,9.0,200.0,2013
+Cell 11,SA_2170040T,Samsung,2170040T,R21700,CylindricalCase,NCA,,4,4.2,2.5,3.6,6,35,67.0,14.4,214.9,2017
+Cell 12,Pana_18650ZM2,Panasonic,18650ZM2,R18650,CylindricalCase,NaN,,2.47,4.2,2.5,3.6,2.47,8,46.4,8.9,191.6,2018
+Cell 13,Sony_18650VTC6,Sony-Murata,18650VTC6,R18650,CylindricalCase,NaN,,3,4.25,2,3.6,5,30,46.9,10.8,230.3,2015
+Cell 14,Sony_21700VTC6A,Sony-Murata,21700VTC6A,R21700,CylindricalCase,NCA,,4,4.25,2,3.6,9,40,72.7,14.4,198.1,NaN
