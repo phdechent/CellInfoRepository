@@ -1,0 +1,236 @@
+{
+    "@context": "https://w3id.org/emmo/domain/battery/context",
+    "schema:name": "NCR18650BF",
+    "schema:manufacturer": {
+        "schema:name": "Panasonic"
+    },
+    "hasPositiveElectrode": {
+        "@type": "PositiveElectrode",
+        "hasActiveMaterial": {
+            "@type": NaN,
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        }
+    },
+    "hasCase": [
+        {
+            "@type": "R18650"
+        }
+    ],
+    "hasProperty": [
+        {
+            "@type": [
+                "NominalCapacity",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 3.35
+            },
+            "hasMeasurementUnit": "emmo:AmpereHour",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "CycleLife",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 500.0
+            },
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "NominalVoltage",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 3.6
+            },
+            "hasMeasurementUnit": "emmo:Volt",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "UpperVoltageLimit",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 4.2
+            },
+            "hasMeasurementUnit": "emmo:Volt",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "LowerVoltageLimit",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 2.5
+            },
+            "hasMeasurementUnit": "emmo:Volt",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "DischargeCurrent",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 3.25
+            },
+            "hasMeasurementUnit": "emmo:Ampere",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "MaximumContinuousDischargeCurrent",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 3.25
+            },
+            "hasMeasurementUnit": "emmo:Ampere",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "Mass",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 0.0465
+            },
+            "hasMeasurementUnit": "emmo:Kilogram",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "ChargingCurrent",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 1.625
+            },
+            "hasMeasurementUnit": "emmo:Ampere",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "Height",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 0.06509999999999999
+            },
+            "hasMeasurementUnit": "emmo:Metre",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "Diameter",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 0.01824
+            },
+            "hasMeasurementUnit": "emmo:Metre",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        }
+    ],
+    "schema:citation": [
+        {
+            "@id": [
+                "10.1007_s42452-020-2675-6",
+                "10.1016_j.jpowsour.2021.229463",
+                "10.1016_j.sna.2021.113061",
+                "10.3390_en11051073",
+                "10.1016_j.egyr.2023.04.148",
+                "10.1155_2017_2579084",
+                "10.1016_j.compeleceng.2021.107306",
+                "10.1016_j.applthermaleng.2017.04.017",
+                "10.1016_j.applthermaleng.2020.116338",
+                "10.1016_j.renene.2019.08.077",
+                "10.1016_j.energy.2023.128126",
+                "10.1016_j.jpowsour.2020.228189",
+                "10.1016_j.egyr.2021.11.089",
+                "10.3390_en10091284",
+                "10.1016_j.est.2021.102466",
+                "10.1016_j.est.2022.105977",
+                "10.1016_j.apenergy.2022.120037",
+                NaN,
+                "10.22149_teee.v4i1.136",
+                "10.1016_j.est.2021.102457",
+                "10.1016_j.est.2020.101552",
+                "10.1016_j.jpowsour.2019.227466",
+                "10.1016_j.est.2020.101789",
+                "10.1016_j.est.2022.105796",
+                "10.1016_j.jpowsour.2020.228690",
+                "10.1016_j.micpro.2020.103711",
+                "10.1016_j.est.2022.105345",
+                "10.1016_j.est.2023.108047",
+                "10.1016_j.energy.2021.119901",
+                "10.1016_j.est.2016.04.007",
+                "10.1016_j.engfailanal.2019.104290",
+                "10.1016_j.ijepes.2021.107760",
+                "10.1016_j.jpowsour.2015.12.083",
+                "10.1016_j.apenergy.2022.118878",
+                "10.1016_j.est.2022.104141",
+                "10.1016_j.csite.2022.102269",
+                "10.1016_j.est.2020.101329",
+                "10.1016_j.est.2023.108131",
+                "10.1016_j.jlp.2022.104893",
+                "10.1016_j.jpowsour.2017.05.015",
+                "10.1016_j.energy.2020.119490",
+                "10.1016_j.est.2021.103389",
+                "10.1016_j.ijthermalsci.2017.09.019",
+                "10.1016_j.apenergy.2019.114019",
+                "10.1109_tii.2020.2983176",
+                "10.1002_advs.201700369",
+                "10.1016_j.est.2022.104709",
+                "10.1016_j.ijthermalsci.2020.106611",
+                "10.1016_j.firesaf.2021.103382",
+                "10.1016_j.electacta.2020.136094",
+                "10.1109_tcst.2020.2976036",
+                "10.1016_j.rineng.2022.100703",
+                "10.1016_j.est.2020.101561",
+                "10.1016_j.actaastro.2021.04.042"
+            ]
+        }
+    ]
+}
