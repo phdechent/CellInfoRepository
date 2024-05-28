@@ -2,6 +2,7 @@
     "@context": "https://w3id.org/emmo/domain/battery/context",
     "schema:name": "INR18650 MJ1",
     "schema:manufacturer": {
+        "@id": "https://www.wikidata.org/wiki/Q486976",
         "schema:name": "LG Chem"
     },
     "hasPositiveElectrode": {
@@ -13,31 +14,27 @@
             }
         }
     },
-    "schema:citation": [
-        {
-            "@id": [
-                "10.1016_j.dib.2020.106033",
-                "10.1016_j.jpowsour.2019.226834",
-                "10.1016_j.est.2023.108029",
-                "10.1016_j.jpowsour.2019.03.109",
-                "10.1016_j.egyai.2021.100081",
-                "10.1016_j.est.2019.100900",
-                "10.1016_j.jpowsour.2018.11.043",
-                "10.1016_j.est.2022.105303",
-                "10.1016_j.jpowsour.2022.231296",
-                "10.1016_j.electacta.2022.139878",
-                "10.1016_j.jpowsour.2021.230645",
-                "10.1016_j.jpowsour.2021.230030",
-                "10.1016_j.est.2019.101170",
-                "10.1016_j.est.2022.106146",
-                "10.1016_j.est.2023.108241",
-                "10.1016_j.jpowsour.2022.231943",
-                "10.1016_j.jpowsour.2021.229463",
-                "10.1016_j.jpowsour.2021.230240",
-                "10.1016_j.est.2020.101828",
-                "10.1016_j.jpowsour.2021.229523"
-            ]
-        }
+    "schema:subjectOf": [
+        {"@id": "https://doi.org/10.1016/j.dib.2020.106033"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2019.226834"},
+        {"@id": "https://doi.org/10.1016/j.est.2023.108029"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2019.03.109"},
+        {"@id": "https://doi.org/10.1016/j.egyai.2021.100081"},
+        {"@id": "https://doi.org/10.1016/j.est.2019.100900"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2018.11.043"},
+        {"@id": "https://doi.org/10.1016/j.est.2022.105303"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2022.231296"},
+        {"@id": "https://doi.org/10.1016/j.electacta.2022.139878"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2021.230645"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2021.230030"},
+        {"@id": "https://doi.org/10.1016/j.est.2019.101170"},
+        {"@id": "https://doi.org/10.1016/j.est.2022.106146"},
+        {"@id": "https://doi.org/10.1016/j.est.2023.108241"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2022.231943"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2021.229463"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2021.230240"},
+        {"@id": "https://doi.org/10.1016/j.est.2020.101828"},
+        {"@id": "https://doi.org/10.1016/j.jpowsour.2021.229523"}
     ],
     "hasCase": [
         {
@@ -47,7 +44,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
