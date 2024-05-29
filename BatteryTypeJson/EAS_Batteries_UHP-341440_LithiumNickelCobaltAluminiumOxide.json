@@ -1,8 +1,8 @@
 {
     "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "INR21700-40T",
+    "schema:name": "UHP-341440 LithiumNickelCobaltAluminiumOxide",
     "schema:manufacturer": {
-        "schema:name": "Samsung"
+        "schema:name": "EAS Batteries"
     },
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",
@@ -13,16 +13,6 @@
             }
         }
     },
-    "schema:subjectOf": [
-        {
-            "@id": "https://doi.org/10.1016/j.est.2023.107424"
-        }
-    ],
-    "hasCase": [
-        {
-            "@type": "R21700"
-        }
-    ],
     "hasProperty": [
         {
             "@type": [
@@ -31,7 +21,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.0
+                "hasNumericalValue": 7.5
             },
             "hasMeasurementUnit": "emmo:AmpereHour",
             "schema:citation": {
@@ -45,7 +35,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 250.0
+                "hasNumericalValue": 2000.0
             },
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
@@ -58,7 +48,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 3.635
+                "hasNumericalValue": 3.6
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -86,7 +76,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 2.5
+                "hasNumericalValue": 3.0
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -100,7 +90,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.8
+                "hasNumericalValue": 1.5
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -114,7 +104,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 10.0
+                "hasNumericalValue": 75.0
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -128,7 +118,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.07
+                "hasNumericalValue": 0.32
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {
@@ -142,7 +132,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 2.0
+                "hasNumericalValue": 3.8
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -156,7 +146,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.07
+                "hasNumericalValue": 0.144
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
@@ -170,7 +160,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.021
+                "hasNumericalValue": 0.034
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
