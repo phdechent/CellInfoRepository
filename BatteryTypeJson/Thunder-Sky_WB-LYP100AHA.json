@@ -13,7 +13,7 @@
             }
         }
     },
-    "schema:citation": [
+    "schema:subjectOf": [
         {
             "@id": "https://www.semanticscholar.org/paper/d86ac0b0cb22085e5a2ffb8f85ec310bee3847f2"
         }

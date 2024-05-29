@@ -13,7 +13,7 @@
             }
         }
     },
-    "schema:citation": [
+    "schema:subjectOf": [
         {
             "@id": "https://doi.org/10.1016/j.apenergy.2021.118498"
         },
