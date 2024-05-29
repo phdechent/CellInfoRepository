@@ -15,10 +15,10 @@
     },
     "schema:citation": [
         {
-            "@id": [
-                NaN,
-                "10.6113_jpe.2013.13.4.516"
-            ]
+            "@id": "https://www.semanticscholar.org/paper/5c79160b70f3d10ea832ae5ffbc21ac0d9c94660"
+        },
+        {
+            "@id": "https://doi.org/10.6113/jpe.2013.13.4.516"
         }
     ],
     "hasCase": [
@@ -29,7 +29,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
@@ -48,7 +48,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4000.0
+                "hasNumericalValue": 6000.0
             },
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
@@ -131,7 +131,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 1.16
+                "hasNumericalValue": 1.095
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {

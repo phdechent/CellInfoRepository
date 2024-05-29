@@ -15,14 +15,22 @@
     },
     "schema:citation": [
         {
-            "@id": [
-                "10.1016_j.dib.2021.106894",
-                "10.1016_j.est.2020.102133",
-                "10.3390_en13020489",
-                "10.1016_j.est.2022.104362",
-                "10.1109_icmect.2019.8932115",
-                "10.1016_j.est.2022.104291"
-            ]
+            "@id": "https://doi.org/10.1016/j.dib.2021.106894"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2020.102133"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en13020489"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.104362"
+        },
+        {
+            "@id": "https://doi.org/10.1109/icmect.2019.8932115"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.104291"
         }
     ],
     "hasCase": [
@@ -33,7 +41,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

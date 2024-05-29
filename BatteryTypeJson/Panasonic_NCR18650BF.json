@@ -13,6 +13,170 @@
             }
         }
     },
+    "schema:citation": [
+        {
+            "@id": "https://doi.org/10.1007/s42452-020-2675-6"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229463"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.sna.2021.113061"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en11051073"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.egyr.2023.04.148"
+        },
+        {
+            "@id": "https://doi.org/10.1155/2017/2579084"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.compeleceng.2021.107306"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.applthermaleng.2017.04.017"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.applthermaleng.2020.116338"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.renene.2019.08.077"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.energy.2023.128126"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2020.228189"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.egyr.2021.11.089"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en10091284"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2021.102466"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.105977"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.apenergy.2022.120037"
+        },
+        {
+            "@id": "https://www.semanticscholar.org/paper/47f0a69588a997c00a57c4908c3132b06e440779"
+        },
+        {
+            "@id": "https://doi.org/10.22149/teee.v4i1.136"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2021.102457"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2020.101552"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2019.227466"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2020.101789"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.105796"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2020.228690"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.micpro.2020.103711"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.105345"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2023.108047"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.energy.2021.119901"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2016.04.007"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.engfailanal.2019.104290"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.ijepes.2021.107760"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2015.12.083"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.apenergy.2022.118878"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.104141"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.csite.2022.102269"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2020.101329"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2023.108131"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jlp.2022.104893"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2017.05.015"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.energy.2020.119490"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2021.103389"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.ijthermalsci.2017.09.019"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.apenergy.2019.114019"
+        },
+        {
+            "@id": "https://doi.org/10.1109/tii.2020.2983176"
+        },
+        {
+            "@id": "https://doi.org/10.1002/advs.201700369"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.104709"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.ijthermalsci.2020.106611"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.firesaf.2021.103382"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.electacta.2020.136094"
+        },
+        {
+            "@id": "https://doi.org/10.1109/tcst.2020.2976036"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.rineng.2022.100703"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2020.101561"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.actaastro.2021.04.042"
+        }
+    ],
     "hasCase": [
         {
             "@type": "R18650"
@@ -21,12 +185,12 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 3.35
+                "hasNumericalValue": 2.965
             },
             "hasMeasurementUnit": "emmo:AmpereHour",
             "schema:citation": {
@@ -67,7 +231,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.2
+                "hasNumericalValue": 4.1
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -171,66 +335,6 @@
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
             }
-        }
-    ],
-    "schema:citation": [
-        {
-            "@id": [
-                "10.1007_s42452-020-2675-6",
-                "10.1016_j.jpowsour.2021.229463",
-                "10.1016_j.sna.2021.113061",
-                "10.3390_en11051073",
-                "10.1016_j.egyr.2023.04.148",
-                "10.1155_2017_2579084",
-                "10.1016_j.compeleceng.2021.107306",
-                "10.1016_j.applthermaleng.2017.04.017",
-                "10.1016_j.applthermaleng.2020.116338",
-                "10.1016_j.renene.2019.08.077",
-                "10.1016_j.energy.2023.128126",
-                "10.1016_j.jpowsour.2020.228189",
-                "10.1016_j.egyr.2021.11.089",
-                "10.3390_en10091284",
-                "10.1016_j.est.2021.102466",
-                "10.1016_j.est.2022.105977",
-                "10.1016_j.apenergy.2022.120037",
-                NaN,
-                "10.22149_teee.v4i1.136",
-                "10.1016_j.est.2021.102457",
-                "10.1016_j.est.2020.101552",
-                "10.1016_j.jpowsour.2019.227466",
-                "10.1016_j.est.2020.101789",
-                "10.1016_j.est.2022.105796",
-                "10.1016_j.jpowsour.2020.228690",
-                "10.1016_j.micpro.2020.103711",
-                "10.1016_j.est.2022.105345",
-                "10.1016_j.est.2023.108047",
-                "10.1016_j.energy.2021.119901",
-                "10.1016_j.est.2016.04.007",
-                "10.1016_j.engfailanal.2019.104290",
-                "10.1016_j.ijepes.2021.107760",
-                "10.1016_j.jpowsour.2015.12.083",
-                "10.1016_j.apenergy.2022.118878",
-                "10.1016_j.est.2022.104141",
-                "10.1016_j.csite.2022.102269",
-                "10.1016_j.est.2020.101329",
-                "10.1016_j.est.2023.108131",
-                "10.1016_j.jlp.2022.104893",
-                "10.1016_j.jpowsour.2017.05.015",
-                "10.1016_j.energy.2020.119490",
-                "10.1016_j.est.2021.103389",
-                "10.1016_j.ijthermalsci.2017.09.019",
-                "10.1016_j.apenergy.2019.114019",
-                "10.1109_tii.2020.2983176",
-                "10.1002_advs.201700369",
-                "10.1016_j.est.2022.104709",
-                "10.1016_j.ijthermalsci.2020.106611",
-                "10.1016_j.firesaf.2021.103382",
-                "10.1016_j.electacta.2020.136094",
-                "10.1109_tcst.2020.2976036",
-                "10.1016_j.rineng.2022.100703",
-                "10.1016_j.est.2020.101561",
-                "10.1016_j.actaastro.2021.04.042"
-            ]
         }
     ]
 }

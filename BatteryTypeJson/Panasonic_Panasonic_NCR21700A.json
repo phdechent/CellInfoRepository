@@ -15,10 +15,10 @@
     },
     "schema:citation": [
         {
-            "@id": [
-                "10.1016_j.est.2023.107918",
-                "10.1016_j.est.2022.105511"
-            ]
+            "@id": "https://doi.org/10.1016/j.est.2023.107918"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2022.105511"
         }
     ],
     "hasCase": [
@@ -29,7 +29,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

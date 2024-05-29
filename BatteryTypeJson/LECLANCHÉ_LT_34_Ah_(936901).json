@@ -2,7 +2,7 @@
     "@context": "https://w3id.org/emmo/domain/battery/context",
     "schema:name": "LT 34 Ah (936901)",
     "schema:manufacturer": {
-        "schema:name": "LECLANCH\u00c9"
+        "schema:name": "LECLANCHÉ"
     },
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",
@@ -13,11 +13,6 @@
             }
         }
     },
-    "schema:citation": [
-        {
-            "@id": []
-        }
-    ],
     "hasCase": [
         {
             "@type": "PrismaticCase"
@@ -26,7 +21,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

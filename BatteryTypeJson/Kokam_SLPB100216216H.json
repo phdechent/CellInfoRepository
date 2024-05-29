@@ -15,12 +15,16 @@
     },
     "schema:citation": [
         {
-            "@id": [
-                "10.1016_j.est.2022.105467",
-                "10.1016_j.apenergy.2012.09.030",
-                "10.1016_j.applthermaleng.2017.06.094",
-                "10.1016_j.jpowsour.2013.05.111"
-            ]
+            "@id": "https://doi.org/10.1016/j.est.2022.105467"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.apenergy.2012.09.030"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.applthermaleng.2017.06.094"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2013.05.111"
         }
     ],
     "hasCase": [
@@ -31,7 +35,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

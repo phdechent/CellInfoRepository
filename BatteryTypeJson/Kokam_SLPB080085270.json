@@ -15,9 +15,7 @@
     },
     "schema:citation": [
         {
-            "@id": [
-                NaN
-            ]
+            "@id": "https://www.semanticscholar.org/paper/47f0a69588a997c00a57c4908c3132b06e440779"
         }
     ],
     "hasCase": [
@@ -28,7 +26,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

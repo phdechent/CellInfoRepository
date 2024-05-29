@@ -15,14 +15,22 @@
     },
     "schema:citation": [
         {
-            "@id": [
-                "10.1016_j.etran.2020.100073",
-                "10.1016_j.jpowsour.2017.11.011",
-                "10.1016_j.apenergy.2017.04.022",
-                "10.1016_j.apenergy.2021.116737",
-                "10.1016_j.enconman.2020.113715",
-                NaN
-            ]
+            "@id": "https://doi.org/10.1016/j.etran.2020.100073"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2017.11.011"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.apenergy.2017.04.022"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.apenergy.2021.116737"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.enconman.2020.113715"
+        },
+        {
+            "@id": "https://www.semanticscholar.org/paper/61f62eca106796d592d9cac19339b989bf5fde9b"
         }
     ],
     "hasCase": [
@@ -33,7 +41,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

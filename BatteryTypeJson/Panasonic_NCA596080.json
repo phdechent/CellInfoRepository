@@ -21,12 +21,12 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.179
+                "hasNumericalValue": 3.95
             },
             "hasMeasurementUnit": "emmo:AmpereHour",
             "schema:citation": {
@@ -185,11 +185,6 @@
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
             }
-        }
-    ],
-    "schema:citation": [
-        {
-            "@id": []
         }
     ]
 }

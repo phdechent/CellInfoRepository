@@ -13,11 +13,6 @@
             }
         }
     },
-    "schema:citation": [
-        {
-            "@id": []
-        }
-    ],
     "hasCase": [
         {
             "@type": "PrismaticCase"
@@ -26,7 +21,7 @@
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

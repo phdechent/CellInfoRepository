@@ -13,15 +13,10 @@
             }
         }
     },
-    "schema:citation": [
-        {
-            "@id": []
-        }
-    ],
     "hasProperty": [
         {
             "@type": [
-                "NominalCapacity",
+                "RatedCapacity",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
