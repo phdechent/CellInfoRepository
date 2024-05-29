@@ -7,7 +7,7 @@
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",
         "hasActiveMaterial": {
-            "@type": "LithiumNickelManganeseCobaltOxide 811",
+            "@type": "LithiumNickelManganeseCobaltOxide",
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
             }
