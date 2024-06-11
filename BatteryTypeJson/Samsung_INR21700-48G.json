@@ -16,6 +16,15 @@
     "schema:subjectOf": [
         {
             "@id": "https://doi.org/10.1109/itec.2019.8790449"
+        },
+        {
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9"
+        },
+        {
+            "@id": "https://doi.org/10.1109/ITEC.2019.8790449"
+        },
+        {
+            "@id": "https://doi.org/10.3390/BATTERIES5010023"
         }
     ],
     "hasCase": [

@@ -16,6 +16,9 @@
     "schema:subjectOf": [
         {
             "@id": "https://www.semanticscholar.org/paper/47f0a69588a997c00a57c4908c3132b06e440779"
+        },
+        {
+            "@id": "https://doi.org/VFajuo8BADpm3NYuJp/C"
         }
     ],
     "hasCase": [

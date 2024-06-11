@@ -13,6 +13,17 @@
             }
         }
     },
+    "schema:subjectOf": [
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ace1a7"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en16010211"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en15186803"
+        }
+    ],
     "hasCase": [
         {
             "@type": "R21700"

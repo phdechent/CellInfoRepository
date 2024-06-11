@@ -16,6 +16,15 @@
     "schema:subjectOf": [
         {
             "@id": "https://doi.org/10.1016/j.est.2023.107424"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries9010006"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries9060309"
+        },
+        {
+            "@id": "https://doi.org/10.3390/s23020753"
         }
     ],
     "hasCase": [

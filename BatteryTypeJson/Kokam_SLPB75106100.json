@@ -31,6 +31,21 @@
         },
         {
             "@id": "https://doi.org/10.1016/j.jpowsour.2021.230034"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ab8f5a"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ab90ac"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ab6985"
+        },
+        {
+            "@id": "https://doi.org/10.1149/2.0191912jes"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ac79d3"
         }
     ],
     "hasCase": [

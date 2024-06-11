@@ -13,6 +13,11 @@
             }
         }
     },
+    "schema:subjectOf": [
+        {
+            "@id": "https://doi.org/10.3390/en16114422"
+        }
+    ],
     "hasCase": [
         {
             "@type": "PrismaticCase"

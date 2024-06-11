@@ -175,6 +175,30 @@
         },
         {
             "@id": "https://doi.org/10.1016/j.actaastro.2021.04.042"
+        },
+        {
+            "@id": "https://doi.org/10.1149/2.0241512jes"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.est.2021.102777"
+        },
+        {
+            "@id": "https://doi.org/10.1149/2.0721508jes"
+        },
+        {
+            "@id": "https://doi.org/10.1002/er.4193"
+        },
+        {
+            "@id": "https://doi.org/10.1002/est2.141"
+        },
+        {
+            "@id": "https://doi.org/10.1109/access.2019.2949357"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en10122107"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en14175434"
         }
     ],
     "hasCase": [

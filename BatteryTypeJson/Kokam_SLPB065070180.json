@@ -16,6 +16,12 @@
     "schema:subjectOf": [
         {
             "@id": "https://doi.org/10.1016/j.jpowsour.2023.233295"
+        },
+        {
+            "@id": "https://doi.org/10.1002/batt.202200518"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/acdd1e"
         }
     ],
     "hasCase": [

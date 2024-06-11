@@ -16,6 +16,18 @@
     "schema:subjectOf": [
         {
             "@id": "https://doi.org/10.1016/j.electacta.2018.04.203"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ab78ff"
+        },
+        {
+            "@id": "https://doi.org/10.1016/J.ELECTACTA.2018.04.203"
+        },
+        {
+            "@id": "https://doi.org/10.3390/BATTERIES7010009"
+        },
+        {
+            "@id": "https://doi.org/10.1149/2.0401707jes"
         }
     ],
     "hasCase": [

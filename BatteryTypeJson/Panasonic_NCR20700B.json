@@ -13,6 +13,11 @@
             }
         }
     },
+    "schema:subjectOf": [
+        {
+            "@id": "https://doi.org/10.3390/batteries9060309"
+        }
+    ],
     "hasProperty": [
         {
             "@type": [

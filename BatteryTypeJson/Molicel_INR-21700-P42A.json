@@ -19,6 +19,15 @@
         },
         {
             "@id": "https://doi.org/10.1016/j.jpowsour.2022.232214"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries8020017"
+        },
+        {
+            "@id": "https://doi.org/10.3390/app13084681"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries8080076"
         }
     ],
     "hasCase": [

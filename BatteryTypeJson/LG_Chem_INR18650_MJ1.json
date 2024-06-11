@@ -73,6 +73,54 @@
         },
         {
             "@id": "https://doi.org/10.1016/j.jpowsour.2021.229523"
+        },
+        {
+            "@id": "https://doi.org/10.1088/1757-899X/643/1/012103"
+        },
+        {
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9"
+        },
+        {
+            "@id": "https://doi.org/10.1016/J.EGYAI.2021.100081"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/abc4c1"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en15186791"
+        },
+        {
+            "@id": "https://doi.org/10.1038/s41467-022-29837-w"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries8120285"
+        },
+        {
+            "@id": "https://doi.org/10.1007/s12541-023-00832-5"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/abdc71"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries9020139"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ac48c8"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ac3112"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/acada6"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/abad6b"
+        },
+        {
+            "@id": "https://doi.org/10.3390/en15239251"
+        },
+        {
+            "@id": "https://doi.org/10.3390/sym14102126"
         }
     ],
     "hasCase": [

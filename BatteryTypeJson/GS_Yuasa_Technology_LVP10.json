@@ -16,6 +16,9 @@
     "schema:subjectOf": [
         {
             "@id": "https://doi.org/10.15368/theses.2014.127"
+        },
+        {
+            "@id": "https://doi.org/10.15368/THESES.2014.127"
         }
     ],
     "hasCase": [

@@ -13,6 +13,11 @@
             }
         }
     },
+    "schema:subjectOf": [
+        {
+            "@id": "https://doi.org/10.11591/IJAAS.V8.I1.PP54-63"
+        }
+    ],
     "hasProperty": [
         {
             "@type": [
