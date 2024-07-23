@@ -10,7 +10,7 @@ To install the required dependencies, use the `requirements.txt` file:
 pip install -r requirements.txt
 ```
 
-For using the GraphRAG notebook, either an OpenAI API key needs to be installed or a local Ollama server should be set up.
+For using the GraphRAG notebook, either an OpenAI API key needs to be provided (see https://platform.openai.com/docs/quickstart) or a local Ollama server should be set up (see https://github.com/ollama/ollama/).
 
 ## Usage
 
