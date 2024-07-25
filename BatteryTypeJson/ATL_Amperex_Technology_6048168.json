@@ -2,7 +2,7 @@
     "@context": "https://w3id.org/emmo/domain/battery/context",
     "schema:name": "6048168",
     "schema:manufacturer": {
-        "schema:name": "ATL - Amperex Technology"
+        "schema:name": "ATL Amperex Technology"
     },
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",

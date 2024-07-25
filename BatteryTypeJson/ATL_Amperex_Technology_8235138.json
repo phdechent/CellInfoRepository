@@ -1,8 +1,8 @@
 {
     "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "8045135",
+    "schema:name": "8235138",
     "schema:manufacturer": {
-        "schema:name": "ATL - Amperex Technology"
+        "schema:name": "ATL Amperex Technology"
     },
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",
@@ -26,7 +26,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.4
+                "hasNumericalValue": 3.8
             },
             "hasMeasurementUnit": "emmo:AmpereHour",
             "schema:citation": {
@@ -95,7 +95,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.88
+                "hasNumericalValue": 0.76
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -109,7 +109,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.4
+                "hasNumericalValue": 3.8
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -123,7 +123,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.095
+                "hasNumericalValue": 0.085
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {
@@ -137,7 +137,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 2.2
+                "hasNumericalValue": 1.9
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -151,7 +151,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.4
+                "hasNumericalValue": 3.8
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -165,7 +165,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.008
+                "hasNumericalValue": 0.0085
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
@@ -179,7 +179,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.045
+                "hasNumericalValue": 0.035
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
@@ -193,7 +193,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.135
+                "hasNumericalValue": 0.138
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
