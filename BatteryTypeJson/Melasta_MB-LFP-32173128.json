@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "MB-LithiumIronPhosphate-32173128",
+    "schema:name": "MB-LFP-32173128",
     "schema:manufacturer": {
         "schema:name": "Melasta"
     },

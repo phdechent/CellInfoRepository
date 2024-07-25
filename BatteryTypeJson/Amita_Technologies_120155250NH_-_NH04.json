@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "120155250NH - NH04",
+    "schema:name": "120155250NH-NH04",
     "schema:manufacturer": {
         "schema:name": "Amita Technologies"
     },

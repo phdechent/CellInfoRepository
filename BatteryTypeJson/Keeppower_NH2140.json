@@ -2,7 +2,7 @@
     "@context": "https://w3id.org/emmo/domain/battery/context",
     "schema:name": "NH2140",
     "schema:manufacturer": {
-        "schema:name": "Keeppower"
+        "schema:name": "KeepPower"
     },
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",
