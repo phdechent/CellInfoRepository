@@ -179,7 +179,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": NaN
+                "hasNumericalValue": "NaN"
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
@@ -193,7 +193,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": NaN
+                "hasNumericalValue": "NaN"
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {

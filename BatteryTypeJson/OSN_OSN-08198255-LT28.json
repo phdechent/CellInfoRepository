@@ -123,7 +123,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": NaN
+                "hasNumericalValue": "NaN"
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {
