@@ -101,7 +101,7 @@
         },
         {
             "@type": [
-                "DischargeCurrent",
+                "DischargingCurrent",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
@@ -115,7 +115,7 @@
         },
         {
             "@type": [
-                "MaximumContinuousDischargeCurrent",
+                "MaximumContinuousDischargingCurrent",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
@@ -149,6 +149,20 @@
             "hasNumericalPart": {
                 "@type": "Real",
                 "hasNumericalValue": 1.16
+            },
+            "hasMeasurementUnit": "emmo:Ampere",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "MaximumContinuousChargingCurrent",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 11.6
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {

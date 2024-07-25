@@ -1,23 +1,18 @@
 {
     "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "LithiumTitanate 21Ah",
+    "schema:name": "HE-602030 NCA 55AH",
     "schema:manufacturer": {
-        "schema:name": "-"
+        "schema:name": "EAS Batteries"
     },
     "hasPositiveElectrode": {
         "@type": "PositiveElectrode",
         "hasActiveMaterial": {
-            "@type": "LithiumTitanate",
+            "@type": "LithiumNickelCobaltAluminiumOxide",
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
             }
         }
     },
-    "hasCase": [
-        {
-            "@type": "PrismaticCase"
-        }
-    ],
     "hasProperty": [
         {
             "@type": [
@@ -26,7 +21,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 21.0
+                "hasNumericalValue": 55.0
             },
             "hasMeasurementUnit": "emmo:AmpereHour",
             "schema:citation": {
@@ -40,7 +35,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 25000.0
+                "hasNumericalValue": 2000.0
             },
             "schema:citation": {
                 "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
@@ -53,7 +48,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 2.3
+                "hasNumericalValue": 3.6
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -67,7 +62,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 2.7
+                "hasNumericalValue": 4.2
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -81,7 +76,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 1.5
+                "hasNumericalValue": 3.0
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -90,12 +85,12 @@
         },
         {
             "@type": [
-                "DischargeCurrent",
+                "DischargingCurrent",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.2
+                "hasNumericalValue": 27.5
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -104,12 +99,12 @@
         },
         {
             "@type": [
-                "MaximumContinuousDischargeCurrent",
+                "MaximumContinuousDischargingCurrent",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 126.0
+                "hasNumericalValue": 110.0
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -123,7 +118,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.668
+                "hasNumericalValue": 1.5
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {
@@ -137,7 +132,21 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 4.2
+                "hasNumericalValue": 11.0
+            },
+            "hasMeasurementUnit": "emmo:Ampere",
+            "schema:citation": {
+                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+            }
+        },
+        {
+            "@type": [
+                "MaximumContinuousChargingCurrent",
+                "ConventionalProperty"
+            ],
+            "hasNumericalPart": {
+                "@type": "Real",
+                "hasNumericalValue": 110.0
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -151,7 +160,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.295
+                "hasNumericalValue": 0.203
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
@@ -160,26 +169,12 @@
         },
         {
             "@type": [
-                "Width",
+                "Diameter",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.0105
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Length",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": NaN
+                "hasNumericalValue": 0.06
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
