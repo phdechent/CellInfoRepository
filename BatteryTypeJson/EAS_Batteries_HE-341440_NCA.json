@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "HP-601300 LithiumNickelCobaltAluminiumOxide",
+    "schema:name": "HE-341440 NCA",
     "schema:manufacturer": {
         "schema:name": "EAS Batteries"
     },
@@ -21,7 +21,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 27.0
+                "hasNumericalValue": 10.0
             },
             "hasMeasurementUnit": "emmo:AmpereHour",
             "schema:citation": {
@@ -76,7 +76,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 2.7
+                "hasNumericalValue": 3.0
             },
             "hasMeasurementUnit": "emmo:Volt",
             "schema:citation": {
@@ -90,7 +90,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 54.0
+                "hasNumericalValue": 1.5
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -104,7 +104,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 270.0
+                "hasNumericalValue": 50.0
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -118,7 +118,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.98
+                "hasNumericalValue": 0.32
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {
@@ -132,7 +132,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 27.0
+                "hasNumericalValue": 5.0
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -146,7 +146,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 162.0
+                "hasNumericalValue": 20.0
             },
             "hasMeasurementUnit": "emmo:Ampere",
             "schema:citation": {
@@ -160,7 +160,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.159
+                "hasNumericalValue": 0.144
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
@@ -174,7 +174,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "Real",
-                "hasNumericalValue": 0.06
+                "hasNumericalValue": 0.034
             },
             "hasMeasurementUnit": "emmo:Metre",
             "schema:citation": {
