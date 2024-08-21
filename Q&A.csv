@@ -1,351 +1,351 @@
-,ID,query,answer
-0,1,What is the rated capacity of the 20AH battery from A123?,20.0 Ah#
-1,2,Can you tell me the rated capacity of the 26AH battery from A123?,26.0 Ah#
-2,3,How long is the cycle life of the 32AH battery from A123?,2500.0 cycles#
-3,4,How long is the cycle life of the NCR18650BF battery from Panasonic?,500.0 cycles#
-4,5,What’s the nominal voltage of the 5048168 battery from ATL Amperex Technology ?,3.7 V#
-5,6,What is the nominal voltage for the 5080122 battery from ATL Amperex Technology ?,3.7 V#
-6,7,What is the upper voltage limit of the AE8867220PMHRE battery from Advanced Electronics Energy?,4.2 V#
-7,8,Can you provide the upper voltage limit for the 120155250L-AL40 battery from Amita Technologies?,2.7 V#
-8,9,What is the lower voltage limit of the 120155250N-AM44E battery from Amita Technologies?,2.8 V#
-9,10,What’s the lower voltage limit for the 120155250NH-NH02 battery from Amita Technologies?,2.4 V#
-10,11,What is the discharge current of the BAK N21700CB-48 battery?,0.96 A#
-11,12,Can you tell me the maximum continuous discharge current for the BAK N21700CG-50 battery?,15 A#
-12,13,How heavy is the BMZ Sony BMZ 21700 40PS1 battery?,0.07 kg#
-13,14,What is the height of the BMZ 21700 42 PM battery from BMZ Sony?,0.0698 m#
-14,15,Can you provide the diameter of the BMZ Sony BMZ 21700 50EL battery?,0.0211 m#
-15,16,What is the charging current of the CALB CA100 battery?,30 A#
-16,17,What’s the cycle life of the CALB CA60 battery?,2000 cycles#
-17,18,What is the rated capacity of the CATL 50Ah battery?,50 Ah#
-18,19,How long is the cycle life for the 120Ah LiFePO4 battery from CATL?,Not available#
-19,20,What is the nominal voltage of the EVE Energy LF105-73103 battery?,3.2 V#
-20,21,Can you tell me the nominal voltage for the EVE Energy LF280K-72174 battery?,3.2 V#
-21,22,What’s the upper voltage limit of the Samsung INR21700-50E battery?,4.2 V#
-22,23,What is the lower voltage limit of the Samsung INR21700-48X battery?,2.5 V#
-23,24,How heavy is the LG Chem INR18650 MJ1 battery?,0.049 kg#
-24,25,What is the height of the LG Chem E78 battery?,Not available#
-25,26,What is the capacity of the A123 AMP20M1HD-A battery?,19.6 Ah#
-26,27,Can you provide the nominal voltage for the ATL Amperex Technology 6048168 battery?,3.7 V#
-27,28,What is the cycle life of the Amita Technologies 7799130N battery?,2000.0 cycles#
-28,29,How long is the charging time for the Amita Technologies 9299130N battery?,No answer#
-29,30,What is the upper voltage limit of the BAK N21700CG-50 battery?,4.2 V#
-30,31,Can you tell me the cycle life for the BMZ Sony BMZ 21700 50EL battery?,1000.0 cycles#
-31,32,What is the rated capacity of the CALB CA40 battery?,40 Ah#
-32,33,How heavy is the CATL 100Ah LiFePO4 battery?,2.27 kg#
-33,34,What is the nominal voltage of the CRJ Technology Limited RJ-LFP71173200-271 battery?,3.2 V#
-34,35,Can you provide the cycle life of the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,500.0 cycles#
-35,36,What’s the upper voltage limit of the E-One Moli Energy IBR-26700A battery?,4.2 V#
-36,37,What is the discharge current of the EAS Batteries HE-602030 NCA 55AH battery?,27 A#
-37,38,How long is the cycle life of the ECO POWER GROUP EC-AU228-NAH3L4 battery?,2000.0 cycles#
-38,39,What is the rated capacity of the ENAX ENS-XE36 battery?,3.6 Ah#
-39,40,Can you tell me the nominal voltage of the ENERDEL CE175-360 Moxie+ battery?,3.6 V#
-40,41,What is the charging current of the ENERTECH SPB 58253172P4 battery?,12.5 A#
-41,42,What is the height of the EVE Energy LF50 battery?,0.03 m#
-42,43,Can you provide the nominal voltage for the Eagle Picher Technologies LLC LP 34100 battery?,3.6 V#
-43,44,What’s the discharge current of the Eemb Co LP6548166 battery?,1.12 A#
-44,45,How heavy is the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,6.7 kg#
-45,46,What is the cycle life of the Hitachi L0578G1A1 battery?,1000.0 cycles#
-46,47,What’s the nominal voltage of the Hyundai SLI 261305 battery?,Not available#yyyMade up cell
-47,48,Can you tell me the capacity of the JIANGSU HIGEE HJLFP48173170E-120Ah battery?,120.0 Ah#
-48,49,What is the maximum continuous discharge current of the Kayo Battery Co.. Ltd KFL 32650-10P battery?,12 A#
-49,50,How long is the cycle life of the KeepPower KP 21700 battery?,500.0 cycles#
-50,51,What is the nominal voltage of the Kokam SLPB125255255H battery?,3.7 V#
-51,52,Can you provide the height of the Kokam SLPB140460330 battery?,0.0136 m#
-52,53,What’s the diameter of the LG Chem E63 battery?,Not available#
-53,54,What is the cycle life of the Lishen LP54173210-202Ah battery?,3000 cycles#
-54,55,How heavy is the Melasta MB-LFP-32173128 battery?,1.41 kg#
-55,56,What is the upper voltage limit of the Molicel INR-21700-P42A battery?,4.2 V#
-56,57,Can you tell me the nominal voltage of the Neosonic Li-Polymer Energy KMBNK06065108S battery?,3.7 V#
-57,58,What is the rated capacity of the OSN OSN-08198255-LT28 battery?,28.0 Ah#
-58,59,How long is the charging time for the Panasonic NCR20700B battery?,Not available#
-59,60,What’s the cycle life of the Quallion LLC QL015KA battery?,3000.0 cycles#
-60,61,What is the nominal voltage of the Saft MP174565 battery?,3.75 V#
-61,62,Can you provide the rated capacity of the Samsung INR21700-48X battery?,4.8 Ah#
-62,63,What is the height of the Sinopoly Sinopoly 100 Ah battery?,0.061 m#
-63,64,How heavy is the Thunder-Sky WB-LYP100AHA battery?,3.5 kg#
-64,65,What’s the nominal voltage of the VAPCELL INR21700 battery?,3.6 V#
-65,66,What is the upper voltage limit of the Wuhan Lisun Power Corp. Ltd ICP225054S battery?,4.2 V#
-66,67,Can you tell me the capacity of the Yinglong LithiumTitanate 40Ah battery?,40.0 Ah#
-67,68,What is the cycle life of the Yoku Energy (Shenzhen) Co 7545135 battery?,300.0 cycles#
-68,69,How long is the charging time for the Zenlabs Envia ENV35011-CRC battery?,Not available#
-69,70,What is the rated capacity of the A123 A123 50Ah battery?,50 Ah#
-70,71,Can you provide the nominal voltage for the ATL Amperex Technology 7048168 battery?,3.7 V#
-71,72,What’s the upper voltage limit of the Amita Technologies 120155250NH-NH02 battery?,4.2 V#
-72,73,What is the discharge current of the BMZ Sony BMZ 21700 52EM battery?,1.05#
-73,74,How heavy is the CALB L135F72 (CAM72) battery?,1.78 kg#
-74,75,What is the cycle life of the CATL 280Ah LiFePO4 battery?,12000 cycles#
-75,76,Can you tell me the nominal voltage of the COSLIGHT FP45173209A battery?,3.2 V#
-76,77,What is the rated capacity of the CRJ Technology Limited RJ-LFP71173200-271 battery?,271.0 Ah#
-77,78,How long is the cycle life for the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,500.0 cycles#
-78,79,What is the charging current of the E-One Moli Energy (Canada) Limited IBR-26700A battery?,0.7 A#
-79,80,Can you provide the cycle life of the EAS Batteries HE-602030 NCA 55AH battery?,2000 cycles#
-80,81,What’s the upper voltage limit of the ECO POWER GROUP EC-AU228-NAH3L4 battery?,3.65 V#
-81,82,What is the discharge current of the ENAX ENL-LM20 battery?,4 A#
-82,83,How heavy is the ENERDEL CE250-370 Moxie+ battery?,0.85 kg#
-83,84,What is the height of the ENERTECH SPB 58253172P4 battery?,0.0058 m#
-84,85,Can you tell me the nominal voltage of the EVE Energy LF56K battery?,3.2 V#
-85,86,What is the cycle life of the EVE Energy LF75 battery?,3500.0 cycles#
-86,87,How long is the cycle life of the EVE Energy LF90K battery?,3500.0 cycles#
-87,88,What is the rated capacity of the Eagle Picher Technologies LLC LP 32770 battery?,55.0 Ah#
-88,89,What’s the upper voltage limit of the Eemb Co LP956167-PCM-LD battery?,4.2 V#
-89,90,Can you provide the nominal voltage for the EnerDel INC HEV CELL battery?,3.6 V#
-90,91,What is the discharge current of the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,100 A#
-91,92,How heavy is the GS Yuasa Technology LVP10 battery?,0.49 kg#
-92,93,What is the cycle life of the Hangzhou Future Power Technology Co FT655894P battery?,500.0 cycles#
-93,94,Can you tell me the capacity of the Headway Group HW38140S battery?,12.0 Ah#
-94,95,What is the charging current of the Hitachi L15A0N2C1 battery?,3.0 A#
-95,96,What’s the nominal voltage of the Hypercell NCR20700 battery?,3.6 V#
-96,97,How long is the cycle life of the JIANGSU HIGEE HJLFP48173170E-152Ah battery?,3000.0 cycles#
-97,98,What is the discharge current of the Jiangsu FREY FREY36130290-120Ah battery?,120 A#
-98,99,Can you provide the rated capacity of the KeepPower KP 21700 battery?,4.0 Ah#
-99,100,What is the height of the Kokam SLPB125255255H battery?,0.013 m#
-100,101,How heavy is the LG Chem E78 battery?,Not available#
-101,102,What is the cycle life of the Lishen LP54173210-202Ah battery?,3000 cycles#yyy
-102,103,Can you tell me the rated capacity of the Melasta MB-LFP-32173128 battery?,60 Ah#
-103,104,What is the upper voltage limit of the Molicel INR-21700-P42A battery?,4.2 V#yyy
-104,105,How long is the cycle life of the Neosonic Li-Polymer Energy KMBNK06065108S battery?,500.0 cycles#
-105,106,What is the nominal voltage of the OSN OSN-08198255-LT28 battery?,2.4 V#
-106,107,Can you provide the rated capacity of the Panasonic NCR20700B battery?,4.0 Ah#
-107,108,What’s the discharge current of the Quallion LLC QL015KA battery?,15 A#
-108,109,What is the nominal voltage of the Saft MP174565 battery?,3.75 V#yyy
-109,110,Can you tell me the cycle life of the Samsung INR21700-48X battery?,500.0 cycles#
-110,111,How heavy is the Sinopoly Sinopoly 100 Ah battery?,3.15 kg#
-111,112,What is the height of the Thunder-Sky WB-LYP100AHA battery?,0.061 m#
-112,113,What is the upper voltage limit of the VAPCELL INR21700 battery?,4.2 V#
-113,114,Can you provide the capacity of the Wuhan Lisun Power Corp. Ltd ICP225054S battery?,5.0 Ah#
-114,115,What’s the cycle life of the Yinglong LithiumTitanate 40Ah battery?,25000.0 cycles#
-115,116,What is the charging current of the Yoku Energy (Shenzhen) Co 7545135 battery?,0.84 A#
-116,117,How long is the charging time for the Zenlabs Envia ENV35011-CRC battery?,Not available#yyy
-117,118,What is the rated capacity of the A123 A123 60Ah battery?,#yyymade up cell
-118,119,Can you tell me the nominal voltage of the ATL Amperex Technology 8048168 battery?,x#yyymade up cell
-119,120,What is the upper voltage limit of the Amita Technologies 120155250NH-NH02 battery?,4.2 V#yyy
-120,121,How heavy is the BMZ Sony BMZ 21700 55EM battery?,x #yyy made up cell
-121,122,What is the cycle life of the CALB L135F72 (CAM72) battery?,2000.0 cycles#
-122,123,Can you provide the nominal voltage for the CATL 280Ah LiFePO4 battery?,3.2 V#
-123,124,What is the discharge current of the COSLIGHT FP45173209A battery?,450 A#
-124,125,How long is the cycle life for the CRJ Technology Limited RJ-LFP71173200-271 battery?,6000 cycles#
-125,126,What’s the upper voltage limit of the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,4.2 V#
-126,127,Can you provide the rated capacity of the E-One Moli Energy (Canada) Limited IBR-26700A battery?,3.5 Ah#
-127,128,What is the nominal voltage of the EAS Batteries HE-602030 NCA 55AH battery?,3.6 V#
-128,129,How heavy is the ECO POWER GROUP EC-AU228-NAH3L4 battery?,4.2 kg#
-129,130,What is the cycle life of the ENAX ENL-LM20 battery?,400 cycles#
-130,131,Can you tell me the charging current of the ENERDEL CE250-370 Moxie+ battery?,3.5 A#
-131,132,What’s the nominal voltage of the ENERTECH SPB 58253172P4 battery?,3.7 V#
-132,133,What is the height of the EVE Energy LF56K battery?,0.03 m#
-133,134,How long is the cycle life of the EVE Energy LF75 battery?,3500.0 cycles#
-134,135,What is the rated capacity of the EVE Energy LF90K battery?,91.5 Ah#
-135,136,Can you provide the nominal voltage for the Eagle Picher Technologies LLC LP 32770 battery?,3.7 V#
-136,137,What is the discharge current of the Eemb Co LP956167-PCM-LD battery?,0.8 A#
-137,138,How heavy is the EnerDel INC HEV CELL battery?,0.446 kg#
-138,139,What is the cycle life of the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,3000 cycles#
-139,140,Can you tell me the capacity of the GS Yuasa Technology LVP10 battery?,11.5 Ah#
-140,141,What is the charging current of the Hangzhou Future Power Technology Co FT655894P battery?,1.0 A#
-141,142,How long is the cycle life of the Headway Group HW38140S battery?,1500.0 cycles#
-142,143,What is the rated capacity of the Hitachi L15A0N2C1 battery?,15.0 Ah#
-143,144,Can you provide the nominal voltage for the Hypercell NCR20700 battery?,3.6 V#
-144,145,What is the discharge current of the JIANGSU HIGEE HJLFP48173170E-152Ah battery?,76 A#
-145,146,How heavy is the Jiangsu FREY FREY36130290-120Ah battery?,2.86 kg#
-146,147,What is the cycle life of the KeepPower KP 21700 battery?,500.0 cycles#
-147,148,Can you tell me the height of the Kokam SLPB125255255H battery?,0.013 m#
-148,149,What’s the nominal voltage of the LG Chem E78 battery?,Not available#
-149,150,What is the charging current of the Lishen LP54173210-202Ah battery?,101 A#
-150,151,How long is the cycle life of the Melasta MB-LFP-32173128 battery?,2000.0 cycles#
-151,152,What is the rated capacity of the Molicel INR-21700-P42A battery?,4.2 Ah#
-152,153,Can you provide the upper voltage limit for the Neosonic Li-Polymer Energy KMBNK06065108S battery?,4.2 V#
-153,154,What is the nominal voltage of the OSN OSN-08198255-LT28 battery?,2.4 volts#yyy
-154,155,How heavy is the Panasonic NCR20700B battery?,0.063 kg#
-155,156,What is the cycle life of the Quallion LLC QL015KA battery?,3000.0 cycles#
-156,157,Can you tell me the height of the Saft MP174565 battery?,0.0181 m#
-157,158,What is the upper voltage limit of the Samsung INR21700-48X battery?,4.2 V#
-158,159,How long is the charging time for the Sinopoly Sinopoly 100 Ah battery?,Not available#
-159,160,What is the rated capacity of the Thunder-Sky WB-LYP100AHA battery?,100.0 Ah#
-160,161,Can you provide the cycle life of the VAPCELL INR21700 battery?,Not available#
-161,162,What’s the discharge current of the Wuhan Lisun Power Corp. Ltd ICP225054S battery?,1 A#
-162,163,What is the nominal voltage of the Yinglong LithiumTitanate 40Ah battery?,2.3 V#
-163,164,How heavy is the Yoku Energy (Shenzhen) Co 7545135 battery?,0.078 kg#
-164,165,What is the charging current of the Zenlabs Envia ENV35011-CRC battery?,2.12 A#
-165,166,What is the rated capacity of the A123 A123 70Ah battery?,Not available# Made up cell
-166,167,Can you provide the nominal voltage for the ATL Amperex Technology 9048168 battery?,Not available# Made up cell
-167,168,What is the cycle life of the Amita Technologies 120155250NH-NH02 battery?,3000.0 cycles#
-168,169,How heavy is the BMZ Sony BMZ 21700 60EM battery?,Not available# Made up cell
-169,170,What is the discharge current of the CALB L135F72 (CAM72) battery?,36 A#
-170,171,Can you tell me the nominal voltage of the CATL 300Ah LiFePO4 battery?,Not available# Made up cell
-171,172,What is the upper voltage limit of the COSLIGHT FP45173209A battery?,3.65 V#
-172,173,How long is the cycle life for the CRJ Technology Limited RJ-LFP71173200-271 battery?,6000.0 cycles#yyy
-173,174,What is the rated capacity of the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,4.0 Ah#
-174,175,Can you provide the nominal voltage for the E-One Moli Energy (Canada) Limited IBR-26700A battery?,3.75 V#
-175,176,What is the charging current of the EAS Batteries HE-602030 NCA 55AH battery?,11 A#
-176,177,How heavy is the ECO POWER GROUP EC-AU228-NAH3L4 battery?,4.2 kg#yyy
-177,178,What is the cycle life of the ENAX ENL-LM20 battery?,400 cycles#
-178,179,Can you tell me the capacity of the ENERDEL CE250-370 Moxie+ battery?,17.5 Ah#
-179,180,What is the nominal voltage of the ENERTECH SPB 58253172P4 battery?,3.7 V#yyy
-180,181,How long is the cycle life of the EVE Energy LF56K battery?,3500.0 cycles#
-181,182,What is the rated capacity of the EVE Energy LF75 battery?,75.0 Ah#
-182,183,Can you provide the nominal voltage for the EVE Energy LF90K battery?,3.2 V#
-183,184,What is the discharge current of the Eagle Picher Technologies LLC LP 32770 battery?,11 A#
-184,185,What is the height of the Eemb Co LP956167-PCM-LD battery?,0.0095 m#
-185,186,How heavy is the EnerDel INC HEV CELL battery?,0.446 kg#yyy
-186,187,What is the cycle life of the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,3000 cycles #yyy
-187,188,Can you tell me the capacity of the GS Yuasa Technology LVP10 battery?,11.5 Ah#yyy
-188,189,What is the charging current of the Hangzhou Future Power Technology Co FT655894P battery?,1.0 A#yyy
-189,190,How long is the cycle life of the Headway Group HW38140S battery?,1500.0 cycles#yyy
-190,191,What is the rated capacity of the Hitachi L15A0N2C1 battery?,x#yyy
-191,192,Can you provide the nominal voltage for the Hypercell NCR20700 battery?,3.6 V#yyy
-192,193,What is the discharge current of the JIANGSU HIGEE HJLFP48173170E-152Ah battery?,x#yyy
-193,194,How heavy is the Jiangsu FREY FREY36130290-120Ah battery?,2.86 kg#yyy
-194,195,What is the cycle life of the KeepPower KP 21700 battery?,500.0 cycles#yyy
-195,196,Can you tell me the height of the Kokam SLPB125255255H battery?,0.013 m#yyy
-196,197,What’s the nominal voltage of the LG Chem E78 battery?,x#yyy
-197,198,What is the charging current of the Lishen LP54173210-202Ah battery?,x#yyy
-198,199,How long is the cycle life of the Melasta MB-LFP-32173128 battery?,2000.0 cycles#yyy
-199,200,What is the rated capacity of the Molicel INR-21700-P42A battery?,4.2 Ah#yyy
-200,201,What is the rated capacity of the A123 20AH battery?,20 Ah#
-201,202,How long does the A123 20AH battery last in terms of cycle life?,1000.0 cycles#
-202,203,Can you tell me the nominal voltage of the A123 20AH battery?,3.3 V#
-203,204,What's the maximum continuous discharge current for the ATL Amperex 5048168 battery?,3.8 A#
-204,205,What's the mass of the Advanced Electronics Energy AE8867220PMHRE battery?,0.258 kg#
-205,206,How tall is the Amita Technologies 120155250L-AL40 battery?,0.012 m#
-206,207,What is the diameter of the AutoEnergy 50Ah 55380 battery?,0.055 m#
-207,208,What is the upper voltage limit for the BAK 26650HC2 battery?,4.2 V#
-208,209,What's the lower voltage limit for the BMZ Sony 21700 40PS1 battery?,2.5 V#
-209,210,How much discharge current can the CALB CA40 battery handle?,80 A#
-210,211,What's the charging current of the CATL 100Ah LiFePO4 battery?,50 A#
-211,212,Tell me the rated capacity of the COSLIGHT FP45173209A battery.,150.0 Ah#
-212,213,How many cycles does the CRJ Technology RJ-LFP71173200-271 battery last?,6000.0 cycles#yyy
-213,214,What nominal voltage does the Dongguan K-Tech INR21700P-4000mAh battery have?,3.7 V#
-214,215,What's the upper voltage limit for the E-One Moli IBR-26700A battery?,4.2 A#
-215,216,What's the lower voltage limit for the EAS Batteries HE-341440 battery?,3 V#
-216,217,How much discharge current does the ECO POWER EC-AU228-NAH3L4 battery support?,456 A#yyy
-217,218,What's the max continuous discharge for the ELERIX EX-T30K battery?,180 A#
-218,219,How heavy is the ENAX ENL-LM20 battery?,0.55 kg#yyy
-219,220,What's the charging current of the ENERDEL CE175-360 Moxie+ battery?,3.5 A#
-220,221,How tall is the ENERTECH 58253172V4 30Ah battery?,0.0058 m#
-221,222,What's the diameter of the EVE Energy D12 battery?,Not cylindrical#
-222,223,What's the capacity rating for the Eagle Picher LP 32770 battery?,55.0 Ah#
-223,224,How many cycles can the Eemb Co LP1167220F battery go through?,2000.0 cycles#
-224,225,What's the nominal voltage of the GBS LFP200Ah-B battery?,3.2 V#
-225,226,What's the upper voltage limit for the GS Yuasa LVP10 battery?,4.2 V#
-226,227,What's the lower voltage limit for the General Electronics GEB 26650 battery?,2.75 V#
-227,228,How much discharge current can the Great Power GP 21700 battery handle?,7.05 A#
-228,229,What's the max continuous discharge current for the Hypercell NCR20700 battery?,3.4 A#
-229,230,How much does the Jiangsu Frey 36130290-100PF battery weigh?,3 kg#
-230,231,What's the charging current for the Kayo KFL 32650 battery?,1.6 A#
-231,232,How tall is the Kokam SLPB065070180 battery?,0.0066 m#
-232,233,What's the diameter of the LG Chem E78 battery?,Not available#
-233,234,Tell me the rated capacity of the Lishen LR2170SA battery.,4 Ah#
-234,235,What's the cycle life of the Melasta MB-IFR26650 battery?,2000.0 cycles#
-235,236,What's the nominal voltage of the Molicel INR-21700-P42A battery?,3.6 V#
-236,237,What's the upper voltage limit for the Neosonic KMBNK06035195S battery?,4.2 V#
-237,238,What's the lower voltage limit for the OSN 08198255-LT28 battery?,1.6 V#
-238,239,How much discharge current does the Panasonic NCR18650BF battery support?,3.25 A#
-239,240,What's the max continuous discharge for the Saft VES100 battery?,84 A#
-240,241,How heavy is the Samsung INR21700-30T battery?,0.069 kg#
-241,242,What's the charging current of the Sinopoly 400 Ah battery?,132.0 A#
-242,243,How tall is the Thunder-Sky WB-LYP1000AHC battery?,0.13 m#
-243,244,What's the diameter of the VAPCELL INR21700 battery?,0.021 m#
-244,245,What's the capacity rating for the Yinglong LithiumTitanate 30Ah battery?,30.0 Ah#
-245,246,How many cycles can the Zenlabs ENV23426-XP battery go through?,1000.0 cycles#
-246,247,What's the nominal voltage of the Advanced Electronics Energy AE8867220PMHRE battery?,3.7 V#
-247,248,What's the upper voltage limit for the A123 50AH battery?,3.65 V#
-248,249,What's the lower voltage limit for the ATL Amperex 5080122 battery?,3 V#
-249,250,How much discharge current can the BMZ TerraE INR 21700 50 E battery handle?,15 A#
-250,251,What's the rated capacity of the A123 AMP20M1HD-A battery?,19.6 Ah#
-251,252,How many cycles does the ATL Amperex 5048168 battery last?,300.0 cycles#
-252,253,What is the nominal voltage of the ATL Amperex 5080122 battery?,3.7 V#
-253,254,What is the upper voltage limit of the ATL Amperex 6048168 battery?,4.2 V#
-254,255,What is the lower voltage limit of the ATL Amperex 7048168 battery?,3.0 V#
-255,256,What's the discharge current for the ATL Amperex 8045135 battery?,0.88 A#
-256,257,What is the max continuous discharge current for the ATL Amperex 8235138 battery?,3.8 A#
-257,258,How much does the ATL Amperex 8845135 battery weigh?,0.105 kg#
-258,259,What's the charging current of the Advanced Electronics Energy AE8867220PMHRE battery?,4.85 A#
-259,260,How tall is the Amita Technologies 120155250L-AL40 battery?,0.012 m#yyy
-260,261,What is the diameter of the Amita Technologies 120155250N-AM44E battery?,Not cylindrical#
-261,262,Tell me the rated capacity of the Amita Technologies 120155250NH-NH02 battery.,45.0 Ah#
-262,263,What's the cycle life of the Amita Technologies 120155250NH-NH04 battery?,3000#
-263,264,What's the nominal voltage of the Amita Technologies 120155250P-LF01 battery?,3.2 V#
-264,265,What is the upper voltage limit for the Amita Technologies 5099130NRS battery?,4.2 V#
-265,266,What's the lower voltage limit for the Amita Technologies 7799130N battery?,2.8 V#
-266,267,How much discharge current does the Amita Technologies 7799130ND battery support?,35.1 A#
-267,268,What's the max continuous discharge for the Amita Technologies 7799130P battery?,37.5 A#
-268,269,How heavy is the Amita Technologies 8399130NE battery?,0.235 kg#
-269,270,What's the charging current of the Amita Technologies 9299130N battery?,13 A#
-270,271,How tall is the Amita Technologies 9299130NE battery?,0.0092 m#
-271,272,What's the diameter of the Amprius Wuxi Lead ANW3.6-455055 battery?,Not cylindrical#
-272,273,What's the capacity rating for the Amprius Wuxi Lead E485795CH battery?,5.0 Ah#
-273,274,How many cycles can the AutoEnergy 50Ah 55380 battery go through?,Not available#
-274,275,What's the nominal voltage of the Auto Energy Technology YT185185185 battery?,2.4 V#
-275,276,What's the upper voltage limit for the BAK 26650HC2 battery?,4.2 V#
-276,277,What's the lower voltage limit for the BAK N21700CB-48 battery?,2.5 V#
-277,278,How much discharge current can the BAK N21700CG-50 battery handle?,15 A#yyy
-278,279,What's the max continuous discharge current for the BMZ Sony 21700 50EL battery?,14 A#
-279,280,How much does the BMZ Sony 21700 52E battery weigh?,0.07 kg#
-280,281,What's the charging current for the BMZ Sony 21700 52EM battery?,1.05 A#
-281,282,How tall is the BMZ TerraE INR 21700 50 E battery?,0.0709 m#
-282,283,What's the diameter of the BMZ TerraE INR 21700 58 E battery?,0.0217 m#
-283,284,Tell me the rated capacity of the Battronix LCB8570170EC1 battery.,12.6 Ah#
-284,285,What's the cycle life of the CALB 26650FS3 battery?,2000.0 cycles#
-285,286,What's the nominal voltage of the CALB CA100 battery?,3.2 V#
-286,287,What's the upper voltage limit for the CALB CA40 battery?,3.65 A#
-287,288,What's the lower voltage limit for the CALB CA400 battery?,2.5 V#
-288,289,How much discharge current does the CALB CA60 battery support?,120 A#
-289,290,What's the max continuous discharge for the CALB CAM72 battery?,216 A#
-290,291,How heavy is the CALB L135F72 (CAM72) battery?,1.78 kg#
-291,292,What's the charging current of the CALB L148N50B battery?,25.0 A#
-292,293,How tall is the CALB L160F100B battery?,0.0499 m#
-293,294,What's the diameter of the CALB LFP176Ah battery?,Not cylindrical#
-294,295,What's the capacity rating for the CALB SE180AHA battery?,180.0 Ah#
-295,296,How many cycles can the CATL 100Ah LiFePO4 battery go through?,Not available#
-296,297,What's the nominal voltage of the CATL 120Ah LiFePO4 battery?,3.2 V#
-297,298,What's the upper voltage limit for the CATL 280Ah LiFePO4 battery?,3.65 V#
-298,299,What's the lower voltage limit for the CATL 50Ah CATL 811 battery?,4.2 V#
-299,300,How much discharge current can the CATL LEP54H4K1 battery handle?,202 A#
-300,301,What's the maximum continuous discharge current for the CATL LEP71H3L7-01 battery?,302 A#
-301,302,How much does the COSLIGHT FP45173209A battery weigh?,3.84 kg#
-302,303,What's the charging current of the CRJ Technology RJ-LFP71173200-271 battery?,54.2 A#
-303,304,How tall is the Chengdu Jianzhong ICR26650 battery?,0.065 m#
-304,305,What is the diameter of the Dongguan K-Tech INR21700P-4000mAh battery?,0.0218 m#
-305,306,Tell me the rated capacity of the E-One Moli IBR-26700A battery.,3.5 Ah#
-306,307,What's the cycle life of the EAS Batteries HE-341440 battery?,2000 cycles#
-307,308,What's the nominal voltage of the EAS Batteries HE-602030 battery?,3.6 V#
-308,309,What's the upper voltage limit for the EAS Batteries HP-601300 battery?,4.2 V#
-309,310,What's the lower voltage limit for the EAS Batteries UHP-341440 battery?,3 V#
-310,311,How much discharge current does the ECO POWER EC-AU228-NAH3L4 battery support?,456 A#
-311,312,What's the max continuous discharge for the ELERIX EX-T30K battery?,180 A#yyy
-312,313,How heavy is the ENAX ENL-LM20 battery?,0.55 kg#
-313,314,What's the charging current of the ENAX ENS-XE36 battery?,0.78 A#
-314,315,How tall is the ENAX ENW-LM08 battery?,0.0055 m#
-315,316,What's the diameter of the ENERDEL CE175-360 Moxie+ battery?,Not cylindrical#
-316,317,What's the capacity rating for the ENERDEL CE250-370 Moxie+ battery?,17.5 Ah#
-317,318,How many cycles can the ENERDEL CP160-365 Moxie+ battery go through?,4000 cycles#
-318,319,What's the nominal voltage of the ENERTECH 58253172V4 30Ah battery?,3.7 V#
-319,320,What's the upper voltage limit for the ENERTECH SPB704684 battery?,4.2 V#
-320,321,What's the lower voltage limit for the ENERTECH SPB 58253172EG1 17Ah battery?,2.5 V#
-321,322,How much discharge current can the ENERTECH SPB 58253172P3 23Ah battery handle?,115 A#
-322,323,What's the max continuous discharge current for the ENERTECH SPB 58253172P4 battery?,75 A#
-323,324,How much does the ENERTECH SPB 58253172V2 22Ah battery weigh?,0.48 kg#
-324,325,What's the charging current for the ENERTECH SPB 58253172V3 25Ah battery?,8.3 A#
-325,326,How tall is the ENERTECH SPB 59235172PG1 battery?,0.0058 m#
-326,327,What's the diameter of the ENERTECH SPB 70115145 12Ah battery?,Not cylindrical#
-327,328,Tell me the rated capacity of the ENERTECH SPB 90190260V2 40Ah battery.,40 Ah#
-328,329,What's the cycle life of the EVE Energy D11 battery?,3000.0 cycles#
-329,330,What's the nominal voltage of the EVE Energy D12 battery?,3.68 V#
-330,331,What's the upper voltage limit for the EVE Energy D13 battery?,4.2 V#
-331,332,What's the lower voltage limit for the EVE Energy D21 battery?,2.7 V#
-332,333,How much discharge current does the EVE Energy INP42P battery support?,84 A#
-333,334,What's the max continuous discharge for the EVE Energy INP50E battery?,100 A#
-334,335,How heavy is the EVE Energy INP60E battery?,0.87 kg#
-335,336,What's the charging current of the EVE Energy INP72P battery?,14.4 A#
-336,337,How tall is the EVE Energy INP80E battery?,0.039 m#
-337,338,What's the diameter of the EVE Energy LF105-73103 battery?,Not cylindrical#
-338,339,What's the capacity rating for the EVE Energy LF280-72174 battery?,280.0 Ah#
-339,340,How many cycles can the EVE Energy LF280K-72174 battery go through?,2500.0 cycles#
-340,341,What's the nominal voltage of the EVE Energy LF280N-72174 battery?,3.2 V#
-341,342,What's the upper voltage limit for the EVE Energy LF304-72174 battery?,3.65 V#
-342,343,What's the lower voltage limit for the EVE Energy LF50 battery?,2.0 V#
-343,344,How much discharge current can the EVE Energy LF56K battery handle?,56 A#
-344,345,What's the max continuous discharge current for the EVE Energy LF75 battery?,75 A#
-345,346,How much does the EVE Energy LF90K battery weigh?,1.99 kg#
-346,347,What's the charging current for the Eagle Picher LP 32975 battery?,6.0 A#
-347,348,How tall is the Eagle Picher LP 33037 battery?,0.034 m#
-348,349,What's the diameter of the Eagle Picher LP 33081 battery?,Not cylindrical#
-349,350,Tell me the rated capacity of the Eagle Picher LP 33330 battery.,6.0 Ah#
+ID,query,answer
+1,What is the rated capacity of the 20AH battery from A123?,20.0 Ah
+2,Can you tell me the rated capacity of the 26AH battery from A123?,26.0 Ah
+3,How long is the cycle life of the 32AH battery from A123?,2500.0 cycles
+4,How long is the cycle life of the NCR18650BF battery from Panasonic?,500.0 cycles
+5,What’s the nominal voltage of the 5048168 battery from ATL Amperex Technology ?,3.7 V
+6,What is the nominal voltage for the 5080122 battery from ATL Amperex Technology ?,3.7 V
+7,What is the upper voltage limit of the AE8867220PMHRE battery from Advanced Electronics Energy?,4.2 V
+8,Can you provide the upper voltage limit for the 120155250L-AL40 battery from Amita Technologies?,2.7 V
+9,What is the lower voltage limit of the 120155250N-AM44E battery from Amita Technologies?,2.8 V
+10,What’s the lower voltage limit for the 120155250NH-NH02 battery from Amita Technologies?,2.4 V
+11,What is the discharge current of the BAK N21700CB-48 battery?,0.96 A
+12,Can you tell me the maximum continuous discharge current for the BAK N21700CG-50 battery?,15 A
+13,How heavy is the BMZ Sony BMZ 21700 40PS1 battery?,0.07 kg
+14,What is the height of the BMZ 21700 42 PM battery from BMZ Sony?,0.0698 m
+15,Can you provide the diameter of the BMZ Sony BMZ 21700 50EL battery?,0.0211 m
+16,What is the charging current of the CALB CA100 battery?,30 A
+17,What’s the cycle life of the CALB CA60 battery?,2000 cycles
+18,What is the rated capacity of the CATL 50Ah battery?,50 Ah
+19,How long is the cycle life for the 120Ah LiFePO4 battery from CATL?,Not available
+20,What is the nominal voltage of the EVE Energy LF105-73103 battery?,3.2 V
+21,Can you tell me the nominal voltage for the EVE Energy LF280K-72174 battery?,3.2 V
+22,What’s the upper voltage limit of the Samsung INR21700-50E battery?,4.2 V
+23,What is the lower voltage limit of the Samsung INR21700-48X battery?,2.5 V
+24,How heavy is the LG Chem INR18650 MJ1 battery?,0.049 kg
+25,What is the height of the LG Chem E78 battery?,Not available
+26,What is the capacity of the A123 AMP20M1HD-A battery?,19.6 Ah
+27,Can you provide the nominal voltage for the ATL Amperex Technology 6048168 battery?,3.7 V
+28,What is the cycle life of the Amita Technologies 7799130N battery?,2000.0 cycles
+29,How long is the charging time for the Amita Technologies 9299130N battery?,No answer
+30,What is the upper voltage limit of the BAK N21700CG-50 battery?,4.2 V
+31,Can you tell me the cycle life for the BMZ Sony BMZ 21700 50EL battery?,1000.0 cycles
+32,What is the rated capacity of the CALB CA40 battery?,40 Ah
+33,How heavy is the CATL 100Ah LiFePO4 battery?,2.27 kg
+34,What is the nominal voltage of the CRJ Technology Limited RJ-LFP71173200-271 battery?,3.2 V
+35,Can you provide the cycle life of the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,500.0 cycles
+36,What’s the upper voltage limit of the E-One Moli Energy IBR-26700A battery?,4.2 V
+37,What is the discharge current of the EAS Batteries HE-602030 NCA 55AH battery?,27 A
+38,How long is the cycle life of the ECO POWER GROUP EC-AU228-NAH3L4 battery?,2000.0 cycles
+39,What is the rated capacity of the ENAX ENS-XE36 battery?,3.6 Ah
+40,Can you tell me the nominal voltage of the ENERDEL CE175-360 Moxie+ battery?,3.6 V
+41,What is the charging current of the ENERTECH SPB 58253172P4 battery?,12.5 A
+42,What is the height of the EVE Energy LF50 battery?,0.03 m
+43,Can you provide the nominal voltage for the Eagle Picher Technologies LLC LP 34100 battery?,3.6 V
+44,What’s the discharge current of the Eemb Co LP6548166 battery?,1.12 A
+45,How heavy is the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,6.7 kg
+46,What is the cycle life of the Hitachi L0578G1A1 battery?,1000.0 cycles
+47,What’s the nominal voltage of the Hyundai SLI 261305 battery?,Not availableyyyMade up cell
+48,Can you tell me the capacity of the JIANGSU HIGEE HJLFP48173170E-120Ah battery?,120.0 Ah
+49,What is the maximum continuous discharge current of the Kayo Battery Co.. Ltd KFL 32650-10P battery?,12 A
+50,How long is the cycle life of the KeepPower KP 21700 battery?,500.0 cycles
+51,What is the nominal voltage of the Kokam SLPB125255255H battery?,3.7 V
+52,Can you provide the height of the Kokam SLPB140460330 battery?,0.0136 m
+53,What’s the diameter of the LG Chem E63 battery?,Not available
+54,What is the cycle life of the Lishen LP54173210-202Ah battery?,3000 cycles
+55,How heavy is the Melasta MB-LFP-32173128 battery?,1.41 kg
+56,What is the upper voltage limit of the Molicel INR-21700-P42A battery?,4.2 V
+57,Can you tell me the nominal voltage of the Neosonic Li-Polymer Energy KMBNK06065108S battery?,3.7 V
+58,What is the rated capacity of the OSN OSN-08198255-LT28 battery?,28.0 Ah
+59,How long is the charging time for the Panasonic NCR20700B battery?,Not available
+60,What’s the cycle life of the Quallion LLC QL015KA battery?,3000.0 cycles
+61,What is the nominal voltage of the Saft MP174565 battery?,3.75 V
+62,Can you provide the rated capacity of the Samsung INR21700-48X battery?,4.8 Ah
+63,What is the height of the Sinopoly Sinopoly 100 Ah battery?,0.061 m
+64,How heavy is the Thunder-Sky WB-LYP100AHA battery?,3.5 kg
+65,What’s the nominal voltage of the VAPCELL INR21700 battery?,3.6 V
+66,What is the upper voltage limit of the Wuhan Lisun Power Corp. Ltd ICP225054S battery?,4.2 V
+67,Can you tell me the capacity of the Yinglong LithiumTitanate 40Ah battery?,40.0 Ah
+68,What is the cycle life of the Yoku Energy (Shenzhen) Co 7545135 battery?,300.0 cycles
+69,How long is the charging time for the Zenlabs Envia ENV35011-CRC battery?,Not available
+70,What is the rated capacity of the A123 A123 50Ah battery?,50 Ah
+71,Can you provide the nominal voltage for the ATL Amperex Technology 7048168 battery?,3.7 V
+72,What’s the upper voltage limit of the Amita Technologies 120155250NH-NH02 battery?,4.2 V
+73,What is the discharge current of the BMZ Sony BMZ 21700 52EM battery?,1.05
+74,How heavy is the CALB L135F72 (CAM72) battery?,1.78 kg
+75,What is the cycle life of the CATL 280Ah LiFePO4 battery?,12000 cycles
+76,Can you tell me the nominal voltage of the COSLIGHT FP45173209A battery?,3.2 V
+77,What is the rated capacity of the CRJ Technology Limited RJ-LFP71173200-271 battery?,271.0 Ah
+78,How long is the cycle life for the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,500.0 cycles
+79,What is the charging current of the E-One Moli Energy (Canada) Limited IBR-26700A battery?,0.7 A
+80,Can you provide the cycle life of the EAS Batteries HE-602030 NCA 55AH battery?,2000 cycles
+81,What’s the upper voltage limit of the ECO POWER GROUP EC-AU228-NAH3L4 battery?,3.65 V
+82,What is the discharge current of the ENAX ENL-LM20 battery?,4 A
+83,How heavy is the ENERDEL CE250-370 Moxie+ battery?,0.85 kg
+84,What is the height of the ENERTECH SPB 58253172P4 battery?,0.0058 m
+85,Can you tell me the nominal voltage of the EVE Energy LF56K battery?,3.2 V
+86,What is the cycle life of the EVE Energy LF75 battery?,3500.0 cycles
+87,How long is the cycle life of the EVE Energy LF90K battery?,3500.0 cycles
+88,What is the rated capacity of the Eagle Picher Technologies LLC LP 32770 battery?,55.0 Ah
+89,What’s the upper voltage limit of the Eemb Co LP956167-PCM-LD battery?,4.2 V
+90,Can you provide the nominal voltage for the EnerDel INC HEV CELL battery?,3.6 V
+91,What is the discharge current of the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,100 A
+92,How heavy is the GS Yuasa Technology LVP10 battery?,0.49 kg
+93,What is the cycle life of the Hangzhou Future Power Technology Co FT655894P battery?,500.0 cycles
+94,Can you tell me the capacity of the Headway Group HW38140S battery?,12.0 Ah
+95,What is the charging current of the Hitachi L15A0N2C1 battery?,3.0 A
+96,What’s the nominal voltage of the Hypercell NCR20700 battery?,3.6 V
+97,How long is the cycle life of the JIANGSU HIGEE HJLFP48173170E-152Ah battery?,3000.0 cycles
+98,What is the discharge current of the Jiangsu FREY FREY36130290-120Ah battery?,120 A
+99,Can you provide the rated capacity of the KeepPower KP 21700 battery?,4.0 Ah
+100,What is the height of the Kokam SLPB125255255H battery?,0.013 m
+101,How heavy is the LG Chem E78 battery?,Not available
+102,What is the cycle life of the Lishen LP54173210-202Ah battery?,3000 cyclesyyy
+103,Can you tell me the rated capacity of the Melasta MB-LFP-32173128 battery?,60 Ah
+104,What is the upper voltage limit of the Molicel INR-21700-P42A battery?,4.2 Vyyy
+105,How long is the cycle life of the Neosonic Li-Polymer Energy KMBNK06065108S battery?,500.0 cycles
+106,What is the nominal voltage of the OSN OSN-08198255-LT28 battery?,2.4 V
+107,Can you provide the rated capacity of the Panasonic NCR20700B battery?,4.0 Ah
+108,What’s the discharge current of the Quallion LLC QL015KA battery?,15 A
+109,What is the nominal voltage of the Saft MP174565 battery?,3.75 Vyyy
+110,Can you tell me the cycle life of the Samsung INR21700-48X battery?,500.0 cycles
+111,How heavy is the Sinopoly Sinopoly 100 Ah battery?,3.15 kg
+112,What is the height of the Thunder-Sky WB-LYP100AHA battery?,0.061 m
+113,What is the upper voltage limit of the VAPCELL INR21700 battery?,4.2 V
+114,Can you provide the capacity of the Wuhan Lisun Power Corp. Ltd ICP225054S battery?,5.0 Ah
+115,What’s the cycle life of the Yinglong LithiumTitanate 40Ah battery?,25000.0 cycles
+116,What is the charging current of the Yoku Energy (Shenzhen) Co 7545135 battery?,0.84 A
+117,How long is the charging time for the Zenlabs Envia ENV35011-CRC battery?,Not availableyyy
+118,What is the rated capacity of the A123 A123 60Ah battery?,yyymade up cell
+119,Can you tell me the nominal voltage of the ATL Amperex Technology 8048168 battery?,xyyymade up cell
+120,What is the upper voltage limit of the Amita Technologies 120155250NH-NH02 battery?,4.2 Vyyy
+121,How heavy is the BMZ Sony BMZ 21700 55EM battery?,x yyy made up cell
+122,What is the cycle life of the CALB L135F72 (CAM72) battery?,2000.0 cycles
+123,Can you provide the nominal voltage for the CATL 280Ah LiFePO4 battery?,3.2 V
+124,What is the discharge current of the COSLIGHT FP45173209A battery?,450 A
+125,How long is the cycle life for the CRJ Technology Limited RJ-LFP71173200-271 battery?,6000 cycles
+126,What’s the upper voltage limit of the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,4.2 V
+127,Can you provide the rated capacity of the E-One Moli Energy (Canada) Limited IBR-26700A battery?,3.5 Ah
+128,What is the nominal voltage of the EAS Batteries HE-602030 NCA 55AH battery?,3.6 V
+129,How heavy is the ECO POWER GROUP EC-AU228-NAH3L4 battery?,4.2 kg
+130,What is the cycle life of the ENAX ENL-LM20 battery?,400 cycles
+131,Can you tell me the charging current of the ENERDEL CE250-370 Moxie+ battery?,3.5 A
+132,What’s the nominal voltage of the ENERTECH SPB 58253172P4 battery?,3.7 V
+133,What is the height of the EVE Energy LF56K battery?,0.03 m
+134,How long is the cycle life of the EVE Energy LF75 battery?,3500.0 cycles
+135,What is the rated capacity of the EVE Energy LF90K battery?,91.5 Ah
+136,Can you provide the nominal voltage for the Eagle Picher Technologies LLC LP 32770 battery?,3.7 V
+137,What is the discharge current of the Eemb Co LP956167-PCM-LD battery?,0.8 A
+138,How heavy is the EnerDel INC HEV CELL battery?,0.446 kg
+139,What is the cycle life of the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,3000 cycles
+140,Can you tell me the capacity of the GS Yuasa Technology LVP10 battery?,11.5 Ah
+141,What is the charging current of the Hangzhou Future Power Technology Co FT655894P battery?,1.0 A
+142,How long is the cycle life of the Headway Group HW38140S battery?,1500.0 cycles
+143,What is the rated capacity of the Hitachi L15A0N2C1 battery?,15.0 Ah
+144,Can you provide the nominal voltage for the Hypercell NCR20700 battery?,3.6 V
+145,What is the discharge current of the JIANGSU HIGEE HJLFP48173170E-152Ah battery?,76 A
+146,How heavy is the Jiangsu FREY FREY36130290-120Ah battery?,2.86 kg
+147,What is the cycle life of the KeepPower KP 21700 battery?,500.0 cycles
+148,Can you tell me the height of the Kokam SLPB125255255H battery?,0.013 m
+149,What’s the nominal voltage of the LG Chem E78 battery?,Not available
+150,What is the charging current of the Lishen LP54173210-202Ah battery?,101 A
+151,How long is the cycle life of the Melasta MB-LFP-32173128 battery?,2000.0 cycles
+152,What is the rated capacity of the Molicel INR-21700-P42A battery?,4.2 Ah
+153,Can you provide the upper voltage limit for the Neosonic Li-Polymer Energy KMBNK06065108S battery?,4.2 V
+154,What is the nominal voltage of the OSN OSN-08198255-LT28 battery?,2.4 voltsyyy
+155,How heavy is the Panasonic NCR20700B battery?,0.063 kg
+156,What is the cycle life of the Quallion LLC QL015KA battery?,3000.0 cycles
+157,Can you tell me the height of the Saft MP174565 battery?,0.0181 m
+158,What is the upper voltage limit of the Samsung INR21700-48X battery?,4.2 V
+159,How long is the charging time for the Sinopoly Sinopoly 100 Ah battery?,Not available
+160,What is the rated capacity of the Thunder-Sky WB-LYP100AHA battery?,100.0 Ah
+161,Can you provide the cycle life of the VAPCELL INR21700 battery?,Not available
+162,What’s the discharge current of the Wuhan Lisun Power Corp. Ltd ICP225054S battery?,1 A
+163,What is the nominal voltage of the Yinglong LithiumTitanate 40Ah battery?,2.3 V
+164,How heavy is the Yoku Energy (Shenzhen) Co 7545135 battery?,0.078 kg
+165,What is the charging current of the Zenlabs Envia ENV35011-CRC battery?,2.12 A
+166,What is the rated capacity of the A123 A123 70Ah battery?,Not available Made up cell
+167,Can you provide the nominal voltage for the ATL Amperex Technology 9048168 battery?,Not available Made up cell
+168,What is the cycle life of the Amita Technologies 120155250NH-NH02 battery?,3000.0 cycles
+169,How heavy is the BMZ Sony BMZ 21700 60EM battery?,Not available Made up cell
+170,What is the discharge current of the CALB L135F72 (CAM72) battery?,36 A
+171,Can you tell me the nominal voltage of the CATL 300Ah LiFePO4 battery?,Not available Made up cell
+172,What is the upper voltage limit of the COSLIGHT FP45173209A battery?,3.65 V
+173,How long is the cycle life for the CRJ Technology Limited RJ-LFP71173200-271 battery?,6000.0 cyclesyyy
+174,What is the rated capacity of the Dongguan K-Tech New Energy INR21700P-4000mAh battery?,4.0 Ah
+175,Can you provide the nominal voltage for the E-One Moli Energy (Canada) Limited IBR-26700A battery?,3.75 V
+176,What is the charging current of the EAS Batteries HE-602030 NCA 55AH battery?,11 A
+177,How heavy is the ECO POWER GROUP EC-AU228-NAH3L4 battery?,4.2 kgyyy
+178,What is the cycle life of the ENAX ENL-LM20 battery?,400 cycles
+179,Can you tell me the capacity of the ENERDEL CE250-370 Moxie+ battery?,17.5 Ah
+180,What is the nominal voltage of the ENERTECH SPB 58253172P4 battery?,3.7 Vyyy
+181,How long is the cycle life of the EVE Energy LF56K battery?,3500.0 cycles
+182,What is the rated capacity of the EVE Energy LF75 battery?,75.0 Ah
+183,Can you provide the nominal voltage for the EVE Energy LF90K battery?,3.2 V
+184,What is the discharge current of the Eagle Picher Technologies LLC LP 32770 battery?,11 A
+185,What is the height of the Eemb Co LP956167-PCM-LD battery?,0.0095 m
+186,How heavy is the EnerDel INC HEV CELL battery?,0.446 kgyyy
+187,What is the cycle life of the GBS ZhEJIANG Systems GBS-LFP200Ah battery?,3000 cycles yyy
+188,Can you tell me the capacity of the GS Yuasa Technology LVP10 battery?,11.5 Ahyyy
+189,What is the charging current of the Hangzhou Future Power Technology Co FT655894P battery?,1.0 Ayyy
+190,How long is the cycle life of the Headway Group HW38140S battery?,1500.0 cyclesyyy
+191,What is the rated capacity of the Hitachi L15A0N2C1 battery?,xyyy
+192,Can you provide the nominal voltage for the Hypercell NCR20700 battery?,3.6 Vyyy
+193,What is the discharge current of the JIANGSU HIGEE HJLFP48173170E-152Ah battery?,xyyy
+194,How heavy is the Jiangsu FREY FREY36130290-120Ah battery?,2.86 kgyyy
+195,What is the cycle life of the KeepPower KP 21700 battery?,500.0 cyclesyyy
+196,Can you tell me the height of the Kokam SLPB125255255H battery?,0.013 myyy
+197,What’s the nominal voltage of the LG Chem E78 battery?,xyyy
+198,What is the charging current of the Lishen LP54173210-202Ah battery?,xyyy
+199,How long is the cycle life of the Melasta MB-LFP-32173128 battery?,2000.0 cyclesyyy
+200,What is the rated capacity of the Molicel INR-21700-P42A battery?,4.2 Ahyyy
+201,What is the rated capacity of the A123 20AH battery?,20 Ah
+202,How long does the A123 20AH battery last in terms of cycle life?,1000.0 cycles
+203,Can you tell me the nominal voltage of the A123 20AH battery?,3.3 V
+204,What's the maximum continuous discharge current for the ATL Amperex 5048168 battery?,3.8 A
+205,What's the mass of the Advanced Electronics Energy AE8867220PMHRE battery?,0.258 kg
+206,How tall is the Amita Technologies 120155250L-AL40 battery?,0.012 m
+207,What is the diameter of the AutoEnergy 50Ah 55380 battery?,0.055 m
+208,What is the upper voltage limit for the BAK 26650HC2 battery?,4.2 V
+209,What's the lower voltage limit for the BMZ Sony 21700 40PS1 battery?,2.5 V
+210,How much discharge current can the CALB CA40 battery handle?,80 A
+211,What's the charging current of the CATL 100Ah LiFePO4 battery?,50 A
+212,Tell me the rated capacity of the COSLIGHT FP45173209A battery.,150.0 Ah
+213,How many cycles does the CRJ Technology RJ-LFP71173200-271 battery last?,6000.0 cyclesyyy
+214,What nominal voltage does the Dongguan K-Tech INR21700P-4000mAh battery have?,3.7 V
+215,What's the upper voltage limit for the E-One Moli IBR-26700A battery?,4.2 A
+216,What's the lower voltage limit for the EAS Batteries HE-341440 battery?,3 V
+217,How much discharge current does the ECO POWER EC-AU228-NAH3L4 battery support?,456 Ayyy
+218,What's the max continuous discharge for the ELERIX EX-T30K battery?,180 A
+219,How heavy is the ENAX ENL-LM20 battery?,0.55 kgyyy
+220,What's the charging current of the ENERDEL CE175-360 Moxie+ battery?,3.5 A
+221,How tall is the ENERTECH 58253172V4 30Ah battery?,0.0058 m
+222,What's the diameter of the EVE Energy D12 battery?,Not cylindrical
+223,What's the capacity rating for the Eagle Picher LP 32770 battery?,55.0 Ah
+224,How many cycles can the Eemb Co LP1167220F battery go through?,2000.0 cycles
+225,What's the nominal voltage of the GBS LFP200Ah-B battery?,3.2 V
+226,What's the upper voltage limit for the GS Yuasa LVP10 battery?,4.2 V
+227,What's the lower voltage limit for the General Electronics GEB 26650 battery?,2.75 V
+228,How much discharge current can the Great Power GP 21700 battery handle?,7.05 A
+229,What's the max continuous discharge current for the Hypercell NCR20700 battery?,3.4 A
+230,How much does the Jiangsu Frey 36130290-100PF battery weigh?,3 kg
+231,What's the charging current for the Kayo KFL 32650 battery?,1.6 A
+232,How tall is the Kokam SLPB065070180 battery?,0.0066 m
+233,What's the diameter of the LG Chem E78 battery?,Not available
+234,Tell me the rated capacity of the Lishen LR2170SA battery.,4 Ah
+235,What's the cycle life of the Melasta MB-IFR26650 battery?,2000.0 cycles
+236,What's the nominal voltage of the Molicel INR-21700-P42A battery?,3.6 V
+237,What's the upper voltage limit for the Neosonic KMBNK06035195S battery?,4.2 V
+238,What's the lower voltage limit for the OSN 08198255-LT28 battery?,1.6 V
+239,How much discharge current does the Panasonic NCR18650BF battery support?,3.25 A
+240,What's the max continuous discharge for the Saft VES100 battery?,84 A
+241,How heavy is the Samsung INR21700-30T battery?,0.069 kg
+242,What's the charging current of the Sinopoly 400 Ah battery?,132.0 A
+243,How tall is the Thunder-Sky WB-LYP1000AHC battery?,0.13 m
+244,What's the diameter of the VAPCELL INR21700 battery?,0.021 m
+245,What's the capacity rating for the Yinglong LithiumTitanate 30Ah battery?,30.0 Ah
+246,How many cycles can the Zenlabs ENV23426-XP battery go through?,1000.0 cycles
+247,What's the nominal voltage of the Advanced Electronics Energy AE8867220PMHRE battery?,3.7 V
+248,What's the upper voltage limit for the A123 50AH battery?,3.65 V
+249,What's the lower voltage limit for the ATL Amperex 5080122 battery?,3 V
+250,How much discharge current can the BMZ TerraE INR 21700 50 E battery handle?,15 A
+251,What's the rated capacity of the A123 AMP20M1HD-A battery?,19.6 Ah
+252,How many cycles does the ATL Amperex 5048168 battery last?,300.0 cycles
+253,What is the nominal voltage of the ATL Amperex 5080122 battery?,3.7 V
+254,What is the upper voltage limit of the ATL Amperex 6048168 battery?,4.2 V
+255,What is the lower voltage limit of the ATL Amperex 7048168 battery?,3.0 V
+256,What's the discharge current for the ATL Amperex 8045135 battery?,0.88 A
+257,What is the max continuous discharge current for the ATL Amperex 8235138 battery?,3.8 A
+258,How much does the ATL Amperex 8845135 battery weigh?,0.105 kg
+259,What's the charging current of the Advanced Electronics Energy AE8867220PMHRE battery?,4.85 A
+260,How tall is the Amita Technologies 120155250L-AL40 battery?,0.012 myyy
+261,What is the diameter of the Amita Technologies 120155250N-AM44E battery?,Not cylindrical
+262,Tell me the rated capacity of the Amita Technologies 120155250NH-NH02 battery.,45.0 Ah
+263,What's the cycle life of the Amita Technologies 120155250NH-NH04 battery?,3000
+264,What's the nominal voltage of the Amita Technologies 120155250P-LF01 battery?,3.2 V
+265,What is the upper voltage limit for the Amita Technologies 5099130NRS battery?,4.2 V
+266,What's the lower voltage limit for the Amita Technologies 7799130N battery?,2.8 V
+267,How much discharge current does the Amita Technologies 7799130ND battery support?,35.1 A
+268,What's the max continuous discharge for the Amita Technologies 7799130P battery?,37.5 A
+269,How heavy is the Amita Technologies 8399130NE battery?,0.235 kg
+270,What's the charging current of the Amita Technologies 9299130N battery?,13 A
+271,How tall is the Amita Technologies 9299130NE battery?,0.0092 m
+272,What's the diameter of the Amprius Wuxi Lead ANW3.6-455055 battery?,Not cylindrical
+273,What's the capacity rating for the Amprius Wuxi Lead E485795CH battery?,5.0 Ah
+274,How many cycles can the AutoEnergy 50Ah 55380 battery go through?,Not available
+275,What's the nominal voltage of the Auto Energy Technology YT185185185 battery?,2.4 V
+276,What's the upper voltage limit for the BAK 26650HC2 battery?,4.2 V
+277,What's the lower voltage limit for the BAK N21700CB-48 battery?,2.5 V
+278,How much discharge current can the BAK N21700CG-50 battery handle?,15 Ayyy
+279,What's the max continuous discharge current for the BMZ Sony 21700 50EL battery?,14 A
+280,How much does the BMZ Sony 21700 52E battery weigh?,0.07 kg
+281,What's the charging current for the BMZ Sony 21700 52EM battery?,1.05 A
+282,How tall is the BMZ TerraE INR 21700 50 E battery?,0.0709 m
+283,What's the diameter of the BMZ TerraE INR 21700 58 E battery?,0.0217 m
+284,Tell me the rated capacity of the Battronix LCB8570170EC1 battery.,12.6 Ah
+285,What's the cycle life of the CALB 26650FS3 battery?,2000.0 cycles
+286,What's the nominal voltage of the CALB CA100 battery?,3.2 V
+287,What's the upper voltage limit for the CALB CA40 battery?,3.65 A
+288,What's the lower voltage limit for the CALB CA400 battery?,2.5 V
+289,How much discharge current does the CALB CA60 battery support?,120 A
+290,What's the max continuous discharge for the CALB CAM72 battery?,216 A
+291,How heavy is the CALB L135F72 (CAM72) battery?,1.78 kg
+292,What's the charging current of the CALB L148N50B battery?,25.0 A
+293,How tall is the CALB L160F100B battery?,0.0499 m
+294,What's the diameter of the CALB LFP176Ah battery?,Not cylindrical
+295,What's the capacity rating for the CALB SE180AHA battery?,180.0 Ah
+296,How many cycles can the CATL 100Ah LiFePO4 battery go through?,Not available
+297,What's the nominal voltage of the CATL 120Ah LiFePO4 battery?,3.2 V
+298,What's the upper voltage limit for the CATL 280Ah LiFePO4 battery?,3.65 V
+299,What's the lower voltage limit for the CATL 50Ah CATL 811 battery?,4.2 V
+300,How much discharge current can the CATL LEP54H4K1 battery handle?,202 A
+301,What's the maximum continuous discharge current for the CATL LEP71H3L7-01 battery?,302 A
+302,How much does the COSLIGHT FP45173209A battery weigh?,3.84 kg
+303,What's the charging current of the CRJ Technology RJ-LFP71173200-271 battery?,54.2 A
+304,How tall is the Chengdu Jianzhong ICR26650 battery?,0.065 m
+305,What is the diameter of the Dongguan K-Tech INR21700P-4000mAh battery?,0.0218 m
+306,Tell me the rated capacity of the E-One Moli IBR-26700A battery.,3.5 Ah
+307,What's the cycle life of the EAS Batteries HE-341440 battery?,2000 cycles
+308,What's the nominal voltage of the EAS Batteries HE-602030 battery?,3.6 V
+309,What's the upper voltage limit for the EAS Batteries HP-601300 battery?,4.2 V
+310,What's the lower voltage limit for the EAS Batteries UHP-341440 battery?,3 V
+311,How much discharge current does the ECO POWER EC-AU228-NAH3L4 battery support?,456 A
+312,What's the max continuous discharge for the ELERIX EX-T30K battery?,180 Ayyy
+313,How heavy is the ENAX ENL-LM20 battery?,0.55 kg
+314,What's the charging current of the ENAX ENS-XE36 battery?,0.78 A
+315,How tall is the ENAX ENW-LM08 battery?,0.0055 m
+316,What's the diameter of the ENERDEL CE175-360 Moxie+ battery?,Not cylindrical
+317,What's the capacity rating for the ENERDEL CE250-370 Moxie+ battery?,17.5 Ah
+318,How many cycles can the ENERDEL CP160-365 Moxie+ battery go through?,4000 cycles
+319,What's the nominal voltage of the ENERTECH 58253172V4 30Ah battery?,3.7 V
+320,What's the upper voltage limit for the ENERTECH SPB704684 battery?,4.2 V
+321,What's the lower voltage limit for the ENERTECH SPB 58253172EG1 17Ah battery?,2.5 V
+322,How much discharge current can the ENERTECH SPB 58253172P3 23Ah battery handle?,115 A
+323,What's the max continuous discharge current for the ENERTECH SPB 58253172P4 battery?,75 A
+324,How much does the ENERTECH SPB 58253172V2 22Ah battery weigh?,0.48 kg
+325,What's the charging current for the ENERTECH SPB 58253172V3 25Ah battery?,8.3 A
+326,How tall is the ENERTECH SPB 59235172PG1 battery?,0.0058 m
+327,What's the diameter of the ENERTECH SPB 70115145 12Ah battery?,Not cylindrical
+328,Tell me the rated capacity of the ENERTECH SPB 90190260V2 40Ah battery.,40 Ah
+329,What's the cycle life of the EVE Energy D11 battery?,3000.0 cycles
+330,What's the nominal voltage of the EVE Energy D12 battery?,3.68 V
+331,What's the upper voltage limit for the EVE Energy D13 battery?,4.2 V
+332,What's the lower voltage limit for the EVE Energy D21 battery?,2.7 V
+333,How much discharge current does the EVE Energy INP42P battery support?,84 A
+334,What's the max continuous discharge for the EVE Energy INP50E battery?,100 A
+335,How heavy is the EVE Energy INP60E battery?,0.87 kg
+336,What's the charging current of the EVE Energy INP72P battery?,14.4 A
+337,How tall is the EVE Energy INP80E battery?,0.039 m
+338,What's the diameter of the EVE Energy LF105-73103 battery?,Not cylindrical
+339,What's the capacity rating for the EVE Energy LF280-72174 battery?,280.0 Ah
+340,How many cycles can the EVE Energy LF280K-72174 battery go through?,2500.0 cycles
+341,What's the nominal voltage of the EVE Energy LF280N-72174 battery?,3.2 V
+342,What's the upper voltage limit for the EVE Energy LF304-72174 battery?,3.65 V
+343,What's the lower voltage limit for the EVE Energy LF50 battery?,2.0 V
+344,How much discharge current can the EVE Energy LF56K battery handle?,56 A
+345,What's the max continuous discharge current for the EVE Energy LF75 battery?,75 A
+346,How much does the EVE Energy LF90K battery weigh?,1.99 kg
+347,What's the charging current for the Eagle Picher LP 32975 battery?,6.0 A
+348,How tall is the Eagle Picher LP 33037 battery?,0.034 m
+349,What's the diameter of the Eagle Picher LP 33081 battery?,Not cylindrical
+350,Tell me the rated capacity of the Eagle Picher LP 33330 battery.,6.0 Ah
