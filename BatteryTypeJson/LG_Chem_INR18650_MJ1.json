@@ -121,6 +121,30 @@
         },
         {
             "@id": "https://doi.org/10.3390/sym14102126"
+        },
+        {
+            "@id": "https://doi.org/10.1149/08010.0135ecst"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries9010006"
+        },
+        {
+            "@id": "https://doi.org/10.3390/batteries9060309"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ac2089"
+        },
+        {
+            "@id": "https://doi.org/10.3390/electronics10192376"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230864"
+        },
+        {
+            "@id": "https://doi.org/10.1149/1945-7111/ac03f6"
+        },
+        {
+            "@id": "https://doi.org/10.1016/j.etran.2022.100167"
         }
     ],
     "hasCase": [
