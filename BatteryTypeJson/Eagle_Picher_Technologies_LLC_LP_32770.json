@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.commatsci.2021.110343"
+            "@id": "https://doi.org/10.1016/j.commatsci.2021.110343",
+            "schema:headline": "Electrodeposition of lithium metal on lithium anode surface, a simulation study by: Kinetic Monte Carlo-embedded atom method",
+            "schema:author": "Behnam Ghalami Choobar and Hamid Modarress and Rouein Halladj and Sepideh Amjad-Iranagh",
+            "schema:description": "",
+            "schema:datePublished": 2021
         }
     ],
     "hasCase": [

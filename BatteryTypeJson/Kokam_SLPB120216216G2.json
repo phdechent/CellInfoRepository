@@ -18,13 +18,21 @@
             "@id": "https://www.semanticscholar.org/paper/5c79160b70f3d10ea832ae5ffbc21ac0d9c94660"
         },
         {
-            "@id": "https://doi.org/10.6113/jpe.2013.13.4.516"
+            "@id": "https://doi.org/10.6113/jpe.2013.13.4.516",
+            "schema:headline": "Adaptive On-line State-of-available-power Prediction of Lithium-ion Batteries",
+            "schema:author": "Christian Fleischer and Wladislaw Waag and Ziou Bai and Dirk Uwe Sauer",
+            "schema:description": "",
+            "schema:datePublished": 2013
         },
         {
             "@id": "https://doi.org/hVaTuo8BADpm3NYuup6y"
         },
         {
-            "@id": "https://doi.org/10.6113/JPE.2013.13.4.516"
+            "@id": "https://doi.org/10.6113/JPE.2013.13.4.516",
+            "schema:headline": "Adaptive On-line State-of-available-power Prediction of Lithium-ion Batteries",
+            "schema:author": "Christian Fleischer and Wladislaw Waag and Ziou Bai and Dirk Uwe Sauer",
+            "schema:description": "",
+            "schema:datePublished": 2013
         }
     ],
     "hasCase": [

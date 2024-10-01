@@ -15,31 +15,67 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.etran.2020.100073"
+            "@id": "https://doi.org/10.1016/j.etran.2020.100073",
+            "schema:headline": "The role of cell geometry when selecting tab or surface cooling to minimise cell degradation",
+            "schema:author": "Oskar Dondelewski and Teddy Szemberg O\u2019Connor and Yan Zhao and Ian A. Hunt and Alexander Holland and Alastair Hales and Gregory J. Offer and Yatish Patel",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2017.04.022"
+            "@id": "https://doi.org/10.1016/j.apenergy.2017.04.022",
+            "schema:headline": "Computational fluid dynamics simulation on open cell aluminium foams for Li-ion battery cooling system",
+            "schema:author": "Lip Huat Saw and Yonghuang Ye and Ming Chian Yew and Wen Tong Chong and Ming Kun Yew and Tan Ching Ng",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2021.116737"
+            "@id": "https://doi.org/10.1016/j.apenergy.2021.116737",
+            "schema:headline": "Cost and carbon footprint reduction of electric vehicle lithium-ion batteries through efficient thermal management",
+            "schema:author": "Laura Lander and Evangelos Kallitsis and Alastair Hales and Jacqueline Sophie Edge and Anna Korre and Gregory Offer",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.enconman.2020.113715"
+            "@id": "https://doi.org/10.1016/j.enconman.2020.113715",
+            "schema:headline": "A novel dielectric fluid immersion cooling technology for Li-ion battery thermal management",
+            "schema:author": "Mahesh Suresh Patil and Jae-Hyeong Seo and Moo-Yeon Lee",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.3390/en14175434"
+            "@id": "https://doi.org/10.3390/en14175434",
+            "schema:headline": "Development of an Informative Lithium-Ion Battery Datasheet",
+            "schema:author": "Weiping Diao and Chetan Kulkarni and Michael Pecht",
+            "schema:description": "<jats:p>Lithium-ion battery datasheets, also known as specification sheets, are documents that battery manufacturers provide to define the battery\u2019s function, operational limit, performance, reliability, safety, cautions, prohibitions, and warranty. Product manufacturers and customers rely on the datasheets for battery selection and battery management. However, battery datasheets often have ambiguous and, in many cases, misleading terminology and data. This paper reviews and evaluates the datasheets of 25 different lithium-ion battery types from eleven major battery manufacturers. Issues that customers may face are discussed, and recommendations for developing an informative and valuable datasheet that will help customers procure suitable batteries are presented.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1088/1755-1315/268/1/012103"
+            "@id": "https://doi.org/10.1088/1755-1315/268/1/012103",
+            "schema:headline": "Numerical modelling of the power pack system for remote islands electrification",
+            "schema:author": "LH Saw and JS Cheow and YJ King and WH Yeo and BH Lim and JY Tey and TC Ng",
+            "schema:description": "<jats:title>Abstract</jats:title>\n               <jats:p>Electricity is one of the indispensable elements in the daily life. From domestic to commercial sector, electricity has been used to provide a wide range of applications. However, access to electricity is only limited to the urban area while rural area electrification is always a challenge due to the geographical location and high cost of the electrification infrastructure. Therefore, electrification using solar energy is projected to be one of the feasible solutions in the rural area. A typical power pack system used for the rural area electrification consists of solar panels, voltage converters and battery pack. Although lead acid battery provides an economic solution for the energy storage system, they are also associated with other disadvantages such as low depth of discharge, bulky and low energy density. Li-ion battery is a new generation of battery technology with high energy density, light weight and high depth of discharge which offer a promising solution for an off grid power systems. In this study, an off grid power pack consists of Li-ion batteries, voltage converters and photovoltaic modules are modelled to evaluate the electrical performances of the system under Malaysia weather conditions. Then, the numerical modelling results are compared with experiments. It is found out that the numerical model correlated well with the experimental data with a relative error less than 5%.</jats:p>",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2017.11.011"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2017.11.011",
+            "schema:headline": "Tracking degradation in lithium iron phosphate batteries using differential thermal voltammetry",
+            "schema:author": "Toshio Shibagaki and Yu Merla and Gregory J. Offer",
+            "schema:description": "",
+            "schema:datePublished": 2018
         },
         {
-            "@id": "https://doi.org/10.3390/batteries5040070"
+            "@id": "https://doi.org/10.3390/batteries5040070",
+            "schema:headline": "Experimental Study of Heat Generation Rate during Discharge of LiFePO4 Pouch Cells of Different Nominal Capacities and Thickness",
+            "schema:author": "Shashank Arora and Ajay Kapoor",
+            "schema:description": "<jats:p>High manufacturing cost and thermal stability of Li-ion battery cells are currently the two main deterrents to prolific demand for electric vehicles. A plausible solution to this issue is a modular/scalable battery thermal management system (TMS). A modular TMS can ensure thermal reliability for battery cells of different capacities and size without needing major structural revision besides facilitating mass-production. However, understanding the relationship of heat generation rates with cell capacity and thickness is essential for developing a scalable TMS. The present paper discusses results derived from an experimental investigation undertaken with this purpose. Heat generation rates for LiFePO4 pouch cells of different nominal capacities are measured at discharge rates of 0.33C, 1C and 3C in ambient temperatures ranging between \u221210 and 50 \u00b0C using a custom-designed calorimeter. It is observed that heat generation rates of the LiFePO4 pouch cells become independent of their nominal capacity and thickness if the ambient temperature is regulated at 35 \u00b0C. In ambient temperatures lower than 35 \u00b0C though, the thin battery cells are found to be generating heat at rates greater than those of thick battery cells and vice-versa at temperatures over 35 \u00b0C for all discharge rates.</jats:p>",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/abff35"
+            "@id": "https://doi.org/10.1149/1945-7111/abff35",
+            "schema:headline": "Benefits of Fast Battery Formation in a Model System",
+            "schema:author": "Peter M. Attia and Stephen J. Harris and William C. Chueh",
+            "schema:description": "<jats:p>Lithium-ion battery formation affects battery cost, energy density, and lifetime. An improved understanding of the first cycle of solid-electrolyte interphase (SEI) growth on carbonaceous negative electrodes could aid in the design of optimized formation protocols. In this work, we systematically study SEI growth during the formation of carbon black negative electrodes in a standard carbonate electrolyte. We show that the initial ethylene carbonate (EC) reduction reaction occurs at \u223c0.5\u20131.2 V during the first lithiation, except under fast lithiation rates (\u226510C). The products of this EC reduction reaction do not passivate the electrode; only the SEI formed at lower potentials affects the second-cycle Coulombic efficiency. Thus, cycling quickly through the voltage regime of this reaction can decrease both formation time and first-cycle capacity loss, without an increase in subsequent-cycle capacity loss. We also show that the capacity consumed by this reaction is minimized at low temperatures and low salt concentrations. Finally, we discuss the mechanism behind our experimental results. This work reveals the fundamental processes underlying initial SEI growth on carbonaceous negative electrodes and provides insights for both optimizing the battery formation process and enabling novel electrolytes.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
             "@id": "https://www.semanticscholar.org/paper/61f62eca106796d592d9cac19339b989bf5fde9b"

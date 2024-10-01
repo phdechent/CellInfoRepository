@@ -15,37 +15,81 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2021.118498"
+            "@id": "https://doi.org/10.1016/j.apenergy.2021.118498",
+            "schema:headline": "Adaptive deterministic approach for optimized sizing of high-energy battery system applied in electric-powered application",
+            "schema:author": "Seungyun Han and Roland Kobla Tagayi and Jaewon Kim and Jonghoon Kim",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2021.102257"
+            "@id": "https://doi.org/10.1016/j.est.2021.102257",
+            "schema:headline": "Effects of short-term over-discharge cycling on the performance of commercial 21,700 lithium-ion cells and the identification of degradation modes",
+            "schema:author": "Zhenpo Wang and Shiqi Xu and Xiaoqing Zhu and Hsin Wang and Lvwei Huang and Jing Yuan and Weiqiang Yang",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1007/s00502-020-00814-9"
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9",
+            "schema:headline": "Ante-mortem analysis, electrical, thermal, and ageing testing of state-of-the-art cylindrical lithium-ion cells",
+            "schema:author": "Hartmut Popp and Ningxin Zhang and Marcus Jahn and Mikel Arrinda and Simon Ritz and Matthias Faber and Dirk Uwe Sauer and Philippe Azais and Iosu Cendoya",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>Thanks to its exceptional performance in terms of high energy and power density as well as long lifespan, the lithium-ion secondary battery is the most relevant electrochemical energy storage technology to meet the requirements for partial or full electrification of vehicles (plug-in hybrids or pure electric vehicles), and thanks to decreasing cost and ongoing technical improvements, it will maintain this role in the near to mid-term future. This study benchmarks eight different (five 21700 and three 18650 format) high-energy cylindrical cells concerning their suitability for automotive applications and aims to give a holistic overview and comparison between them. Therefore, an ante-mortem material analysis, a benchmark of electrical and thermal values as well as a cycle life study were carried out. The results show that even when applying similar concepts like Nickel-rich cathodes with graphite-based anodes, the cells show wide variations in their performance under the same test conditions.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.3390/en14175434"
+            "@id": "https://doi.org/10.3390/en14175434",
+            "schema:headline": "Development of an Informative Lithium-Ion Battery Datasheet",
+            "schema:author": "Weiping Diao and Chetan Kulkarni and Michael Pecht",
+            "schema:description": "<jats:p>Lithium-ion battery datasheets, also known as specification sheets, are documents that battery manufacturers provide to define the battery\u2019s function, operational limit, performance, reliability, safety, cautions, prohibitions, and warranty. Product manufacturers and customers rely on the datasheets for battery selection and battery management. However, battery datasheets often have ambiguous and, in many cases, misleading terminology and data. This paper reviews and evaluates the datasheets of 25 different lithium-ion battery types from eleven major battery manufacturers. Issues that customers may face are discussed, and recommendations for developing an informative and valuable datasheet that will help customers procure suitable batteries are presented.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ace1a7"
+            "@id": "https://doi.org/10.1149/1945-7111/ace1a7",
+            "schema:headline": "Full Parameterization Study of a High-Energy and High-Power Li-Ion Cell for Physicochemical Models",
+            "schema:author": "Christina Schmitt and Martina Gerle and Dennis Kopljar and K. Andreas Friedrich",
+            "schema:description": "<jats:p>For physicochemical modelling of lithium ion batteries, an extensive parametrization is necessary. These parameters need to be derived cell specifically as they vary with cell design. In this study, two cells from the same manufacturer are investigated which are optimized for high power and high energy applications. After opening the cells under argon atmosphere, the battery materials are extracted to conduct various chemical and physical measurements to define the active material type, microstructure, conductivity and mass loading of the electrodes. Furthermore, laboratory cells were built from the extracted materials to evaluate tortuosity and exchange current density by electrochemical impedance spectroscopy, open circuit voltages and solid diffusion coefficient by galvanostatic intermittent titration technique (GITT). The differences and similarities of these parameters for both cell types are discussed and compared to literature. Main differences are the electrode area, thickness, porosity, and thus, mass loading and areal capacity of the electrodes. Both cells have a NCA cathode, but only the high energy cell has a blend anode consisting of graphite and Si/SiO<jats:sub>x</jats:sub> whereas the anode active material of the high power cell is only made of graphite. The derived parameters are finally used for the parameterization of a P2D model.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9060309"
+            "@id": "https://doi.org/10.3390/batteries9060309",
+            "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells\u2014A Generic Overview",
+            "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
+            "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/acb669"
+            "@id": "https://doi.org/10.1149/1945-7111/acb669",
+            "schema:headline": "Relaxation Effects in Self-Discharge Measurements of Lithium-Ion Batteries",
+            "schema:author": "Thomas Roth and Luiza Streck and Andreas Graule and Philipp Niehoff and Andreas Jossen",
+            "schema:description": "<jats:p>In order to determine the quality of newly produced lithium-ion cells, self-discharge measurements are performed after manufacturing during the so-called aging step. The aging step is a time-consuming and cost-intensive process due to relaxation effects disturbing the self-discharge measuremtens. Relaxation effects are mainly attributed to voltage relaxation and anode overhang equalization. In this work, different methods for electrical self-discharge measurement, such as the voltage decay method, the voltage hold method, and the capacity loss method, were investigated using commercial Samsung INR21700\u201350E cylindrical cells (NCA/silicon-graphite) and non-commercial pouch-cells (NMC622/graphite). Various preconditioning methods allowed a distinction to be made between undisturbed, short-term, and long-term disturbed cells. While short-term disturbances subsided after several hours, long-term disturbances due to anode overhang were found to significantly disturb all electrical self-discharge measurements for several weeks. A theoretical explanation was introduced, describing the lithium inventory change due to anode and coupled side reactions being measured differently by voltage- and capacity-based methods. Experimental results confirmed this notion and showed that voltage-based self-discharge measurements underestimated the anode overhang equalization. A comparison to the initial cell aging data indicated that the self-discharge measurement performed shortly after cell formation was disturbed by the anode overhang equalization.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.3390/en15072431"
+            "@id": "https://doi.org/10.3390/en15072431",
+            "schema:headline": "Modeling and On-Road Testing of an Electric Two-Wheeler towards Range Prediction and BMS Integration",
+            "schema:author": "Alessandro Falai and Tiziano Alberto Giuliacci and Daniela Misul and Giacomo Paolieri and Pier Giuseppe Anselma",
+            "schema:description": "<jats:p>The automotive sector is currently shifting its focus from traditional fossil fuels to electrification. The deployment of a Battery Management System (BMS) unit is the key point to oversee the battery state of the electric vehicle (EV) to ensure safety and performances. The development and assessment of electric vehicle models in turn lays the groundwork of the BMS design as it provides a quick and cheap solution to test battery optimal control logics in a Software-in-the-Loop environment. Despite the various contribution to the literature in battery and vehicle modeling, electric scooters are mostly disregarded together with a reliable estimation of their performance and electric range. The present paper hence aims at filling the gap of knowledge through the development of a numerical model for considering a two-wheeler. The latter model relies on the conservation energy based-longitudinal dynamic approach and is coupled to a Li-Ion Battery second-order RC equivalent circuit model for the electric range prediction. More specifically, the presented work assesses the performance and electric range of a two-wheeler pure electric scooter in a real-world driving cycle. The e-powertrain system embeds an Electrical Energy Storage System (EESS) Li-Ion Battery pack. On-road tests were initially conducted to retrieve the main model parameters and to perform its validation. A global battery-to-wheels efficiency was also calibrated to account for the percentual amount of available net power for the vehicle onset. The model proved to properly match the experimental data in terms of total distance traveled over a validation driving mission.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1007/s10694-023-01425-4"
+            "@id": "https://doi.org/10.1007/s10694-023-01425-4",
+            "schema:headline": "Determination of Hydrofluoric Acid Formation During Fire Accidents of Lithium-Ion Batteries with a Direct Cooling System Based on the Refrigeration Liquids",
+            "schema:author": "G. Lombardo and Mark R. St. J. Foreman and B. Ebin and L. W. Y. Yeung and B. M. Steenari and M. Petranikova",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>To avoid overheating of the batteries, which could lead to a fire, Lithium-ion batteries are provided with a thermal management system using refrigeration liquids. Since some of the commercial dielectric liquids used as refrigeration liquids contain halogens, their presence will contribute to a formation of hazardous emissions such as hydrofluoric acid during a potential fire. In this study, a simulation of a high temperature accident has been performed for lithium-ion batteries cooled with the direct immersion cooling systems using single-phase dielectric liquids to define their contribution to HF formation. Four commercial refrigeration liquids based on perfluoropolyethers, hydrofluoroether and polyalphaolefin were investigated in this work. By simulation of a fire, it was observed that the refrigeration liquids delayed the smoke formation by a factor of 2 to 2.5 in comparison to the case when the battery was burned without the cooling liquid. By analysis of the fluoride concentration in the washing system, it was determined that without the refrigeration liquid approximately 46.8\u00a0mmol/l of [F] was captured after the fire. When refrigeration liquids based on two perfluoropolyethers and hydrofluoroether were applied, the fluoride concentration in the washing system was 259\u00a0mmol/l, 173\u00a0mmol/l and 145\u00a0mmol/l, respectively. This work also proposed the reaction mechanisms of the refrigeration liquid\u00b4s decomposition during a fire. It was concluded that the refrigeration liquid based on polyalphaolefin does not contribute to the additional formation of hydrofluoric acid due to the chemical stability and low content of fluoride and can be considered as a more sustainable alternative for a direct cooling system for Lithium-ion batteries. \n</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1016/J.EST.2021.102257"
+            "@id": "https://doi.org/10.1016/J.EST.2021.102257",
+            "schema:headline": "Effects of short-term over-discharge cycling on the performance of commercial 21,700 lithium-ion cells and the identification of degradation modes",
+            "schema:author": "Zhenpo Wang and Shiqi Xu and Xiaoqing Zhu and Hsin Wang and Lvwei Huang and Jing Yuan and Weiqiang Yang",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9020132"
+            "@id": "https://doi.org/10.3390/batteries9020132",
+            "schema:headline": "Introducing the Loewner Method as a Data-Driven and Regularization-Free Approach for the Distribution of Relaxation Times Analysis of Lithium-Ion Batteries",
+            "schema:author": "Tom R\u00fcther and Ion Victor Gosea and Leonard Jahn and Athanasios C. Antoulas and Michael A. Danzer",
+            "schema:description": "<jats:p>For the identification of processes in lithium-ion batteries (LIB) by electrochemical impedance spectroscopy, frequency data is often transferred into the time domain using the method of distribution of relaxation times (DRT). As this requires regularization due to the ill-conditioned optimization problem, the investigation of data-driven methods becomes of interest. One promising approach is the Loewner method (LM), which has already had a number of applications in different fields of science but has not been applied to batteries yet. In this work, it is first deployed on synthetic data with predefined time constants and gains. The results are analyzed concerning the choice of model order, the type of processes , i.e., distributed and discrete, and the signal-to-noise ratio. Afterwards, the LM is used to identify and analyze the processes of a cylindrical LIB. To verify the results of this assessment a comparison is made with the generalized DRT at two different states of health of the LIB. It is shown that both methods lead to the same qualitative results. For the assignment of processes as well as for the interpretation of minor gains, the LM shows advantageous behavior, whereas the generalized DRT shows better results for the determination of lumped elements and resistive\u2013inductive processes.</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

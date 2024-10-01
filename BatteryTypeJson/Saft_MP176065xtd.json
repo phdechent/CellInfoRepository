@@ -15,22 +15,42 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1051/e3sconf/20171606001"
+            "@id": "https://doi.org/10.1051/e3sconf/20171606001",
+            "schema:headline": "Battery for Extended Temperature Range Exomars Rover Mission",
+            "schema:author": "Steve Amos and Paul Brochard",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1109/acc.2010.5530710"
+            "@id": "https://doi.org/10.1109/acc.2010.5530710",
+            "schema:headline": "Cell equalization in battery stacks through State Of Charge estimation polling",
+            "schema:author": "C Speltino and A Stefanopoulou and G Fiengo",
+            "schema:description": "",
+            "schema:datePublished": 2010
         },
         {
             "@id": "https://www.semanticscholar.org/paper/18b337d7e53fa2e7de07c3fab3c2059e208b8301"
         },
         {
-            "@id": "https://doi.org/10.1051/e3sconf/20171606001"
+            "@id": "https://doi.org/10.1051/e3sconf/20171606001",
+            "schema:headline": "Battery for Extended Temperature Range Exomars Rover Mission",
+            "schema:author": "Steve Amos and Paul Brochard",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1109/ACC.2010.5530710"
+            "@id": "https://doi.org/10.1109/ACC.2010.5530710",
+            "schema:headline": "Cell equalization in battery stacks through State Of Charge estimation polling",
+            "schema:author": "C Speltino and A Stefanopoulou and G Fiengo",
+            "schema:description": "",
+            "schema:datePublished": 2010
         },
         {
-            "@id": "https://doi.org/10.1051/E3SCONF/20171606001"
+            "@id": "https://doi.org/10.1051/E3SCONF/20171606001",
+            "schema:headline": "Battery for Extended Temperature Range Exomars Rover Mission",
+            "schema:author": "Steve Amos and Paul Brochard",
+            "schema:description": "",
+            "schema:datePublished": 2017
         }
     ],
     "hasCase": [

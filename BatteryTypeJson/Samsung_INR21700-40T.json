@@ -15,16 +15,32 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.107424"
+            "@id": "https://doi.org/10.1016/j.est.2023.107424",
+            "schema:headline": "A new method to perform lithium-ion battery pack fault diagnostics \u2013 Part 3: Adaptation for fast charging",
+            "schema:author": "Anubhav Singh and Andrew Lodge and Yi Li and Widanalage Dhammika Widanage and Anup Barai",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9010006"
+            "@id": "https://doi.org/10.3390/batteries9010006",
+            "schema:headline": "Influence of Breathing and Swelling on the Jelly-Roll Case Gap of Cylindrical Lithium-Ion Battery Cells",
+            "schema:author": "Markus Spielbauer and Marco Steinhardt and Jan Singer and Andreas Aufschl\u00e4ger and Oliver Bohlen and Andreas Jossen",
+            "schema:description": "<jats:p>Cylindrical 18650 and 21700 lithium-ion batteries are produced with small gaps between the jelly roll and the case. The size of these gaps and the mechanical attachment of the jelly roll to the case can have a significant impact on the thermal and mechanical properties of cells. To investigate the influence of the state of charge (SOC) and state of health (SOH) on the size of the gap, computed tomography (CT) and gray-value analysis was conducted with various cell types at 0% and 100% SOC and after cycling. The results show a significant influence of the SOC on the gap for new cells and a substantial reduction in the gap during the first cycles.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9060309"
+            "@id": "https://doi.org/10.3390/batteries9060309",
+            "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells\u2014A Generic Overview",
+            "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
+            "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.3390/s23020753"
+            "@id": "https://doi.org/10.3390/s23020753",
+            "schema:headline": "The Dependence of the Burning Process and Ignition Temperature of a Lithium Cell on Its State of Charge",
+            "schema:author": "Andrzej Erd and Tomasz Ciszewski",
+            "schema:description": "<jats:p>Batteries and energy stores built with lithium-ion cells are potentially dangerous and can cause fires that are difficult to extinguish. Reducing the intensity of the fires and extending the time of their development may be of great importance for improving safety. The aim of this work is to examine the influence of the state of charge (SOC) of a cell on susceptibility to ignition, and to analyze the course of the burning process. For this purpose, a special measuring station was built, where ignition was initiated and the course of combustion was observed. During the measurements, energy was supplied by heating a cell from the outside with a resistance heater while at the same time thermally insulating the cell from the environment. The measures of the course of the fire were the amount of energy supplied to the cell before ignition and the temperature changes during the fire. The tests proved the existence of significant differences in the amount of energy causing the ignition of cells. These differences result from changes in the SOC. Quantitative results are presented. The existence of differences in susceptibility to ignition can be used to change the construction of control algorithms for battery management systems (BMSs).</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

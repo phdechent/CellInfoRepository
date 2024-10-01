@@ -15,13 +15,25 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2023.233295"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2023.233295",
+            "schema:headline": "In situ tomography of lithium-ion battery cells enabled by scanning acoustic imaging",
+            "schema:author": "David Wasylowski and Sven Neubauer and Matthias Faber and Heinrich Ditler and Morian Sonnet and Alexander Bl\u00f6meke and Philipp Dechent and Alexander Gitis and Dirk Uwe Sauer",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1002/batt.202200518"
+            "@id": "https://doi.org/10.1002/batt.202200518",
+            "schema:headline": "Interplay between Elastic and Electrochemical Properties during Active Material Transitions and Aging of a Lithium\u2010Ion Battery",
+            "schema:author": "Simon Feiler and Philip Daubinger and Lukas Gold and Sarah Hartmann and Guinevere A. Giffin",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>The interplay between the internal mechanical properties and external mechanical conditions of a battery cell, e.\u2009g., Young's modulus and thickness change, has a crucial impact on the cell performance and lifetime, and thus, needs to be fully understood. In this work, 12\u2005Ah lithium\u2010ion battery pouch cells were studied during cycling and aging by non\u2010invasive operando ultrasonic and dilation measurements. The effective Young's modulus increases and the thickness varies the most within a single cycle during the graphite transition from stage\u20051L to 4, at the beginning of the 2 to 1\u2005stage transition and at the phase transition of the nickel\u2010rich NCM from H2 to H3. After 1000\u2005cycles of aging, the overall effective Young's modulus of the lithium\u2010ion battery decreases by \u223c11\u2009%\u201312\u2009% and the cell thickness increases irreversibly by \u223c3\u2009%\u20134\u2009%, which is mostly related to a thicker and possibly softer, more porous solid electrolyte interphase layer.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/acdd1e"
+            "@id": "https://doi.org/10.1149/1945-7111/acdd1e",
+            "schema:headline": "Influence of Low Pressures on the Performance of Lithium Ion Batteries for Airplane Applications",
+            "schema:author": "P. Hoenicke and R. Khatri and C. Bauer and M. Osama and J. Kallo and C. Willich",
+            "schema:description": "<jats:p>The electrification of aircrafts is a recent trend in aviation and with it the use of batteries as energy carriers at high altitudes. These batteries can be exposed to low pressures and it is crucial to understand the influence of low pressures on the battery behavior. In this study, commercially available lithium ion batteries were examined experimentally at low pressures down to 25 kPa. Discharge curves and impedance measurements were performed at 23 \u00b0C for each pressure level. Cylindrical Lithium Nickel-Cobalt-Aluminum Oxide (NCA) and Iron-Phosphate (LFP) cells did not show any pressure influence, while Lithium Nickel-Manganese-Cobalt Oxide (NMC) pouch cells showed some performance variation with reduced pressure. The ohmic resistance increased by around 0.1 m\u03a9 per 25 kPa and at 25 kPa the charge transfer impedance increased for low SOCs. The results show that no strong change in performance is to be expected for low pressure applications in airplanes, however further research is needed with respect to long term effects, thermal management and safety.</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

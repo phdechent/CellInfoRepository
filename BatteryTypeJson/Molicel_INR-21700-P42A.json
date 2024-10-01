@@ -15,19 +15,39 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2022.232068"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2022.232068",
+            "schema:headline": "Numerical and experimental study on thermal management of NCM-21700 Li-ion battery",
+            "schema:author": "Tien-Fu Yang and Pei-Yi Lin and Li-Tao Teng and Saman Rashidi and Wei-Mon Yan",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2022.232214"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2022.232214",
+            "schema:headline": "Thermal management system for air-cooled battery packs with flow-disturbing structures",
+            "schema:author": "R. Cagtay Sahin and Sinan Gocmen and Erdal Cetkin",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/batteries8020017"
+            "@id": "https://doi.org/10.3390/batteries8020017",
+            "schema:headline": "Effect of Internal AC Heating on the Temperature Homogeneity of Different Size Battery Cells",
+            "schema:author": "Howard Richards and Christopher Vagg",
+            "schema:description": "<jats:p>Rapidly warming up batteries is an important challenge both for conventional lithium-ion batteries, which operate best over 15 \u00b0C, and for most solid-state batteries, which currently require operating temperatures over 60 \u00b0C. Internal heating using an alternating current (AC) has been proposed as a possible solution in automotive applications, with faster heating rates possible than conventional external heating methods. This paper investigates the performance of internal AC heating on cells of different sizes, for both cylindrical and pouch formats. A novel experimental arrangement is used in which two cells are tested in series while connected with opposing polarity to create a zero-voltage string, allowing the use of less expensive testing equipment. The results show that larger cells exhibit a considerably greater distribution of surface temperature than smaller format cells during internal heating. This is likely due to the more extreme spatial variation in current density in the current collectors, causing an uneven distribution of internal heat generation. This highlights a significant difference compared to external heating methods, which are not affected by this, and has important implications for temperature measurement and battery management if this type of internal heating is to be used, since temperature sensors must be placed in hot spots or supplemented by validated models to ensure all parts of the battery stay within safe temperature limits.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/app13084681"
+            "@id": "https://doi.org/10.3390/app13084681",
+            "schema:headline": "Adaptive Thermal Control of Cell Groups to Extend Cycle Life of Lithium-Ion Battery Packs",
+            "schema:author": "Wesley D. Connor and Suresh G. Advani and Ajay K. Prasad",
+            "schema:description": "<jats:p>We present a novel approach for a battery management system in which adaptive thermal control is employed to balance the capacities of individual groups of cells within a lithium-ion battery pack. Maintaining capacity balance within the battery pack in this manner can significantly extend its cycle life. We explore the physical implementation of this concept and demonstrate that it is a viable way to extend the life of battery packs. The experimental setup consists of three pairs of cells connected electrically in series and supplied with coolant flow from a chiller. All cells are initially in capacity balance and are cooled uniformly for the first 50 fast charge/discharge cycles. Subsequently, cooling is halted to specific cell pairs to deliberately unbalance their capacities. Finally, cooling is selectively restored to correct the capacity imbalance between the cell groups by the end of 100 charge/discharge cycles. These results suggest that adaptive thermal control can be used effectively to maintain capacity balance within the battery pack.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.3390/batteries8080076"
+            "@id": "https://doi.org/10.3390/batteries8080076",
+            "schema:headline": "Life Cycle Assessment of a Lithium-Ion Battery Pack Unit Made of Cylindrical Cells",
+            "schema:author": "Morena Falcone and Nicol\u00f2 Federico Quattromini and Claudio Rossi and Beatrice Pulvirenti",
+            "schema:description": "<jats:p>Saving energy is a fundamental topic considering the growing energy requirements with respect to energy availability. Many studies have been devoted to this question, and life cycle assessment (LCA) is increasingly acquiring importance in several fields as an effective way to evaluate the energy demand and the emissions associated with products\u2019 life cycles. In this work, an LCA analysis of an existent lithium-ion battery pack (BP) unit is presented with the aim to increase awareness about its consumption and offering alternative production solutions that are less energy intensive. Exploiting the literature data about cradle-to-grave and cradle-to-gate investigations, and after establishing reasonable approximations, the main BP sub-elements were considered for this study, such as the plastic cells support, the Li-ion cells brick, the PCBs for a battery management system (BMS), the liquid-based battery thermal management system (BTMS) and the BP container. For each of these components, the impacts of the extraction, processing, assembly, and transportation of raw materials are estimated and the partial and total values of the energy demand (ED) and global warming potential (GWP) are determined. The final interpretation of the results allows one to understand the important role played by LCA evaluations and presents other possible ways of reducing the energy consumption and CO2 emissions.</jats:p>",
+            "schema:datePublished": 2022
         }
     ],
     "hasCase": [

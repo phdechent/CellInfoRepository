@@ -24,10 +24,18 @@
             "@id": "https://www.semanticscholar.org/paper/7b9d934eaf10114c091e1229ed4d65de3a1002a0"
         },
         {
-            "@id": "https://doi.org/10.3390/EN9030123"
+            "@id": "https://doi.org/10.3390/EN9030123",
+            "schema:headline": "Parameter Sensitivity Analysis for Fractional-Order Modeling of Lithium-Ion Batteries",
+            "schema:author": "Daming Zhou and Ke Zhang and Alexandre Ravey and Fei Gao and Abdellatif Miraoui",
+            "schema:description": "<jats:p>This paper presents a novel-fractional-order lithium-ion battery model that is suitable for use in embedded applications. The proposed model uses fractional calculus with an improved Oustaloup approximation method to describe all the internal battery dynamic behaviors. The fractional-order model parameters, such as equivalent circuit component coefficients and fractional-order values, are identified by a genetic algorithm. A modeling parameters sensitivity study using the statistical Multi-Parameter Sensitivity Analysis (MPSA) method is then performed and discussed in detail. Through the analysis, the dynamic effects of parameters on the model output performance are obtained. It has been found out from the analysis that the fractional-order values and their corresponding internal dynamics have different degrees of impact on model outputs. Thus, they are considered as crucial parameters to accurately describe a battery\u2019s dynamic voltage responses. To experimentally verify the accuracy of developed fractional-order model and evaluate its performance, the experimental tests are conducted with a hybrid pulse test and a dynamic stress test (DST) on two different types of lithium-ion batteries. The results demonstrate the accuracy and usefulness of the proposed fractional-order model on battery dynamic behavior prediction.</jats:p>",
+            "schema:datePublished": 2016
         },
         {
-            "@id": "https://doi.org/10.1088/1757-899X/53/1/012014"
+            "@id": "https://doi.org/10.1088/1757-899X/53/1/012014",
+            "schema:headline": "Simplified Heat Generation Model for Lithium ion battery used in Electric Vehicle",
+            "schema:author": "Nur Hazima Faezaa Ismail and Siti Fauziah Toha and Nor Aziah Mohd Azubir and Nizam Hanis Md Ishak and Mohd Khair Hassan and Babul Salam KSM Ibrahim",
+            "schema:description": "",
+            "schema:datePublished": 2013
         },
         {
             "@id": "https://doi.org/hFanuo8BADpm3NYuYJ/i"

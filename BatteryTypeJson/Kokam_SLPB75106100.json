@@ -15,37 +15,81 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.est.2021.103669"
+            "@id": "https://doi.org/10.1016/j.est.2021.103669",
+            "schema:headline": "Peak-tracking method to quantify degradation modes in lithium-ion batteries via differential voltage and incremental capacity",
+            "schema:author": "Jingyi Chen and Max Naylor Marlow and Qianfan Jiang and Billy Wu",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.applthermaleng.2022.118530"
+            "@id": "https://doi.org/10.1016/j.applthermaleng.2022.118530",
+            "schema:headline": "Thermal and electrical characterization of an electric vehicle battery cell, an experimental investigation",
+            "schema:author": "Sahin Gungor and Erdal Cetkin and Sylvie Lorente",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.ijheatmasstransfer.2021.121918"
+            "@id": "https://doi.org/10.1016/j.ijheatmasstransfer.2021.121918",
+            "schema:headline": "Canopy-to-canopy liquid cooling for the thermal management of lithium-ion batteries, a constructal approach",
+            "schema:author": "Sahin Gungor and Erdal Cetkin and Sylvie Lorente",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2012.03.015"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2012.03.015",
+            "schema:headline": "Fail-safe design for large capacity lithium-ion battery systems",
+            "schema:author": "Gi-Heon Kim and Kandler Smith and John Ireland and Ahmad Pesaran",
+            "schema:description": "",
+            "schema:datePublished": 2012
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.104585"
+            "@id": "https://doi.org/10.1016/j.est.2022.104585",
+            "schema:headline": "Quantitative characterisation of the layered structure within lithium-ion batteries using ultrasonic resonance",
+            "schema:author": "Ming Huang and Niall Kirkaldy and Yan Zhao and Yatish Patel and Frederic Cegla and Bo Lan",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230034"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230034",
+            "schema:headline": "Physics-informed neural networks for electrode-level state estimation in lithium-ion batteries",
+            "schema:author": "Weihan Li and Jiawei Zhang and Florian Ringbeck and Dominik J\u00f6st and Lei Zhang and Zhongbao Wei and Dirk Uwe Sauer",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ab8f5a"
+            "@id": "https://doi.org/10.1149/1945-7111/ab8f5a",
+            "schema:headline": "Identification of Lithium Plating in Lithium-Ion Batteries by Electrical and Optical Methods",
+            "schema:author": "Florian Ringbeck and Christiane Rahe and Georg Fuchs and Dirk Uwe Sauer",
+            "schema:description": "<jats:p>The detection of lithium plating is a key enabler for the development of fast charging techniques. This work compares different plating detection methods to assess the validity of electrical stripping detection methods. To achieve this, we charged a commercial battery cell under different charging regimes regarding temperature, cooling, current, and maximum voltage. Indicators for plating were collected by electrical stripping measurements as well as optical and laser microscopy measurements on fully charged disassembled cells. The results of the electrical measurements agree with a previous publication by Campbell et al. The disassembled cell shows obvious indications of plating in the form of discolored regions and microscopic indications in the form of dendritic structures on the anodes.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ab90ac"
+            "@id": "https://doi.org/10.1149/1945-7111/ab90ac",
+            "schema:headline": "Physical Origin of the Differential Voltage Minimum Associated with Lithium Plating in Li-Ion Batteries",
+            "schema:author": "Simon E. J. O\u2019Kane and Ian D. Campbell and Mohamed W. J. Marzook and Gregory J. Offer and Monica Marinescu",
+            "schema:description": "<jats:p>The main barrier to fast charging of Li-ion batteries at low temperatures is the risk of short-circuiting due to lithium plating. In-situ detection of Li plating is highly sought after in order to develop fast charging strategies that avoid plating. It is widely believed that Li plating after a single fast charge can be detected and quantified by using a minimum in the differential voltage (DV) signal during the subsequent discharge, which indicates how much lithium has been stripped. In this work, a pseudo-2D physics-based model is used to investigate the effect on Li plating and stripping of concentration-dependent diffusion coefficients in the active electrode materials. A new modelling protocol is also proposed, in order to distinguish the effects of fast charging, slow charging and Li plating/stripping. The model predicts that the DV minimum associated with Li stripping is in fact a shifted and more abrupt version of a minimum caused by the stage II-stage III transition in the graphite negative electrode. Therefore, the minimum cannot be used to quantify stripping. Using concentration-dependent diffusion coefficients yields qualitatively different results to previous work. This knowledge casts doubt on the utility of DV analysis for detecting Li plating.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ab6985"
+            "@id": "https://doi.org/10.1149/1945-7111/ab6985",
+            "schema:headline": "The Surface Cell Cooling Coefficient: A Standard to Define Heat Rejection from Lithium Ion Battery Pouch Cells",
+            "schema:author": "Alastair Hales and Mohamed Waseem Marzook and Laura Bravo Diaz and Yatish Patel and Gregory Offer",
+            "schema:description": "<jats:p>There is no universal and quantifiable standard to compare a given cell model\u2019s capability to reject heat. The consequence of this is suboptimal cell designs because cell manufacturers do not have a metric to optimise. The Cell Cooling Coefficient for pouch cell tab cooling (<jats:italic>CCC</jats:italic>\n                  <jats:sub>\n                     <jats:italic>tabs</jats:italic>\n                  </jats:sub>) defines a cell\u2019s capability to reject heat from its tabs. However, surface cooling remains the thermal management approach of choice for automotive and other high-power applications. This study introduces a surface Cell Cooling Coefficient, <jats:italic>CCC</jats:italic>\n                  <jats:sub>\n                     <jats:italic>surf</jats:italic>\n                  </jats:sub> which is shown to be a fundamental property of a lithium-ion cell. <jats:italic>CCC</jats:italic>\n                  <jats:sub>\n                     <jats:italic>surf</jats:italic>\n                  </jats:sub> is found to be considerably larger than <jats:italic>CCC</jats:italic>\n                  <jats:sub>\n                     <jats:italic>tabs</jats:italic>\n                  </jats:sub>, and this is a trend anticipated for every pouch cell currently commercially available. However, surface cooling induces layer-to-layer nonuniformity which is strongly linked to reduced cell performance and reduced cell lifetime. Thus, the Cell Cooling Coefficient enables quantitative comparison of each cooling method. Further, a method is presented for using the Cell Cooling Coefficients to inform the optimal design of a battery pack thermal management system. In this manner, implementation of the Cell Cooling Coefficient can transform the industry, by minimising the requirement for computationally expensive modelling or time consuming experiments in the early stages of battery-pack design.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1149/2.0191912jes"
+            "@id": "https://doi.org/10.1149/2.0191912jes",
+            "schema:headline": "The Cell Cooling Coefficient: A Standard to Define Heat Rejection from Lithium-Ion Batteries",
+            "schema:author": "Alastair Hales and Laura Bravo Diaz and Mohamed Waseem Marzook and Yan Zhao and Yatish Patel and Gregory Offer",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ac79d3"
+            "@id": "https://doi.org/10.1149/1945-7111/ac79d3",
+            "schema:headline": "The Effects of Temperature and Cell Parameters on Lithium-Ion Battery Fast Charging Protocols: A Model-Driven Investigation",
+            "schema:author": "Anna Tomaszewska and Michael Parkes and Robert Doel and Gregory Offer and Billy Wu",
+            "schema:description": "<jats:p>The risk of lithium plating is a key barrier to lithium-ion battery fast charging. Among other strategies, many alternative charging protocols have been proposed to reduce the plating propensity compared to the conventional constant current-constant voltage (CC-CV) protocol. However, conflicting results have been reported on their impacts on battery lifetime. This work investigates the performance of CC-CV and a boost charging protocol using an electrochemical-thermal model which accounts for nonlinear diffusion and reversible lithium plating. The relative performance of the protocols is found to ultimately depend on the solid phase and ion diffusion timescales. Boost charging is beneficial when both these timescales are short, i.e. in power cells in general or in energy cells at sufficiently high temperatures. The high concentration gradients that develop during the boost stage can sufficiently relax in the subsequent lower current stage to reduce the plating propensity in these cases. When the diffusion timescales are long, boost charging leads to increased plating heterogeneity (driven by the ion diffusion limitations) and slightly increased plating propensity (driven by the solid phase diffusion limitations). Our findings highlight the need to study alternative charging protocols at a wide range of conditions and on different cells before practical deployment.</jats:p>",
+            "schema:datePublished": 2022
         }
     ],
     "hasCase": [

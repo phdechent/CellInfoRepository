@@ -15,190 +15,434 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1007/s42452-020-2675-6"
+            "@id": "https://doi.org/10.1007/s42452-020-2675-6",
+            "schema:headline": "Lithium-ion battery modeling using CC\u2013CV and impedance spectroscopy characterizations",
+            "schema:author": "Tillmann St\u00fcbler and Amine Lahyani and Amen Allah Zayoud",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229463"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229463",
+            "schema:headline": "High frequency impedance characteristics of cylindrical lithium-ion cells: Physical-based modeling of cell state and cell design dependencies",
+            "schema:author": "Thomas F. Landinger and Guenter Schwarzberger and Andreas Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.sna.2021.113061"
+            "@id": "https://doi.org/10.1016/j.sna.2021.113061",
+            "schema:headline": "An accessible method of embedding fibre optic sensors on lithium-ion battery surface for in-situ thermal monitoring",
+            "schema:author": "Keith M. Alcock and Markus Grammel and \u00c1lvaro Gonz\u00e1lez-Vila and Leonardo Binetti and Keng Goh and Lourdes S.M. Alwis",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.3390/en11051073"
+            "@id": "https://doi.org/10.3390/en11051073",
+            "schema:headline": "Online Internal Resistance Measurement Application in Lithium Ion Battery Capacity and State of Charge Estimation",
+            "schema:author": "Yun Bao and Wenbin Dong and Dian Wang",
+            "schema:description": "<jats:p>State of charge (SOC) and state of health (SOH) are two significant state parameters for the lithium ion batteries (LiBs). In obtaining these states, the capacity of the battery is an indispensable parameter that is hard to detect directly online. However, there is a strong correlation relationship between this parameter and battery internal resistance. This article first shows a simple and effective online internal resistance detection method. Secondly, the relationship between the measured internal resistance and the LiBs capacity is established by linear fitting. Finally, the capacity through internal resistance conversion is applied in SOC estimation. The estimation results show that this method can effectively enhance the SOC estimation accuracy regardless of temperature change and battery degradation.</jats:p>",
+            "schema:datePublished": 2018
         },
         {
-            "@id": "https://doi.org/10.1016/j.egyr.2023.04.148"
+            "@id": "https://doi.org/10.1016/j.egyr.2023.04.148",
+            "schema:headline": "Internal short circuit fault diagnosis based on 1DVCNN in lithium battery storage system",
+            "schema:author": "Han Liu and Tao Han and Shangshuai Hao and Gang Li",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1155/2017/2579084"
+            "@id": "https://doi.org/10.1155/2017/2579084",
+            "schema:headline": "A Novel Electric Bicycle Battery Monitoring System Based on Android Client",
+            "schema:author": "Chuanxue Song and Yulong Shao and Shixin Song and Silun Peng and Feng Xiao",
+            "schema:description": "<jats:p>The battery monitoring system (BMS) plays a crucial role in maintaining the safe operation of the lithium battery electric bicycle and prolonging the life of the battery pack. This paper designed a set of new battery monitoring systems based on the Android system and ARM single-chip microcomputer to enable direct management of the lithium battery pack and convenient monitoring of the state of the battery pack. The BMS realizes the goal of monitoring the voltage, current, and ambient temperature of lithium batteries, estimating the state of charge (SOC) and state of health (SOH), protecting the battery from abuse during charging or discharging, and ensuring the consistency of the batteries by integrating the passive equalization circuit. The BMS was proven effective and feasible through several tests, including charging/discharging, estimation accuracy, and communication tests. The results indicated that the BMS could be used in the design and application of the electric bicycle.</jats:p>",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1016/j.compeleceng.2021.107306"
+            "@id": "https://doi.org/10.1016/j.compeleceng.2021.107306",
+            "schema:headline": "Programmable logic controller based lithium-ion battery management system for accurate state of charge estimation",
+            "schema:author": "Nabil Mohammed and Ahmed Majed Saif",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.applthermaleng.2017.04.017"
+            "@id": "https://doi.org/10.1016/j.applthermaleng.2017.04.017",
+            "schema:headline": "3-D CFD modeling and experimental testing of thermal behavior of a Li-Ion battery",
+            "schema:author": "Emre G\u00fcm\u00fc\u015fsu and \u00d6zg\u00fcr Ekici and Murat K\u00f6ksal",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1016/j.applthermaleng.2020.116338"
+            "@id": "https://doi.org/10.1016/j.applthermaleng.2020.116338",
+            "schema:headline": "A thermal model for Li-ion batteries operating under dynamic conditions",
+            "schema:author": "Ali Amini and Tan\u0131lay \u00d6zdemir and \u00d6zg\u00fcr Ekici and S. \u00c7a\u011flar Ba\u015flam\u0131\u015fl\u0131 and Murat K\u00f6ksal",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.renene.2019.08.077"
+            "@id": "https://doi.org/10.1016/j.renene.2019.08.077",
+            "schema:headline": "Optimized charging of lithium-ion battery for electric vehicles: Adaptive multistage constant current\u2013constant voltage charging strategy",
+            "schema:author": "Yunjian Li and Kuining Li and Yi Xie and Jiangyan Liu and Chunyun Fu and Bin Liu",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.energy.2023.128126"
+            "@id": "https://doi.org/10.1016/j.energy.2023.128126",
+            "schema:headline": "Heat dissipation performance research between drop contact and immersion contact of lithium-ion battery cooling",
+            "schema:author": "Yunfei Zha and Shunquan He and Xianfeng Meng and Hongyan Zuo and Xiaohuan Zhao",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2020.228189"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2020.228189",
+            "schema:headline": "Non-invasive investigation of predominant processes in the impedance spectra of high energy lithium-ion batteries with nickel\u2013cobalt\u2013aluminum cathodes",
+            "schema:author": "Pouyan Shafiei Sabet and Gereon Stahl and Dirk Uwe Sauer",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.egyr.2021.11.089"
+            "@id": "https://doi.org/10.1016/j.egyr.2021.11.089",
+            "schema:headline": "Numerical study on the air-cooled thermal management of Lithium-ion battery pack for electrical vehicles",
+            "schema:author": "Patcharin Saechan and Isares Dhuchakallaya",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/en10091284"
+            "@id": "https://doi.org/10.3390/en10091284",
+            "schema:headline": "Online Lithium-Ion Battery Internal Resistance Measurement Application in State-of-Charge Estimation Using the Extended Kalman Filter",
+            "schema:author": "Dian Wang and Yun Bao and Jianjun Shi",
+            "schema:description": "<jats:p>The lithium-ion battery is a viable power source for hybrid electric vehicles (HEVs) and, more recently, electric vehicles (EVs). Its performance, especially in terms of state of charge (SOC), plays a significant role in the energy management of these vehicles. The extended Kalman filter (EKF) is widely used to estimate online SOC as an efficient estimation algorithm. However, conventional EKF algorithms cannot accurately estimate the difference between individual batteries, which should not be ignored. However, the internal resistance of a battery can represent this difference. Therefore, this work proposes using an EKF with internal resistance measurement based on the conventional algorithm. Lithium-ion battery real-time resistances can help the Kalman filter overcome defects from simplistic battery models. In addition, experimental results show that it is useful to introduce online internal resistance to the estimation of SOC.</jats:p>",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2021.102466"
+            "@id": "https://doi.org/10.1016/j.est.2021.102466",
+            "schema:headline": "Optimization of charging strategy for lithium-ion battery packs based on complete battery pack model",
+            "schema:author": "Yunjian Li and Kuining Li and Yi Xie and Bin Liu and Jiangyan Liu and Jintao Zheng and Wei Li",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.105977"
+            "@id": "https://doi.org/10.1016/j.est.2022.105977",
+            "schema:headline": "The analysis on the battery thermal management system with composite phase change materials coupled air cooling and fins",
+            "schema:author": "Qingkai Gu and Guijing Li and Zhaoran Wu",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2022.120037"
+            "@id": "https://doi.org/10.1016/j.apenergy.2022.120037",
+            "schema:headline": "An online hybrid estimation method for core temperature of Lithium-ion battery with model noise compensation",
+            "schema:author": "Yongjie Liu and Zhiwu Huang and Yue Wu and Lisen Yan and Fu Jiang and Jun Peng",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
             "@id": "https://www.semanticscholar.org/paper/47f0a69588a997c00a57c4908c3132b06e440779"
         },
         {
-            "@id": "https://doi.org/10.22149/teee.v4i1.136"
+            "@id": "https://doi.org/10.22149/teee.v4i1.136",
+            "schema:headline": "Comprehensive Analysis of Pre-Charge Sequence in Automotive Battery Systems",
+            "schema:author": "Murat Kubilay Ozguc and Eymen Ipek and Kadir Aras and Koray Erhan",
+            "schema:description": "<jats:p>&lt;p&gt;Electric vehicles (EV) have brought promising technologies for future mobility solutions. As one of the key components of EVs, battery systems have fundamental functions which disconnect the battery during parking and in case of failure. To provide a safe system, specialized high voltage (HV) electromechanical switches are used to perform these major functions such as switch on, switch off or pre-charging. Due to these components can be easily damaged, expensive, heavy and bulky, a solution based on pure semiconductors may be desired to accomplish these operations. Many studies were exhibited on EV battery systems regarding developing solid-state systems for HV switchgear. Developing technology on semiconductor devices allows to make a safety concept based on only solidstate components. This study presents a comprehensive analysis off pre-charge sequences between conventional and semiconductor switchgear to be used in electric vehicle battery systems. Spice simulations are presented to investigate advantages and drawbacks of these systems.&lt;/p&gt;</jats:p>",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2021.102457"
+            "@id": "https://doi.org/10.1016/j.est.2021.102457",
+            "schema:headline": "State-of-charge estimation of lithium-ion battery pack by using an adaptive extended Kalman filter for electric vehicles",
+            "schema:author": "Zhiyong Zhang and Li Jiang and Liuzhu Zhang and Caixia Huang",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2020.101552"
+            "@id": "https://doi.org/10.1016/j.est.2020.101552",
+            "schema:headline": "Prediction of constant power delivery of lithium-ion cells at high loads",
+            "schema:author": "Christoph Nebl and Frank-Oliver Kotzur and Daniel Koch and Hans-Georg Schweiger",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2019.227466"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2019.227466",
+            "schema:headline": "Lithium heterogeneities in cylinder-type Li-ion batteries \u2013 fatigue induced by cycling",
+            "schema:author": "D. Petz and M.J. M\u00fchlbauer and V. Baran and M. Frost and A. Sch\u00f6kel and C. Paulmann and Y. Chen and D. Garc\u00e9s and A. Senyshyn",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2020.101789"
+            "@id": "https://doi.org/10.1016/j.est.2020.101789",
+            "schema:headline": "Elman neural network using ant colony optimization algorithm for estimating of state of charge of lithium-ion battery",
+            "schema:author": "Xiaobo Zhao and Dongji Xuan and Kaiye Zhao and Zhenzhe Li",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.105796"
+            "@id": "https://doi.org/10.1016/j.est.2022.105796",
+            "schema:headline": "State of charge estimation of lithium-ion battery based on multi-input extreme learning machine using online model parameter identification",
+            "schema:author": "Xiaobo Zhao and Xiao Qian and Dongji Xuan and Seunghun Jung",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2020.228690"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2020.228690",
+            "schema:headline": "Inhomogeneous distribution of lithium and electrolyte in aged Li-ion cylindrical cells",
+            "schema:author": "M.J. M\u00fchlbauer and D. Petz and V. Baran and O. Dolotko and M. Hofmann and R. Kostecki and A. Senyshyn",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.micpro.2020.103711"
+            "@id": "https://doi.org/10.1016/j.micpro.2020.103711",
+            "schema:headline": "On the efficacy of SoC-preconditioning on the utilization of battery packs in Electric Vehicles",
+            "schema:author": "Alexander Lamprecht and Ananth Garikapati and Swaminathan Narayanaswamy and Johannes Machleid and Sebastian Steinhorst",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.105345"
+            "@id": "https://doi.org/10.1016/j.est.2022.105345",
+            "schema:headline": "Lithium plating detection using differential charging current analysis in lithium-ion batteries",
+            "schema:author": "Markos Koseoglou and Evangelos Tsioumas and Dimitra Ferentinou and Iordanis Panagiotidis and Nikolaos Jabbour and Dimitrios Papagiannis and Christos Mademlis",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.108047"
+            "@id": "https://doi.org/10.1016/j.est.2023.108047",
+            "schema:headline": "State of charge estimation of lithium-ion battery based on improved adaptive boosting algorithm",
+            "schema:author": "Xiaobo Zhao and Seunghun Jung and Biao Wang and Dongji Xuan",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1016/j.energy.2021.119901"
+            "@id": "https://doi.org/10.1016/j.energy.2021.119901",
+            "schema:headline": "Prognostics of battery cycle life in the early-cycle stage based on hybrid model",
+            "schema:author": "Yu Zhang and Zhen Peng and Yong Guan and Lifeng Wu",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2016.04.007"
+            "@id": "https://doi.org/10.1016/j.est.2016.04.007",
+            "schema:headline": "Cell sorting for parallel lithium-ion battery systems: Evaluation based on an electric circuit model",
+            "schema:author": "Fuqiang An and Jun Huang and Chengyu Wang and Zhe Li and Jianbo Zhang and Sean Wang and Ping Li",
+            "schema:description": "",
+            "schema:datePublished": 2016
         },
         {
-            "@id": "https://doi.org/10.1016/j.engfailanal.2019.104290"
+            "@id": "https://doi.org/10.1016/j.engfailanal.2019.104290",
+            "schema:headline": "Mechanism of the dynamic behaviors and failure analysis of lithium-ion batteries under crushing based on stress wave theory",
+            "schema:author": "Huajie Zhang and Mingzhe Zhou and Lingling Hu and Ziwen Zhang",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.ijepes.2021.107760"
+            "@id": "https://doi.org/10.1016/j.ijepes.2021.107760",
+            "schema:headline": "Dynamic battery equalization scheme of multi-cell lithium-ion battery pack based on PSO and VUFLC",
+            "schema:author": "Biao Wang and Dongji Xuan and Xiaobo Zhao and Jiahui Chen and Chenlei Lu",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2015.12.083"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2015.12.083",
+            "schema:headline": "Electrochemical model parameter identification of a lithium-ion battery using particle swarm optimization method",
+            "schema:author": "Md Ashiqur Rahman and Sohel Anwar and Afshin Izadian",
+            "schema:description": "",
+            "schema:datePublished": 2016
         },
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2022.118878"
+            "@id": "https://doi.org/10.1016/j.apenergy.2022.118878",
+            "schema:headline": "User-involved charging control for lithium-ion batteries with economic cost optimization",
+            "schema:author": "Quan Ouyang and Ruyi Fang and Guotuan Xu and Yonggang Liu",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.104141"
+            "@id": "https://doi.org/10.1016/j.est.2022.104141",
+            "schema:headline": "A computationally efficient adaptive online state-of-charge observer for Lithium-ion battery for electric vehicle",
+            "schema:author": "Bashar Mohammad Othman and Zainal Salam and Abdul Rashid Husain",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.csite.2022.102269"
+            "@id": "https://doi.org/10.1016/j.csite.2022.102269",
+            "schema:headline": "Synergistic inhibition effect on lithium-ion batteries during thermal runaway by N2-twin-fluid liquid mist",
+            "schema:author": "Zhang Tianwei and Liu Hao and Song Jiwei and Wang Bo and Wang Yong and Shuai Xinchen and Guo Zidong",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2020.101329"
+            "@id": "https://doi.org/10.1016/j.est.2020.101329",
+            "schema:headline": "Rate dependency of incremental capacity analysis (dQ/dV) as a diagnostic tool for lithium-ion batteries",
+            "schema:author": "A. Fly and R. Chen",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.108131"
+            "@id": "https://doi.org/10.1016/j.est.2023.108131",
+            "schema:headline": "A novel dual-purpose thermal runaway propagation mitigation system using a liquid cooling pipe with aperture sealed by films",
+            "schema:author": "Ping Ping and Jin Du and Xinyi Dai and Depeng Kong and Rongqi Peng",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1016/j.jlp.2022.104893"
+            "@id": "https://doi.org/10.1016/j.jlp.2022.104893",
+            "schema:headline": "Explosion protection for prompt and delayed deflagrations in containerized lithium-ion battery energy storage systems",
+            "schema:author": "Adam Barowy and Alexandra Schraiber and Robert Zalosh",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2017.05.015"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2017.05.015",
+            "schema:headline": "Durability and reliability of electric vehicle batteries under electric utility grid operations: Bidirectional charging impact analysis",
+            "schema:author": "Matthieu Dubarry and Arnaud Devie and Katherine McKenzie",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1016/j.energy.2020.119490"
+            "@id": "https://doi.org/10.1016/j.energy.2020.119490",
+            "schema:headline": "A novel online method for predicting the remaining useful life of lithium-ion batteries considering random variable discharge current",
+            "schema:author": "Dongxu Shen and Lifeng Wu and Guoqing Kang and Yong Guan and Zhen Peng",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2021.103389"
+            "@id": "https://doi.org/10.1016/j.est.2021.103389",
+            "schema:headline": "A novel parameter adaptive method for state of charge estimation of aged lithium batteries",
+            "schema:author": "Depeng Kong and Shuhui Wang and Ping Ping",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.ijthermalsci.2017.09.019"
+            "@id": "https://doi.org/10.1016/j.ijthermalsci.2017.09.019",
+            "schema:headline": "Thermal management of lithium ion batteries using graphene coated nickel foam saturated with phase change materials",
+            "schema:author": "Abid Hussain and Irfan H. Abidi and C.Y. Tso and K.C. Chan and Zhengtang Luo and Christopher Y.H. Chao",
+            "schema:description": "",
+            "schema:datePublished": 2018
         },
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2019.114019"
+            "@id": "https://doi.org/10.1016/j.apenergy.2019.114019",
+            "schema:headline": "An enhanced multi-state estimation hierarchy for advanced lithium-ion battery management",
+            "schema:author": "Xiaosong Hu and Haifu Jiang and Fei Feng and Bo Liu",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1109/tii.2020.2983176"
+            "@id": "https://doi.org/10.1109/tii.2020.2983176",
+            "schema:headline": "Real-Time Optimal Lithium-Ion Battery Charging Based on Explicit Model Predictive Control",
+            "schema:author": "Ning Tian and Huazhen Fang and Yebin Wang",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1002/advs.201700369"
+            "@id": "https://doi.org/10.1002/advs.201700369",
+            "schema:headline": "Identifying the Cause of Rupture of Li\u2010Ion Batteries during Thermal Runaway",
+            "schema:author": "Donal P. Finegan and Eric Darcy and Matthew Keyser and Bernhard Tjaden and Thomas M. M. Heenan and Rhodri Jervis and Josh J. Bailey and Nghia T. Vo and Oxana V. Magdysyuk and Michael Drakopoulos and Marco Di Michiel and Alexander Rack and Gareth Hinds and Dan J. L. Brett and Paul R. Shearing",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>As the energy density of lithium\u2010ion cells and batteries increases, controlling the outcomes of thermal runaway becomes more challenging. If the high rate of gas generation during thermal runaway is not adequately vented, commercial cell designs can rupture and explode, presenting serious safety concerns. Here, ultra\u2010high\u2010speed synchrotron X\u2010ray imaging is used at &gt;20 000 frames per second to characterize the venting processes of six different 18650 cell designs undergoing thermal runaway. For the first time, the mechanisms that lead to the most catastrophic type of cell failure, rupture, and explosion are identified and elucidated in detail. The practical application of the technique is highlighted by evaluating a novel 18650 cell design with a second vent at the base, which is shown to avoid the critical stages that lead to rupture. The insights yielded in this study shed new light on battery failure and are expected to guide the development of safer commercial cell designs.</jats:p>",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.104709"
+            "@id": "https://doi.org/10.1016/j.est.2022.104709",
+            "schema:headline": "A low temperature preheating strategy with optimized fuzzy controller for lithium-ion batteries",
+            "schema:author": "Zhiwu Huang and Zhiwei Gao and Yongjie Liu and Kaifu Guan and Yao Lu and Feng Zhou and Fu Jiang and Jun Peng",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.ijthermalsci.2020.106611"
+            "@id": "https://doi.org/10.1016/j.ijthermalsci.2020.106611",
+            "schema:headline": "A resistance-based electro-thermal coupled model for an air-cooled battery pack that considers branch current variation",
+            "schema:author": "Yi Xie and Xi Wang and Wei Li and Yangjun Zhang and Dan Dan and Kuining Li and Fei Feng and Cunxue Wu and Pingzhong Wang",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.firesaf.2021.103382"
+            "@id": "https://doi.org/10.1016/j.firesaf.2021.103382",
+            "schema:headline": "More on methods to measure the energetics of lithium ion batteries in thermal runaway",
+            "schema:author": "J.G. Quintiere",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.electacta.2020.136094"
+            "@id": "https://doi.org/10.1016/j.electacta.2020.136094",
+            "schema:headline": "Electrochemical model of lithium-ion battery for wide frequency range applications",
+            "schema:author": "Qi Zhang and Dafang Wang and Bowen Yang and Xing Cui and Xu Li",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1109/tcst.2020.2976036"
+            "@id": "https://doi.org/10.1109/tcst.2020.2976036",
+            "schema:headline": "Nonlinear Double-Capacitor Model for Rechargeable Batteries: Modeling, Identification, and Validation",
+            "schema:author": "Ning Tian and Huazhen Fang and Jian Chen and Yebin Wang",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.rineng.2022.100703"
+            "@id": "https://doi.org/10.1016/j.rineng.2022.100703",
+            "schema:headline": "A review on recent key technologies of lithium-ion battery thermal management: External cooling systems",
+            "schema:author": "Marwa Mahmoud Hamed and A. El-Tayeb and Ibrahim Moukhtar and A.Z. El Dein and Esam H. Abdelhameed",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2020.101561"
+            "@id": "https://doi.org/10.1016/j.est.2020.101561",
+            "schema:headline": "Failure mode analysis of lithium ion batteries operated for low Earth orbit CubeSat applications",
+            "schema:author": "R.W. Cook and L.G. Swan and K.P. Plucknett",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.actaastro.2021.04.042"
+            "@id": "https://doi.org/10.1016/j.actaastro.2021.04.042",
+            "schema:headline": "Energy storage selection and operation for night-time survival of small lunar surface systems",
+            "schema:author": "J\u00e1nos Biswas and Pietro Queiroga Malzone and Felix R\u00f6\u00dfler",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1149/2.0241512jes"
+            "@id": "https://doi.org/10.1149/2.0241512jes",
+            "schema:headline": "Comment on \u201cA Comparative Testing Study of Commercial 18650-Format Lithium-Ion Battery Cells\u201d [<i>J. Electrochem. Soc.</i>, 162, A1592 (2015)]",
+            "schema:author": "Valentin Muenzel and Anthony F. Hollenkamp and Anand I. Bhatt and Julian de Hoog and Marcus Brazil and Doreen A. Thomas and Iven Mareels",
+            "schema:description": "",
+            "schema:datePublished": 2015
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2021.102777"
+            "@id": "https://doi.org/10.1016/j.est.2021.102777",
+            "schema:headline": "Modelling aluminium energy storage systems comprising ionic liquid and aqueous electrolyte cells: Case studies in high-performance electric vehicles",
+            "schema:author": "Tao Zhu and Richard G.A. Wills and Roberto Lot",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1149/2.0721508jes"
+            "@id": "https://doi.org/10.1149/2.0721508jes",
+            "schema:headline": "A Comparative Testing Study of Commercial 18650-Format Lithium-Ion Battery Cells",
+            "schema:author": "Valentin Muenzel and Anthony F. Hollenkamp and Anand I. Bhatt and Julian de Hoog and Marcus Brazil and Doreen A. Thomas and Iven Mareels",
+            "schema:description": "",
+            "schema:datePublished": 2015
         },
         {
-            "@id": "https://doi.org/10.1002/er.4193"
+            "@id": "https://doi.org/10.1002/er.4193",
+            "schema:headline": "A novel resistance-based thermal model for lithium-ion batteries",
+            "schema:author": "Yi Xie and Wei Li and Yong Yang and Fei Feng",
+            "schema:description": "",
+            "schema:datePublished": 2018
         },
         {
-            "@id": "https://doi.org/10.1002/est2.141"
+            "@id": "https://doi.org/10.1002/est2.141",
+            "schema:headline": "Adaptive fast charging methodology for commercial Li\u2010ion batteries based on the internal resistance spectrum",
+            "schema:author": "Sandeep S. Sebastian and Bo Dong and Taner Zerrin and Pedro A. Pena and Amirali S. Akhavi and Yige Li and Cengiz S. Ozkan and Mihrimah Ozkan",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>Development of lithium\u2010ion batteries (LIBs) with high energy density has brought a promising future for the next generation of electric vehicles (EV). In order to make EVs more competitive with combustion engine vehicles, development of an effective fast charging technique is inevitable. However, improper employment of fast charging can damage the battery and bring safety hazards. Herein, industry based along with our proposed internal resistance (IR) based fast charging techniques were performed on commercial Panasonic NCR 18650B cylindrical batteries. To further investigate the fast charging impact and electrode degradation mechanisms, electrochemical analysis and material characterization techniques including EIS (electrochemical impedance spectroscopy), GITT (galvanostatic intermittent titration technique), SEM (scanning electron microscopy), and XRD (X\u2010ray diffraction) were implemented. Batteries that were cycled under industry based fast charging showed 78% increase in internal resistance after 120\u2009cycles along with rapid capacity fading. Mechanical distortion of the battery case occurred around the 60th cycle for industry based fast charging. In contrast, IR based fast charged batteries showed 29.4% increase in internal resistance over 120\u2009cycles. In addition, mechanical distortion was not observed and the relative capacity fading was on a moderate level. Furthermore, this work could pave the way for the optimization of fast charging techniques to secure the lifespan and safety of various types of lithium\u2010ion batteries.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1109/access.2019.2949357"
+            "@id": "https://doi.org/10.1109/access.2019.2949357",
+            "schema:headline": "SOC Oriented Electrochemical-Thermal Coupled Modeling for Lithium-Ion Battery",
+            "schema:author": "Yan Ma and Xin Li and Guangyuan Li and Yunfeng Hu and Qingwen Bai",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.3390/en10122107"
+            "@id": "https://doi.org/10.3390/en10122107",
+            "schema:headline": "Lithium-Ion Battery Storage for the Grid\u2014A Review of Stationary Battery Storage System Design Tailored for Applications in Modern Power Grids",
+            "schema:author": "Holger Hesse and Michael Schimpe and Daniel Kucevic and Andreas Jossen",
+            "schema:description": "<jats:p>Battery energy storage systems have gained increasing interest for serving grid support in various application tasks. In particular, systems based on lithium-ion batteries have evolved rapidly with a wide range of cell technologies and system architectures available on the market. On the application side, different tasks for storage deployment demand distinct properties of the storage system. This review aims to serve as a guideline for best choice of battery technology, system design and operation for lithium-ion based storage systems to match a specific system application. Starting with an overview to lithium-ion battery technologies and their characteristics with respect to performance and aging, the storage system design is analyzed in detail based on an evaluation of real-world projects. Typical storage system applications are grouped and classified with respect to the challenges posed to the battery system. Publicly available modeling tools for technical and economic analysis are presented. A brief analysis of optimization approaches aims to point out challenges and potential solution techniques for system sizing, positioning and dispatch operation. For all areas reviewed herein, expected improvements and possible future developments are highlighted. In order to extract the full potential of stationary battery storage systems and to enable increased profitability of systems, future research should aim to a holistic system level approach combining not only performance tuning on a battery cell level and careful analysis of the application requirements, but also consider a proper selection of storage sub-components as well as an optimized system operation strategy.</jats:p>",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.3390/en14175434"
+            "@id": "https://doi.org/10.3390/en14175434",
+            "schema:headline": "Development of an Informative Lithium-Ion Battery Datasheet",
+            "schema:author": "Weiping Diao and Chetan Kulkarni and Michael Pecht",
+            "schema:description": "<jats:p>Lithium-ion battery datasheets, also known as specification sheets, are documents that battery manufacturers provide to define the battery\u2019s function, operational limit, performance, reliability, safety, cautions, prohibitions, and warranty. Product manufacturers and customers rely on the datasheets for battery selection and battery management. However, battery datasheets often have ambiguous and, in many cases, misleading terminology and data. This paper reviews and evaluates the datasheets of 25 different lithium-ion battery types from eleven major battery manufacturers. Issues that customers may face are discussed, and recommendations for developing an informative and valuable datasheet that will help customers procure suitable batteries are presented.</jats:p>",
+            "schema:datePublished": 2021
         }
     ],
     "hasCase": [

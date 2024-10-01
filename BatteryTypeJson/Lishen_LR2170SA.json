@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.3390/batteries8100145"
+            "@id": "https://doi.org/10.3390/batteries8100145",
+            "schema:headline": "State of Charge Estimation of Lithium-Ion Battery for Electric Vehicles under Extreme Operating Temperatures Based on an Adaptive Temporal Convolutional Network",
+            "schema:author": "Jiazhi Miao and Zheming Tong and Shuiguang Tong and Jun Zhang and Jiale Mao",
+            "schema:description": "<jats:p>The accurate estimation of state of charge (SOC) under various conditions is critical to the research and application of batteries, especially at extreme temperatures. However, few studies have examined the SOC estimation performance of estimation algorithms for several types of batteries under such conditions. In this study, a new method was derived for SOC estimation and a series of experiments were conducted covering five types of lithium-ion batteries with three kinds of cathode materials (i.e., LiFePO4, Li(Ni0.5Co0.2Mn0.3)O2, and LiCoO2), three test temperatures, and four real driving cycles to verify the proposed method. The test temperatures for battery operation ranges from \u221220 to 60 \u00b0C. Then, an adaptive machine learning (ML) framework based on the deep temporal convolutional network (TCN) and Coulomb counting method was proposed, and the structure of the estimation model was designed through the Taguchi method. The accuracy and generalizability of the proposed method were evaluated by calculating the estimation errors and their standard deviations (SDs), its average errors showed a decline of at least 49.66%, and its SDs showed a decline of at least 45.88% when compared to four popular ML methods. These traditional ML methods performed poor accuracy and stability at extreme temperatures (\u221220 and 60 \u00b0C) when compared to 25 \u00b0C, while the proposed adaptive method exhibited stable and high performances at different temperatures.</jats:p>",
+            "schema:datePublished": 2022
         }
     ],
     "hasProperty": [

@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.3390/electronics8121395"
+            "@id": "https://doi.org/10.3390/electronics8121395",
+            "schema:headline": "Power Capability Analysis of Lithium Battery and Supercapacitor by Pulse Duration",
+            "schema:author": "Seongjun Lee and Jonghoon Kim",
+            "schema:description": "<jats:p>In this report, a method for estimating pulse power performance according to pulse duration is proposed. This approach can be used for power control logic in an environmentally friendly power generation system such as electric vehicles and an energy storage system (ESS). Although there have been studies on pulse power capability, we are unaware of any publications on the estimation of the magnitude of pulse power according to the power usage time, and the verification of the estimation result. Therefore, we propose a method to predict power performance according to the pulse duration of batteries and supercapacitors that are used in eco-friendly power generation systems. The proposed method is systematically presented using both a lithium-ion battery module with a nominal voltage of 44 V, 11 Ah, and a supercapacitor module with a maximum voltage of 36 V and a capacitance of 30 F.</jats:p>",
+            "schema:datePublished": 2019
         }
     ],
     "hasCase": [

@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.107424"
+            "@id": "https://doi.org/10.1016/j.est.2023.107424",
+            "schema:headline": "A new method to perform lithium-ion battery pack fault diagnostics \u2013 Part 3: Adaptation for fast charging",
+            "schema:author": "Anubhav Singh and Andrew Lodge and Yi Li and Widanalage Dhammika Widanage and Anup Barai",
+            "schema:description": "",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

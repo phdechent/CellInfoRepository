@@ -15,10 +15,18 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395"
+            "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395",
+            "schema:headline": "Model Study of Lithium-Ion Battery Temperature Field",
+            "schema:author": "Hong-Yu Xu and Pan Zhang and Kua-Hai Yu and Xu-Hui Zhang",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395"
+            "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395",
+            "schema:headline": "Model Study of Lithium-Ion Battery Temperature Field",
+            "schema:author": "Hong-Yu Xu and Pan Zhang and Kua-Hai Yu and Xu-Hui Zhang",
+            "schema:description": "",
+            "schema:datePublished": 2017
         }
     ],
     "hasCase": [

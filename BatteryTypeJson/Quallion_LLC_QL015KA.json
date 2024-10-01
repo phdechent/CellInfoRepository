@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/B978-0-444-59513-3.00014-5"
+            "@id": "https://doi.org/10.1016/B978-0-444-59513-3.00014-5",
+            "schema:headline": "Satellite Lithium-Ion Batteries",
+            "schema:author": "Yannick Borthomieu",
+            "schema:description": "",
+            "schema:datePublished": 2014
         }
     ],
     "hasCase": [

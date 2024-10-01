@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.energy.2021.120072"
+            "@id": "https://doi.org/10.1016/j.energy.2021.120072",
+            "schema:headline": "Over-heating triggered thermal runaway behavior for lithium-ion battery with high nickel content in positive electrode",
+            "schema:author": "Haimin Wang and Weijie Shi and Feng Hu and Yufei Wang and Xuebin Hu and Huanqi Li",
+            "schema:description": "",
+            "schema:datePublished": 2021
         }
     ],
     "hasCase": [

@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.2172/925388"
+            "@id": "https://doi.org/10.2172/925388",
+            "schema:headline": "Developments in lithium-ion battery technology in the Peoples Republic of China.",
+            "schema:author": "P. G. Patil",
+            "schema:description": "",
+            "schema:datePublished": 2008
         }
     ],
     "hasProperty": [

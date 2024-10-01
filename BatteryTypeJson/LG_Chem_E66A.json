@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.107580"
+            "@id": "https://doi.org/10.1016/j.est.2023.107580",
+            "schema:headline": "Optimized cooling and thermal analysis of lithium-ion pouch cell under fast charging cycles for electric vehicles",
+            "schema:author": "Ayodeji Adeniran and Sam Park",
+            "schema:description": "",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

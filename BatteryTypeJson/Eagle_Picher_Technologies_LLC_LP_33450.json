@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.3390/en16114422"
+            "@id": "https://doi.org/10.3390/en16114422",
+            "schema:headline": "A Micro-Nuclear Power Generator for Space Missions",
+            "schema:author": "Olukayode L. Ayodele and Doudou N. Luta and Mohammed T. Kahn",
+            "schema:description": "<jats:p>The significance of reliable energy storage systems in spacecraft applications cannot be overstated, since they play a vital role in ensuring continuous power supply and prolonged mission durations. This research deals with the modeling of a hybrid multi-mission radioisotope thermoelectric generator (MMRTG)-lithium-ion (Li-ion) battery integrated energy storage system for spacecraft applications to combine the RTGs\u2019 long lifespan and reliability benefits alongside the Li-ion battery\u2019s rechargeability and high energy density to achieve a single energy unit. The investigation\u2019s main problem was exploring a power unit that improves the limitations of MMRTG and Li-ion batteries to achieve a highly efficient and reliable power supply for autonomous systems, such as a spacecraft. The proposed hybrid system comprises a 110 W/32 V RTG and a 3.6 V/43 Ah Li-ion battery connected to a DC motor through power converters. Results demonstrate the potential of the adopted hybrid energy system in improving the efficiency, reliability, and mission duration of spacecraft missions. The assessment of the hybrid energy system under various load conditions shows that the highest power peak of 3500 W was achieved at a load resistance of 1 \u2126. Furthermore, the results show that the hybrid energy system output voltage at temperatures of 253 \u00b0K and 293 \u00b0K are relatively equal. However, the power cycle was wider and required a long time before dropping.</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

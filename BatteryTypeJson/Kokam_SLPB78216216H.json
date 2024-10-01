@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.electacta.2020.137487"
+            "@id": "https://doi.org/10.1016/j.electacta.2020.137487",
+            "schema:headline": "In-operando Raman study of lithium plating on graphite electrodes of lithium ion batteries",
+            "schema:author": "M.A. Caba\u00f1ero and M Hagen and E. Quiroga-Gonz\u00e1lez",
+            "schema:description": "",
+            "schema:datePublished": 2021
         }
     ],
     "hasCase": [

@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.11591/IJAAS.V8.I1.PP54-63"
+            "@id": "https://doi.org/10.11591/IJAAS.V8.I1.PP54-63",
+            "schema:headline": "Design PV system for a small GEO satellite and studying the effect of using different types of propulsion",
+            "schema:author": "A. Lotfy and W. Anis and Joseph V. M. Halim",
+            "schema:description": "<jats:p>&lt;p&gt;This paper presents an optimum design of the solar Photo-Voltaic (PV) power system for small Geostationary Earth Orbit (GEO) satellites using triple junction solar cells and advanced Lithium Ion batteries. The paper applies the proposed system on various propulsion technologies; full chemical, full electrical and hybrid propulsions. This research work studies the capability to fulfil efficiently all the satellite power requirements during both the launching and the on-station phases while reducing the high cost challenge. Since the propulsion type is a key factor for the satellite cost, an economic analysis is demonstrated and investigated in two different strategies. The first scenario fixes the satellite weight and offers the revenue due to the increase in the satellite payload. However, the second scenario evaluates the saving profits due to the reduction in the satellite weight using the same number of satellite transponders. The analytical comparison among the different propulsion techniques shows the superior advantages of using the full electrical satellites.\u00a0 \u00a0&lt;/p&gt;</jats:p>",
+            "schema:datePublished": 2019
         }
     ],
     "hasProperty": [

@@ -15,13 +15,25 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1149/2.0501913jes"
+            "@id": "https://doi.org/10.1149/2.0501913jes",
+            "schema:headline": "How to Cool Lithium Ion Batteries: Optimising Cell Design using a Thermally Coupled Model",
+            "schema:author": "Yan Zhao and Laura Bravo Diaz and Yatish Patel and Teng Zhang and Gregory J. Offer",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.105676"
+            "@id": "https://doi.org/10.1016/j.est.2022.105676",
+            "schema:headline": "Empirical calendar ageing model for electric vehicles and energy storage systems batteries",
+            "schema:author": "Gaizka Salda\u00f1a and Jos\u00e9 Ignacio San Mart\u00edn and Inmaculada Zamora and Francisco Javier Asensio and Oier O\u00f1ederra and Mikel Gonz\u00e1lez-P\u00e9rez",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1149/2.0501913JES"
+            "@id": "https://doi.org/10.1149/2.0501913JES",
+            "schema:headline": "How to Cool Lithium Ion Batteries: Optimising Cell Design using a Thermally Coupled Model",
+            "schema:author": "Yan Zhao and Laura Bravo Diaz and Yatish Patel and Teng Zhang and Gregory J. Offer",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
             "@id": "https://www.semanticscholar.org/paper/4af78e654e570c4a68fc66ff8d41111af3652cd0"

@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.3390/wevj14040094"
+            "@id": "https://doi.org/10.3390/wevj14040094",
+            "schema:headline": "Second-Life Batteries Modeling for Performance Tracking in a Mobile Charging Station",
+            "schema:author": "Marwan Hassini and Eduardo Redondo-Iglesias and Pascal Venet",
+            "schema:description": "<jats:p>Lithium-ion batteries are seen as a key element in reducing global greenhouse gas emissions from the transport and energy sectors. However, efforts are still needed to minimize their environmental impact. This article presents a path towards a circular economy and more sustainable batteries, thanks to their reuse in mobile charging stations for electric vehicles. This work presents the results of characterization tests and modeling of second life batteries. The presented characterization test and electrical models can be used as references to evaluate the performance of aged batteries after their first life. Detailed test procedures and data results are provided in an open-access data paper.</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

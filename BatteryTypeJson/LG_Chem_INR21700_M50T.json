@@ -15,58 +15,130 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.dib.2021.106894"
+            "@id": "https://doi.org/10.1016/j.dib.2021.106894",
+            "schema:headline": "Experimental data of lithium-ion batteries under galvanostatic discharge tests at different rates and temperatures of operation",
+            "schema:author": "Edoardo Catenaro and Simona Onori",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2020.102133"
+            "@id": "https://doi.org/10.1016/j.est.2020.102133",
+            "schema:headline": "Temperature estimation from current and voltage measurements in lithium-ion battery systems",
+            "schema:author": "P. Wang and L. Yang and H. Wang and D.M. Tartakovsky and S. Onori",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.3390/en13020489"
+            "@id": "https://doi.org/10.3390/en13020489",
+            "schema:headline": "Electric Vehicle Battery Performance Investigation Based on Real World Current Harmonics",
+            "schema:author": "Sid-Ali Amamra and Yashraj Tripathy and Anup Barai and Andrew D. Moore and James Marco",
+            "schema:description": "<jats:p>Electric vehicle (EV) powertrains consist of power electronic components as well as electric machines to manage the energy flow between different powertrain subsystems and to deliver the necessary torque and power requirements at the wheels. These power subsystems can generate undesired electrical harmonics on the direct current (DC) bus of the powertrain. This may lead to the on-board battery being subjected to DC current superposed with undesirable high- and low- frequency current oscillations, known as ripples. From real-world measurements, significant current harmonics perturbations within the range of 50 Hz to 4 kHz have been observed on the high voltage DC bus of the EV. In the limited literature, investigations into the impact of these harmonics on the degradation of battery systems have been conducted. In these studies, the battery systems were supplied by superposed current signals i.e., DC superposed by a single frequency alternating current (AC). None of these studies considered applying the entire spectrum of the ripple current measured in the real-world scenario, which is focused on in this research. The preliminary results indicate that there is no difference concerning capacity fade or impedance rise between the cells subjected to just DC current and those subjected additionally to a superposed AC ripple current.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.104362"
+            "@id": "https://doi.org/10.1016/j.est.2022.104362",
+            "schema:headline": "Real-time estimation of negative electrode potential and state of charge of lithium-ion battery based on a half-cell-level equivalent circuit model",
+            "schema:author": "Cheng Zhang and Tazdin Amietszajew and Shen Li and Monica Marinescu and Gregory Offer and Chongming Wang and Yue Guo and Rohit Bhagat",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1109/icmect.2019.8932115"
+            "@id": "https://doi.org/10.1109/icmect.2019.8932115",
+            "schema:headline": "An Advanced Hardware-in-the-Loop Battery Simulation Platform for the Experimental Testing of Battery Management System",
+            "schema:author": "Truong M. N. Bui and Mona Faraji Niri and Daniel Worwood and Truong Q. Dinh and James Marco",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.104291"
+            "@id": "https://doi.org/10.1016/j.est.2022.104291",
+            "schema:headline": "Distributed internal thermal monitoring of lithium ion batteries with fibre sensors",
+            "schema:author": "Yifei Yu and Timothy Vincent and Jonathan Sansom and David Greenwood and James Marco",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.dib.2022.107995"
+            "@id": "https://doi.org/10.1016/j.dib.2022.107995",
+            "schema:headline": "Lithium-ion battery aging dataset based on electric vehicle real-driving profiles",
+            "schema:author": "Gabriele Pozzato and Anirudh Allam and Simona Onori",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.apenergy.2022.118925"
+            "@id": "https://doi.org/10.1016/j.apenergy.2022.118925",
+            "schema:headline": "Evolution of parameters in the Doyle-Fuller-Newman model of cycling lithium ion batteries by multi-objective optimization",
+            "schema:author": "Wei-Jen Lin and Kuo-Ching Chen",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.105217"
+            "@id": "https://doi.org/10.1016/j.est.2022.105217",
+            "schema:headline": "Thermal evaluation of lithium-ion batteries: Defining the cylindrical cell cooling coefficient",
+            "schema:author": "M. Waseem Marzook and Alastair Hales and Yatish Patel and Gregory Offer and Monica Marinescu",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229594"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229594",
+            "schema:headline": "Optimal cell tab design and cooling strategy for cylindrical lithium-ion batteries",
+            "schema:author": "Shen Li and Niall Kirkaldy and Cheng Zhang and Krishnakumar Gopalakrishnan and Tazdin Amietszajew and Laura Bravo Diaz and Jorge Varela Barreras and Mosayeb Shams and Xiao Hua and Yatish Patel and Gregory J. Offer and Monica Marinescu",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.108046"
+            "@id": "https://doi.org/10.1016/j.est.2023.108046",
+            "schema:headline": "Capacity estimation of lithium-ion batteries based on adaptive empirical wavelet transform and long short-term memory neural network",
+            "schema:author": "Ma\u2019d El-Dalahmeh and Maher Al-Greer and Mo\u2019ath El-Dalahmeh and Imran Bashir",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1007/s00502-020-00814-9"
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9",
+            "schema:headline": "Ante-mortem analysis, electrical, thermal, and ageing testing of state-of-the-art cylindrical lithium-ion cells",
+            "schema:author": "Hartmut Popp and Ningxin Zhang and Marcus Jahn and Mikel Arrinda and Simon Ritz and Matthias Faber and Dirk Uwe Sauer and Philippe Azais and Iosu Cendoya",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>Thanks to its exceptional performance in terms of high energy and power density as well as long lifespan, the lithium-ion secondary battery is the most relevant electrochemical energy storage technology to meet the requirements for partial or full electrification of vehicles (plug-in hybrids or pure electric vehicles), and thanks to decreasing cost and ongoing technical improvements, it will maintain this role in the near to mid-term future. This study benchmarks eight different (five 21700 and three 18650 format) high-energy cylindrical cells concerning their suitability for automotive applications and aims to give a holistic overview and comparison between them. Therefore, an ante-mortem material analysis, a benchmark of electrical and thermal values as well as a cycle life study were carried out. The results show that even when applying similar concepts like Nickel-rich cathodes with graphite-based anodes, the cells show wide variations in their performance under the same test conditions.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9050274"
+            "@id": "https://doi.org/10.3390/batteries9050274",
+            "schema:headline": "Influence of Lithium-Ion-Battery Equivalent Circuit Model Parameter Dependencies and Architectures on the Predicted Heat Generation in Real-Life Drive Cycles",
+            "schema:author": "Marcus Auch and Timo Kuthada and Sascha Giese and Andreas Wagner",
+            "schema:description": "<jats:p>This study investigates the influence of the considered Electric Equivalent Circuit Model (ECM) parameter dependencies and architectures on the predicted heat generation rate by using the Bernardi equation. For this purpose, the whole workflow, from the cell characterization tests to the cell parameter identification and finally validation studies, is examined on a cylindrical 5 Ah LG217000 Lithium-Ion-Battery (LIB) with a nickel manganese cobalt chemistry. Additionally, different test procedures are compared with respect to their result quality. For the parameter identification, a Matlab tool is developed enabling the user to generate all necessary ECMs in one run. The accuracy of the developed ECMs is evaluated by comparing voltage prediction of the experimental and simulation results for the highly dynamic World harmonized Light vehicle Test Cycle (WLTC) at different states of charges (SOCs) and ambient temperatures. The results show that parameter dependencies such as hysteresis and current are neglectable, if only the voltage results are compared. Considering the heat generation prediction, however, the neglection can result in mispredictions of up to 9% (current) or 22% (hysteresis) and hence should not be neglected. Concluding the voltage and heat generation results, this study recommends using a Dual Polarization (DP) or Thevenin ECM considering all parameter dependencies except for the charge/discharge current dependency for thermal modeling of LIBs.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1109/ICMECT.2019.8932115"
+            "@id": "https://doi.org/10.1109/ICMECT.2019.8932115",
+            "schema:headline": "An Advanced Hardware-in-the-Loop Battery Simulation Platform for the Experimental Testing of Battery Management System",
+            "schema:author": "Truong M. N. Bui and Mona Faraji Niri and Daniel Worwood and Truong Q. Dinh and James Marco",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9010006"
+            "@id": "https://doi.org/10.3390/batteries9010006",
+            "schema:headline": "Influence of Breathing and Swelling on the Jelly-Roll Case Gap of Cylindrical Lithium-Ion Battery Cells",
+            "schema:author": "Markus Spielbauer and Marco Steinhardt and Jan Singer and Andreas Aufschl\u00e4ger and Oliver Bohlen and Andreas Jossen",
+            "schema:description": "<jats:p>Cylindrical 18650 and 21700 lithium-ion batteries are produced with small gaps between the jelly roll and the case. The size of these gaps and the mechanical attachment of the jelly roll to the case can have a significant impact on the thermal and mechanical properties of cells. To investigate the influence of the state of charge (SOC) and state of health (SOH) on the size of the gap, computed tomography (CT) and gray-value analysis was conducted with various cell types at 0% and 100% SOC and after cycling. The results show a significant influence of the SOC on the gap for new cells and a substantial reduction in the gap during the first cycles.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1002/ente.202200547"
+            "@id": "https://doi.org/10.1002/ente.202200547",
+            "schema:headline": "Detection of Lithium\u2010Ion Cells\u2019 Degradation through Deconvolution of Electrochemical Impedance Spectroscopy with Distribution of Relaxation Time",
+            "schema:author": "Pietro Iurilli and Claudio Brivio and Vanessa Wood",
+            "schema:description": "<jats:sec><jats:label /><jats:p>Herein, a methodology to investigate aging of commercial cylindrical Li\u2010ion cells is introduced. Distribution of relaxation time (DRT) method is applied to deconvolute electrochemical impedance spectroscopy (EIS) measurements and separate those polarization effects that are usually overlapped in the frequency domain by means of a peak\u2010based representation. Half\u2010cells are built at the beginning and end of life to link the electrochemical and aging processes occurring at anode and/or the cathode sides. Moreover, lab\u2010made full\u2010cells are exploited to verify the reproducibility when compared with cylindrical cells. The results of an extensive analysis of around 500 EIS spectra return an unambiguous attribution of different electrochemical processes to different time constants and ultimately to different DRT peaks. Digital imaging validates graphite degradation, mainly related to lithium plating. Scanning electron microscopy validates the degradation at NMC cathode, mainly attributed to particle cracking. It is concluded that DRT peaks allow to characterize cell aging and their tracking can help to develop more reliable state of health estimators.</jats:p></jats:sec>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/batteries8110204"
+            "@id": "https://doi.org/10.3390/batteries8110204",
+            "schema:headline": "Physics-Based SoH Estimation for Li-Ion Cells",
+            "schema:author": "Pietro Iurilli and Claudio Brivio and Rafael E. Carrillo and Vanessa Wood",
+            "schema:description": "<jats:p>Accurate state of health (SoH) estimation is crucial to optimize the lifetime of Li-ion cells while ensuring safety during operations. This work introduces a methodology to track Li-ion cells degradation and estimate SoH based on electrochemical impedance spectroscopy (EIS) measurements. Distribution of relaxation times (DRT) were exploited to derive indicators linked to the so-called degradation modes (DMs), which group the different aging mechanisms. The combination of these indicators was used to model the aging progression over the whole lifetime (both in the \u201cpre-knee\u201d and \u201cafter-knee\u201d regions), enabling a physics-based SoH estimation. The methodology was applied to commercial cylindrical cells (NMC811|Graphite SiOx). The results showed that loss of lithium inventory (LLI) is the main driving factor for cell degradation, followed by loss of cathode active material (LAMC). SoH estimation was achievable with a mean absolute error lower than 0.75% for SoH values higher than 85% and lower than 3.70% SoH values between 85% and 80% (end of life). The analyses of the results will allow for guidelines to be defined to replicate the presented methodology, characterize new Li-ion cell types, and perform onboard SoH estimation in battery management system (BMS) solutions.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9060309"
+            "@id": "https://doi.org/10.3390/batteries9060309",
+            "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells\u2014A Generic Overview",
+            "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
+            "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasCase": [

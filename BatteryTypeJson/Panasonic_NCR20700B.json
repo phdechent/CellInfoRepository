@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.3390/batteries9060309"
+            "@id": "https://doi.org/10.3390/batteries9060309",
+            "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells\u2014A Generic Overview",
+            "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
+            "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
+            "schema:datePublished": 2023
         }
     ],
     "hasProperty": [

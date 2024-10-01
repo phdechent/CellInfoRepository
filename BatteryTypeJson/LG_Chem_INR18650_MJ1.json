@@ -15,136 +15,312 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1016/j.dib.2020.106033"
+            "@id": "https://doi.org/10.1016/j.dib.2020.106033",
+            "schema:headline": "Data for an Advanced Microstructural and Electrochemical Datasheet on 18650 Li-ion Batteries with Nickel-Rich NMC811 Cathodes and Graphite-Silicon Anodes",
+            "schema:author": "T.M.M. Heenan and A. Jnawali and M. Kok and T. G Tranter and C. Tan and A. Dimitrijevic and R. Jervis and D.J.L. Brett and P.R. Shearing",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2019.226834"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2019.226834",
+            "schema:headline": "Suitability of physicochemical models for embedded systems regarding a nickel-rich, silicon-graphite lithium-ion battery",
+            "schema:author": "J. Sturm and S. Ludwig and J. Zwirner and C. Ramirez-Garcia and B. Heinrich and M.F. Horsche and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.108029"
+            "@id": "https://doi.org/10.1016/j.est.2023.108029",
+            "schema:headline": "An analysis of the current state and obstacles in discrete layered finite element simulation of crushing cylindrical lithium-ion cells",
+            "schema:author": "Markus Spielbauer and Franziska Peteler and Andr\u00e1s N\u00e9meth and Jonas Soellner and Philipp Berg and Oliver Bohlen and Andreas Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2019.03.109"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2019.03.109",
+            "schema:headline": "Reversible self-discharge and calendar aging of 18650 nickel-rich, silicon-graphite lithium-ion cells",
+            "schema:author": "I. Zilberman and J. Sturm and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.egyai.2021.100081"
+            "@id": "https://doi.org/10.1016/j.egyai.2021.100081",
+            "schema:headline": "Lithium-ion battery data and where to find it",
+            "schema:author": "Gon\u00e7alo dos Reis and Calum Strange and Mohit Yadav and Shawn Li",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2019.100900"
+            "@id": "https://doi.org/10.1016/j.est.2019.100900",
+            "schema:headline": "Cell-to-cell variation of calendar aging and reversible self-discharge in 18650 nickel-rich, silicon\u2013graphite lithium-ion cells",
+            "schema:author": "I. Zilberman and S. Ludwig and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2018.11.043"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2018.11.043",
+            "schema:headline": "Modeling and simulation of inhomogeneities in a 18650 nickel-rich, silicon-graphite lithium-ion cell during fast charging",
+            "schema:author": "J. Sturm and A. Rheinfeld and I. Zilberman and F.B. Spingler and S. Kosch and F. Frie and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.105303"
+            "@id": "https://doi.org/10.1016/j.est.2022.105303",
+            "schema:headline": "Lithium-ion cell equivalent circuit model identification by galvanostatic intermittent titration technique",
+            "schema:author": "F\u00e9lix-A. LeBel and Pascal Messier and Ali Sari and Jo\u00e3o Pedro F. Trov\u00e3o",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2022.231296"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2022.231296",
+            "schema:headline": "Determination of degradation modes of lithium-ion batteries considering aging-induced changes in the half-cell open-circuit potential curve of silicon\u2013graphite",
+            "schema:author": "Julius Schmitt and Markus Schindler and Andreas Oberbauer and Andreas Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.electacta.2022.139878"
+            "@id": "https://doi.org/10.1016/j.electacta.2022.139878",
+            "schema:headline": "Impacts of negative to positive capacities ratios on the performance of next-generation lithium-ion batteries",
+            "schema:author": "Ge Mu and Shubham Agrawal and Poom Sittisomwong and Peng Bai",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230645"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230645",
+            "schema:headline": "The effect of cell geometry and trigger method on the risks associated with thermal runaway of lithium-ion batteries",
+            "schema:author": "William Q. Walker and Kylie Cooper and Peter Hughes and Ian Doemling and Mina Akhnoukh and Sydney Taylor and Jacob Darst and Julia Billman and Matthew Sharp and David Petrushenko and Rhodri Owen and Martin Pham and Thomas Heenan and Alexander Rack and Oxana Magdsyuk and Thomas Connolley and Dan Brett and Paul Shearing and Donal Finegan and Eric Darcy",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230030"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230030",
+            "schema:headline": "A novel measurement technique for parallel-connected lithium-ion cells with controllable interconnection resistance",
+            "schema:author": "P. Jocher and M. Steinhardt and S. Ludwig and M. Schindler and J. Martin and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2019.101170"
+            "@id": "https://doi.org/10.1016/j.est.2019.101170",
+            "schema:headline": "Online aging determination in lithium-ion battery module with forced temperature gradient",
+            "schema:author": "I. Zilberman and S. Ludwig and M. Schiller and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2022.106146"
+            "@id": "https://doi.org/10.1016/j.est.2022.106146",
+            "schema:headline": "In-situ explosion limit analysis and hazards research of vent gas from lithium-ion battery thermal runaway",
+            "schema:author": "Qingsong Zhang and Jianghao Niu and Juan Yang and Tiantian Liu and Fangwei Bao and Qiong Wang",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2023.108241"
+            "@id": "https://doi.org/10.1016/j.est.2023.108241",
+            "schema:headline": "A novel Kalman-filter-based battery internal temperature estimation method based on an enhanced electro-thermal coupling model",
+            "schema:author": "Menglin Liu and Xiaodong Zhou and Lizhong Yang and Xiaoyu Ju",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2022.231943"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2022.231943",
+            "schema:headline": "A review of Li-ion batteries for autonomous mobile robots: Perspectives and outlook for the future",
+            "schema:author": "David McNulty and Aaron Hennessy and Mei Li and Eddie Armstrong and Kevin M. Ryan",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229463"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229463",
+            "schema:headline": "High frequency impedance characteristics of cylindrical lithium-ion cells: Physical-based modeling of cell state and cell design dependencies",
+            "schema:author": "Thomas F. Landinger and Guenter Schwarzberger and Andreas Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230240"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230240",
+            "schema:headline": "Change in the half-cell open-circuit potential curves of silicon\u2013graphite and nickel-rich lithium nickel manganese cobalt oxide during cycle aging",
+            "schema:author": "Julius Schmitt and Markus Schindler and Andreas Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.est.2020.101828"
+            "@id": "https://doi.org/10.1016/j.est.2020.101828",
+            "schema:headline": "Simulation of voltage imbalance in large lithium-ion battery packs influenced by cell-to-cell variations and balancing systems",
+            "schema:author": "I. Zilberman and J. Schmitt and S. Ludwig and M. Naumann and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229523"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229523",
+            "schema:headline": "Pulse resistance based online temperature estimation for lithium-ion cells",
+            "schema:author": "S. Ludwig and I. Zilberman and M.F. Horsche and T. Wohlers and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1088/1757-899X/643/1/012103"
+            "@id": "https://doi.org/10.1088/1757-899X/643/1/012103",
+            "schema:headline": "Empirical performance modelling of a lithium-ion battery of a solar car",
+            "schema:author": "I Kasatkin and M Egorov and E Zakhlebaev and E Kotov and I Selin and M Kukolev",
+            "schema:description": "<jats:title>Abstract</jats:title>\n               <jats:p>The aim of the work is to ascertain a solar car battery performance. The student engineering team of Peter the Great Petersburg Polytechnic University designs the car. Parameters as terminal voltage, operating current, power losses and efficiency are determined depending on battery state of charge (SOC) and operating power. For electrochemical transient modelling, an equivalent RC-circuit is included based on Thevenin battery model. It is assumed in the model that internal resistance, open circuit voltage and the RC-circuit voltage drop depends only on the SOC. Experimental data was obtained from the LG INR18650 MJ1 battery discharge curves. Modelling was performed for SOC values in the range of 0.17 to 0.95 since the terminal voltage dependence on SOC is nearly linear there. The proposed model is sufficient for state of charge estimating and battery performance determination.</jats:p>",
+            "schema:datePublished": 2019
         },
         {
-            "@id": "https://doi.org/10.1007/s00502-020-00814-9"
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9",
+            "schema:headline": "Ante-mortem analysis, electrical, thermal, and ageing testing of state-of-the-art cylindrical lithium-ion cells",
+            "schema:author": "Hartmut Popp and Ningxin Zhang and Marcus Jahn and Mikel Arrinda and Simon Ritz and Matthias Faber and Dirk Uwe Sauer and Philippe Azais and Iosu Cendoya",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>Thanks to its exceptional performance in terms of high energy and power density as well as long lifespan, the lithium-ion secondary battery is the most relevant electrochemical energy storage technology to meet the requirements for partial or full electrification of vehicles (plug-in hybrids or pure electric vehicles), and thanks to decreasing cost and ongoing technical improvements, it will maintain this role in the near to mid-term future. This study benchmarks eight different (five 21700 and three 18650 format) high-energy cylindrical cells concerning their suitability for automotive applications and aims to give a holistic overview and comparison between them. Therefore, an ante-mortem material analysis, a benchmark of electrical and thermal values as well as a cycle life study were carried out. The results show that even when applying similar concepts like Nickel-rich cathodes with graphite-based anodes, the cells show wide variations in their performance under the same test conditions.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1016/J.EGYAI.2021.100081"
+            "@id": "https://doi.org/10.1016/J.EGYAI.2021.100081",
+            "schema:headline": "Lithium-ion battery data and where to find it",
+            "schema:author": "Gon\u00e7alo dos Reis and Calum Strange and Mohit Yadav and Shawn Li",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/abc4c1"
+            "@id": "https://doi.org/10.1149/1945-7111/abc4c1",
+            "schema:headline": "An Advanced Microstructural and Electrochemical Datasheet on 18650 Li-Ion Batteries with Nickel-Rich NMC811 Cathodes and Graphite-Silicon Anodes",
+            "schema:author": "T. M. M. Heenan and A. Jnawali and M. D. R. Kok and T. G Tranter and C. Tan and A. Dimitrijevic and R. Jervis and D. J. L. Brett and P. R. Shearing",
+            "schema:description": "<jats:p>Cylindrical lithium-ion batteries are used across a wide range of applications from spacesuits to automotive vehicles. Specifically, many manufacturers are producing cells in the 18650 geometry i.e., a steel cylinder of diameter and length ca. 18 and 65 mm, respectively. One example is the LG Chem INR18650 MJ1 (nominal values: 3.5 Ah, 3.6 V, 12.6 Wh). This article describes the electrochemical performance and microstructural assembly of such cells, where all the under-pinning data is made openly available for the benefit of the wider community. The charge-discharge capacity is reported for 400 operational cycles via the manufacturer\u2019s guidelines along with full-cell, individual electrode coating and particle 3D imaging. Within the electrochemical data, the distinction between protocol transition, beginning-of-life (BoL) capacity loss, and prolonged degradation is outlined and, subsequently, each aspect of the microstructural characterization is broken down into key metrics that may aid in understanding such degradation (e.g., electrode assembly layers, coating thickness, areal loading, particle size and shape). All key information is summarized in a quick-access advanced datasheet in order to provide an initial baseline of information to guide research paths, inform experiments and aid computational modellers.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.3390/en15186791"
+            "@id": "https://doi.org/10.3390/en15186791",
+            "schema:headline": "Gender Aspects in Driving Style and Its Impact on Battery Ageing",
+            "schema:author": "Evelina Wikner and Raik Orbay and Sara Fogelstr\u00f6m and Torbj\u00f6rn Thiringer",
+            "schema:description": "<jats:p>The long and tiring discussion of who are the best drivers, men or women, is not answered in this article. This article, though, sheds some light on the actual differences that can be seen in how men and women drive. In this study, GPS-recorded driving dynamics data from 123 drivers, 48 women and 75 men, are analysed and drivers are categorised as aggressive, normal or gentle. A total of 10% of the drivers was categorised as aggressive, with an even distribution between the genders. For the gentle drivers, 11% of the drivers, the men dominated. The driving style investigation was extended to utilise machine learning, confirming the results from statistical tools. As driving style highly impacts a vehicle\u2019s fuel consumption, while switching over to battery electric vehicles it is important to investigate how the different driving styles impact battery utilisation. Two Li-ion battery cell types were tested utilising the same load cycle with three levels of current amplitude, to represent accelerations for the three drive categories. While one cell type was insensitive to the current amplitude, the highly energy-optimised cell proved to be sensitive to higher current amplitudes, corresponding to a more aggressive driving style. Thus, the amplitude of the dynamic current can for some cells be a factor that needs to be considered for lifetime predictions, while it can be neglected for other cells.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1038/s41467-022-29837-w"
+            "@id": "https://doi.org/10.1038/s41467-022-29837-w",
+            "schema:headline": "Data-driven capacity estimation of commercial lithium-ion batteries from voltage relaxation",
+            "schema:author": "Jiangong Zhu and Yixiu Wang and Yuan Huang and R. Bhushan Gopaluni and Yankai Cao and Michael Heere and Martin J. M\u00fchlbauer and Liuda Mereacre and Haifeng Dai and Xinhua Liu and Anatoliy Senyshyn and Xuezhe Wei and Michael Knapp and Helmut Ehrenberg",
+            "schema:description": "<jats:title>Abstract</jats:title><jats:p>Accurate capacity estimation is crucial for the reliable and safe operation of lithium-ion batteries. In particular, exploiting the relaxation voltage curve features could enable battery capacity estimation without additional cycling information. Here, we report the study of three datasets comprising 130 commercial lithium-ion cells cycled under various conditions to evaluate the capacity estimation approach. One dataset is collected for model building from batteries with LiNi<jats:sub>0.86</jats:sub>Co<jats:sub>0.11</jats:sub>Al<jats:sub>0.03</jats:sub>O<jats:sub>2</jats:sub>-based positive electrodes. The other two datasets, used for validation, are obtained from batteries with LiNi<jats:sub>0.83</jats:sub>Co<jats:sub>0.11</jats:sub>Mn<jats:sub>0.07</jats:sub>O<jats:sub>2</jats:sub>-based positive electrodes and batteries with the blend of Li(NiCoMn)O<jats:sub>2</jats:sub>- Li(NiCoAl)O<jats:sub>2</jats:sub>positive electrodes. Base models that use machine learning methods are employed to estimate the battery capacity using features derived from the relaxation voltage profiles. The best model achieves a root-mean-square error of 1.1% for the dataset used for the model building. A transfer learning model is then developed by adding a featured linear transformation to the base model. This extended model achieves a root-mean-square error of less than 1.7% on the datasets used for the model validation, indicating the successful applicability of the capacity estimation approach utilizing cell voltage relaxation.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/batteries8120285"
+            "@id": "https://doi.org/10.3390/batteries8120285",
+            "schema:headline": "Strategies for Minimizing Charging Time in Commercial Nickel-Rich/Silicon-Graphite Lithium-Ion Batteries",
+            "schema:author": "Jorge Alonso-del-Valle and Manuela Gonz\u00e1lez and Juan Viera and Enrique Vald\u00e9s and V\u00edctor Garc\u00eda and David Anse\u00e1n",
+            "schema:description": "<jats:p>The emerging nickel-rich/silicon-graphite lithium-ion technology is showing a notable increase in the specific energy, a main requirement for portable devices and electric vehicles. These applications also demand short charging times, while actual charging methods for this technology imply long time or a significant reduction in cycling life. This study analyses the factors that affect the charge behavior for 18,650 commercial nickel-rich/silicon-graphite batteries. For that, long-term cycling tests have been carried out, including electric vehicle standard tests. It can be concluded that this technology has two key issues to develop an efficient charge method: high charge rates should be avoided, mainly below 15% state of charge, and the charge should be finished at 95% of actual cell capacity. This allows that, regardless of application and cell degradation level, cells can be recharged in 2 h without a negative impact on cycling life. For faster charge applications, a new method has been developed to minimize charging time without compromising the cycle life as much as the high current manufacturer method. The proposed fast charge method has proven to be notably faster, recharging in an average 1.3 h (48% less than the high current method and 68% less than the standard method).</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1007/s12541-023-00832-5"
+            "@id": "https://doi.org/10.1007/s12541-023-00832-5",
+            "schema:headline": "Data-Driven Methods for Predicting the State of Health, State of Charge, and Remaining Useful Life of Li-Ion Batteries: A Comprehensive Review",
+            "schema:author": "Eunsong Kim and Minseon Kim and Juo Kim and Joonchul Kim and Jung-Hwan Park and Kyoung-Tak Kim and Joung-Hu Park and Taesic Kim and Kyoungmin Min",
+            "schema:description": "",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/abdc71"
+            "@id": "https://doi.org/10.1149/1945-7111/abdc71",
+            "schema:headline": "A Shrinking-Core Model for the Degradation of High-Nickel Cathodes (NMC811) in Li-Ion Batteries: Passivation Layer Growth and Oxygen Evolution",
+            "schema:author": "Abir Ghosh and Jamie M. Foster and Gregory Offer and Monica Marinescu",
+            "schema:description": "<jats:p>A degradation model for high-nickel positive electrode materials that undergo a structural reorganisation involving oxygen loss and the formation of a disordered (spinel or rock-salt structure) passivation layer is presented for the first time. The model is a thermally coupled continuum model based on the single-particle model and is based upon a LiNi<jats:sub>0.8</jats:sub>Mn<jats:sub>0.1</jats:sub>Co<jats:sub>0.1</jats:sub>O<jats:sub>2</jats:sub> (NMC811) layered oxide in this instance. The theoretical framework assumes a shrinking core mechanism, where lattice oxygen, [O], release occurs at the interface between the bulk and the passivation layer, and the rate of reaction is controlled by either [O]-diffusion through the passivation layer or the reaction kinetics at the interface. As the passivation layer grows, the core of active positive electrode material shrinks giving rise to both loss in active material (LAM) and loss in lithium inventory (LLI) through trapping lithium in the passivation layer, giving rise to capacity fade. The slower diffusion of lithium through the passivation layer also gives rise to power fade. The model predicts two limiting cases, \u201c<jats:italic>diffusion dominated\u201d</jats:italic> if [O]-diffusion is slow, and <jats:italic>\u201creaction dominated\u201d</jats:italic> if [O]-diffusion is fast, relative to the reaction rate of [O]-release and also the thickness of the passivation layer.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9020139"
+            "@id": "https://doi.org/10.3390/batteries9020139",
+            "schema:headline": "Influence of Switching on the Aging of High Energy Lithium-Ion Cells",
+            "schema:author": "Xenia Stra\u00dfer and Guy Williams Ngaleu and Christian Hanzl and Mohamed Azzam and Christian Endisch and Meinert Lewerenz",
+            "schema:description": "<jats:p>An AC-battery or multilevel inverter used to increase safety and flexibility is realizable by switching the cells and modules on and off in a defined way and thus can replace the bidirectional converter. Assessing possible additional aging due to switching, the results of a previous study for a high-power optimized cell showed no influence on the current rates or the switching. In this paper, a highly energy-optimized LG 18650-cell is investigated to discuss the influence of switching during the charge and discharge process, respectively, as well as combining both processes together with clear performance differences when applying higher charge and discharge currents. Moreover, the influence of switching is discussed for the two frequencies (50 Hz and 10 kHz) and different duty cycles. The aging is analyzed by capacity loss and resistance increase, by dV/dQ analysis, and by electrochemical impedance spectroscopy. We found no clear negative influence of switching but a positive effect if the cells are switched during charge. The best performance is found for switching during charge as well as during discharge. The cell aging during switching is clearly determined by the average and not the maximum current applied. This work shows no negative effects of multilevel inverter applications on the tested cells.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ac48c8"
+            "@id": "https://doi.org/10.1149/1945-7111/ac48c8",
+            "schema:headline": "Li-Ion Cell Safety Monitoring Using Mechanical Parameters: Part I. Normal Battery Operation",
+            "schema:author": "A. Kirchev and N. Guillet and D. Brun-Buission and V. Gau",
+            "schema:description": "<jats:p>The normal operation of a 18650 lithium-ion cells has been monitored using rectangular rosette strain gauge and a pair of piezoelectric transducers. The sensors for mechanical measurements provide information about the cell deformation mechanism and electrodes structure during the cycling. The strain gauge signal revealed three type of mechanical processes. The predominant deformation pattern during galvanostatic discharge process is an isotropic cylindrical shrinkage relevant to the extraction of lithium ions from the graphite negative electrode. In the case of low-rate discharge in cyclic voltammetry mode, the deformation pattern changes to spherical growth when the state of charge falls below 40. In contrast, the thermal shrinkage and growth of the cell corresponds to simple decrease of the cell diameter with much smaller hysteresis effect. The ultrasound interrogation is able to detect repeatable progressive change of the acoustic waveform transferred across the cell in direction of the jellyroll diameter, which depends on the state of charge and does not undergo any significant changes at different cycling rates. The impact of the state of health under 2 h\u2014rated charge/discharge cycling at 25 \u00b0C reveals slow progressive drift of the strain and acoustic signals corresponding to the growth of the cell size.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ac3112"
+            "@id": "https://doi.org/10.1149/1945-7111/ac3112",
+            "schema:headline": "High-Energy Li-Ion Cells: Impact of Electrode Ageing on Second Life Viability",
+            "schema:author": "E. Coron and S. Geni\u00e8s and M. Cugnet and P. X. Thivel",
+            "schema:description": "",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/acada6"
+            "@id": "https://doi.org/10.1149/1945-7111/acada6",
+            "schema:headline": "Li-Ion Cell Safety Monitoring Using Mechanical Parameters: Part II. Battery Behavior during Thermal Abuse Tests",
+            "schema:author": "A. Kirchev and N. Guillet and L. Lonardoni and S. Dumenil and V. Gau",
+            "schema:description": "<jats:p>Acoustic ultrasound interrogation and deformation measurements have been used simultaneously as supplementary battery monitoring methods during external overheating and external short-circuit safety tests of LG INR-18650 MJ1 (NMC 811- G-SiO<jats:sub>x</jats:sub>) Li-ion cells. The short-circuit experiments showed that the MJ1 technology is protected against this type of thermal abuse by the current interruption device (CID) integrated in the positive terminal of the cell. The results indicate that the strain gage signal is able to provide very rapid alert for this type of battery safety breach due to an abrupt change of the cell pressure. It precedes the time of the increase of the skin temperature by an order of magnitude. The thermal stability experiments carried out in adiabatic rate calorimeter on completely charged and overcharged batteries at open circuit conditions, showed that the MJ1 technology is susceptible to self-heating by slow internal exothermic reactions starting above 60 \u00b0C. The subsequent process of thermal runaway starts when the temperature exceeds 140 C. The results from the extended monitoring of the cells during the thermal stability tests showed that the acoustic ultrasound interrogation data combined with data mapping and clustering of the signal provides advantageous indication for early detection of slowly approaching battery safety breach events.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/abad6b"
+            "@id": "https://doi.org/10.1149/1945-7111/abad6b",
+            "schema:headline": "On the Impact of Internal Cross-Linking and Connection Properties on the Current Distribution in Lithium-Ion Battery Modules",
+            "schema:author": "Markus Schindler and Axel Durdel and Johannes Sturm and Philipp Jocher and Andreas Jossen",
+            "schema:description": "<jats:p>The often-observed current distribution between parallel-connected lithium-ion cells within battery modules is probably evoked by the properties of the connection, inhomogeneous contact and power line resistances, the impedance behavior of single cells and of the DoD. The extent to which each of the contributors and the interaction between them affects the current distribution within the battery module is crucial to improve the system\u2019s efficiency, which is investigated here via various electrically cross-linked, physicochemical-thermal simulations with variable system terminal (ST). Consequently, cross-connectors balance the system and reduce DoD shifts between cells. Furthermore, if one compares ST-side and ST-cross, the position of the ST is negligible for topologies that incorporate at least two cells in serial and parallel. Depending on the ST configuration, point and axis symmetry patterns appear for the current distribution. Compared to welding seam and cross-connector resistances, the string connector resistance dominates the current distribution. Like the behavior of a single cell, the system\u2019s rate capability shows a non-linear decrease with increasing C-rate under constant current discharge. As a recommendation for the assembly of battery modules using multiple lithium-ion cells, the position of the ST is of minor importance compared to the presence of cross-connectors and low-resistance string connectors.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.3390/en15239251"
+            "@id": "https://doi.org/10.3390/en15239251",
+            "schema:headline": "Robust Approach to Battery Equivalent-Circuit-Model Parameter Extraction Using Electrochemical Impedance Spectroscopy",
+            "schema:author": "Marzia Abaspour and Krishna R. Pattipati and Behnam Shahrrava and Balakumar Balasingam",
+            "schema:description": "<jats:p>Electrochemical impedance spectroscopy (EIS) is a well-established method of battery analysis, where the response of a battery to either a voltage or current excitation signal spanning a wide frequency spectrum is measured and analyzed. State-of-the-art EIS analysis is limited to high-precision measurement systems within laboratory environments. In order to be relevant in practical applications, EIS analysis needs to be carried out with low-cost sensors, which suffer from high levels of measurement noise. This article presents an approach to estimate the equivalent circuit model (ECM) parameters of a Li-Ion battery pack based on EIS measurements in the presence of high levels of noise. The proposed algorithm consists of a fast Fourier transform, feature extraction, curve fitting, and least-squares estimation. The results of the proposed parameter-estimation algorithm are compared to that of recent work for objective performance comparison. The error analysis of the proposed approach, in comparison to the existing approach, demonstrated significant improvement in parameter estimation accuracy in low signal-to-noise ratio (SNR) regions. Results show that the proposed algorithm significantly outperforms the previous method under high-measurement-noise scenarios without requiring a significant increase in computational resources.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/sym14102126"
+            "@id": "https://doi.org/10.3390/sym14102126",
+            "schema:headline": "Experimental Study on Dielectric Fluid Immersion Cooling for Thermal Management of Lithium-Ion Battery",
+            "schema:author": "Jeong-Woo Han and Kunal Sandip Garud and Seong-Guk Hwang and Moo-Yeon Lee",
+            "schema:description": "<jats:p>The rapidly growing commercialization of electric vehicles demands higher capacity lithium-ion batteries with higher heat generation which degrades the lifespan and performance of batteries. The currently widely used indirect liquid cooling imposes disadvantages of the higher thermal resistance and coolant leakage which has diverted the attention to the direct liquid cooling for the thermal management of batteries. The present study conducts the experimental investigation on discharge and heat transfer characteristics of lithium-ion battery with direct liquid cooling for the thermal management. The 18,650 lithium-ion cylindrical battery pack is immersed symmetrically in dielectric fluid. The discharge voltage and capacity, maximum temperature, temperature difference, average temperature, heat absorbed, and heat transfer coefficient are investigated under various conditions of discharge rates, inlet temperatures, and volume flow rates of coolant. The operating voltage and discharge capacity are decreasing with increase in the volume flow rate and decrease in the inlet temperature for all discharge rates. At the higher discharge rate of 4C, the lowest battery maximum temperatures of 60.2 \u00b0C and 44.6 \u00b0C and the highest heat transfer coefficients of 2884.25 W/m2-K and 2290.19 W/m2-K are reported for the highest volume flow rate of 1000 mLPM and the lowest inlet temperature of 15 \u00b0C, respectively.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1149/08010.0135ecst"
+            "@id": "https://doi.org/10.1149/08010.0135ecst",
+            "schema:headline": "Characterisation of Heat and Gas Emissions in Thermally Induced Battery Failure on Commercially Available 18650 Li-Ion Cells",
+            "schema:author": "Michael Lammer and Alexander K\u00f6nigseder and Viktor Hacker",
+            "schema:description": "",
+            "schema:datePublished": 2017
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9010006"
+            "@id": "https://doi.org/10.3390/batteries9010006",
+            "schema:headline": "Influence of Breathing and Swelling on the Jelly-Roll Case Gap of Cylindrical Lithium-Ion Battery Cells",
+            "schema:author": "Markus Spielbauer and Marco Steinhardt and Jan Singer and Andreas Aufschl\u00e4ger and Oliver Bohlen and Andreas Jossen",
+            "schema:description": "<jats:p>Cylindrical 18650 and 21700 lithium-ion batteries are produced with small gaps between the jelly roll and the case. The size of these gaps and the mechanical attachment of the jelly roll to the case can have a significant impact on the thermal and mechanical properties of cells. To investigate the influence of the state of charge (SOC) and state of health (SOH) on the size of the gap, computed tomography (CT) and gray-value analysis was conducted with various cell types at 0% and 100% SOC and after cycling. The results show a significant influence of the SOC on the gap for new cells and a substantial reduction in the gap during the first cycles.</jats:p>",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.3390/batteries9060309"
+            "@id": "https://doi.org/10.3390/batteries9060309",
+            "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells\u2014A Generic Overview",
+            "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
+            "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
+            "schema:datePublished": 2023
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ac2089"
+            "@id": "https://doi.org/10.1149/1945-7111/ac2089",
+            "schema:headline": "Analyzing the Aging Behavior of Lithium-Ion Cells Connected in Parallel Considering Varying Charging Profiles and Initial Cell-to-Cell Variations",
+            "schema:author": "Markus Schindler and Philipp Jocher and Axel Durdel and Andreas Jossen",
+            "schema:description": "<jats:p>Aging behavior and long-term cell-to-cell variations have been much more frequently investigated in single-cells than cells connected in parallel. In particular, the literature lacks a study investigating the aging behavior of cells in parallel that is based on defined cell-to-cell variations and on the results of a previous single-cell aging study. Moreover, present studies are unable to exclude the impacts of measurement systems on their final results. To counter this deficiency, a novel 4-wire measurement technique is used which does not influence the current distribution but allows both single and parallel measurements to be recorded without changing the measurement configuration. Cells in parallel generally displayed improved aging behaviors in comparison to those seen in the single-cell aging study and the positive influence of extended CV-charging was evident, as long as the CV-charging phase was limited in length. It was also observed that the exclusion of critical voltage ranges exerted the most significant influence on the aging rate and dominates the influence of initial cell-to-cell variations in the long-term. As a result, it is recommended that module manufacturers reduce the effort spent on initial cell matching strategies for cells in parallel in favor of developing cell-specific charging profiles.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.3390/electronics10192376"
+            "@id": "https://doi.org/10.3390/electronics10192376",
+            "schema:headline": "The Hazards Analysis of Nickel-Rich Lithium-Ion Battery Thermal Runaway under Different States of Charge",
+            "schema:author": "Kun Jiang and Pingwei Gu and Peng Huang and Ying Zhang and Bin Duan and Chenghui Zhang",
+            "schema:description": "<jats:p>The lithium-ion battery industry has been developing rapidly, with energy density and capacity constantly improving. However, the ensuing safety accidents of lithium-ion power batteries have seriously threatened the personal safety of passengers. Therefore, more and more attention has been paid to the thermal safety research of lithium-ion batteries, such as thermal runaway (TR) mechanism analysis and prevention methods, etc. In this paper, the nickel-rich 18650 lithium-ion batteries with Li[Ni0.8Co0.1Mn0.1]O2 cathode in different states of charge (SOC) are taken to investigate the TR characteristics using an extended volume plus acceleration calorimeter (EV+-ARC). In order to evaluate the TR characteristics, some characteristic parameters such as battery voltage, surface temperature, temperature rise rate, etc. are selected from the experiment to analyze the influence of SOC on the critical state of TR. It can be seen from the experiment results that the maximum temperature of the battery surface decreases with the decrease of SOC, while the self-generated heat temperature and TR trigger temperature increases with the decrease of SOC.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230864"
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230864",
+            "schema:headline": "Adaptive method for sensorless temperature estimation over the lifetime of lithium-ion batteries",
+            "schema:author": "S. Ludwig and I. Zilberman and A. Oberbauer and M. Rogge and M. Fischer and M. Rehm and A. Jossen",
+            "schema:description": "",
+            "schema:datePublished": 2022
         },
         {
-            "@id": "https://doi.org/10.1149/1945-7111/ac03f6"
+            "@id": "https://doi.org/10.1149/1945-7111/ac03f6",
+            "schema:headline": "Comprehensive Analysis of the Aging Behavior of Nickel-Rich, Silicon-Graphite Lithium-Ion Cells Subject to Varying Temperature and Charging Profiles",
+            "schema:author": "Markus Schindler and Johannes Sturm and Sebastian Ludwig and Axel Durdel and Andreas Jossen",
+            "schema:description": "<jats:p>Especially for material combinations incorporating silicon-graphite anodes and nickel-rich cathodes, lifetime and energy density have to be balanced appropriately. In particular, silicon-graphite anodes show increased aging effects due to the extensive volume expansion of silicon and even small variations of its content lead to significant changes in the cell properties because of its large specific capacity. Two batches of the same cell, which differ slightly in their silicon content, were investigated using various charging profiles for a temperature range from 0 \u00b0C to 40 \u00b0C. The total number of EFC of both cell batches was shown to be strongly dependent on temperature. In addition, cells with reduced silicon content showed EFCs three times higher than their higher silicon counterparts. Contrary to expectations, an extended CV-charging sequence led to an increase in EFC and a decrease in variance. The exclusion of critical voltage ranges shows the most significant influence on both the total of EFC and the variance between the cells. As a result, to increase cell lifetime it is recommended that cells should be preconditioned at low ambient temperatures and extended CV-charging sequences should be considered. If the operational strategy allows the reduction of the upper-voltage-limit, critical voltage areas should be avoided.</jats:p>",
+            "schema:datePublished": 2021
         },
         {
-            "@id": "https://doi.org/10.1016/j.etran.2022.100167"
+            "@id": "https://doi.org/10.1016/j.etran.2022.100167",
+            "schema:headline": "Quantifying the state of the art of electric powertrains in battery electric vehicles: Range, efficiency, and lifetime from component to system level of the Volkswagen ID.3",
+            "schema:author": "Nikolaos Wassiliadis and Matthias Steinstr\u00e4ter and Markus Schreiber and Philipp Rosner and Lorenzo Nicoletti and Florian Schmid and Manuel Ank and Olaf Teichert and Leo Wildfeuer and Jakob Schneider and Alexander Koch and Adrian K\u00f6nig and Andreas Glatz and Josef Gandlgruber and Thomas Kr\u00f6ger and Xue Lin and Markus Lienkamp",
+            "schema:description": "",
+            "schema:datePublished": 2022
         }
     ],
     "hasCase": [

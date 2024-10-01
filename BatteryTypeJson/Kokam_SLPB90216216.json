@@ -15,19 +15,39 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.1109/tie.2017.2714118"
+            "@id": "https://doi.org/10.1109/tie.2017.2714118",
+            "schema:headline": "Dynamic Model of Li-Ion Batteries Incorporating Electrothermal and Ageing Aspects for Electric Vehicle Applications",
+            "schema:author": "Tedjani Mesbahi and Nassim Rizoug and Patrick Bartholomeus and Redha Sadoun and Fouad Khenfri and Philippe Le Moigne",
+            "schema:description": "",
+            "schema:datePublished": 2018
         },
         {
-            "@id": "https://doi.org/10.3390/en13174518"
+            "@id": "https://doi.org/10.3390/en13174518",
+            "schema:headline": "Sizing of Lithium-Ion Battery/Supercapacitor Hybrid Energy Storage System for Forklift Vehicle",
+            "schema:author": "Th\u00e9ophile Paul and Tedjani Mesbahi and Sylvain Durand and Damien Flieller and Wilfried Uhring",
+            "schema:description": "<jats:p>Nowadays, electric vehicles are one of the main topics in the new industrial revolution, called Industry 4.0. The transport and logistic solutions based on E-mobility, such as handling machines, are increasing in factories. Thus, electric forklifts are mostly used because no greenhouse gas is emitted when operating. However, they are usually equipped with lead-acid batteries which present bad performances and long charging time. Therefore, combining high-energy density lithium-ion batteries and high-power density supercapacitors as a hybrid energy storage system results in almost optimal performances and improves battery lifespan. The suggested solution is well suited for forklifts which continuously start, stop, lift up and lower down heavy loads. This paper presents the sizing of a lithium-ion battery/supercapacitor hybrid energy storage system for a forklift vehicle, using the normalized Verein Deutscher Ingenieure (VDI) drive cycle. To evaluate the performance of the lithium-ion battery/supercapacitor hybrid energy storage system, different sizing simulations are carried out. The suggested solution allows us to successfully optimize the system in terms of efficiency, volume and mass, in regard to the battery, supercapacitors technology and the energy management strategy chosen.</jats:p>",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1149/06609.0203ecst"
+            "@id": "https://doi.org/10.1149/06609.0203ecst",
+            "schema:headline": "Thermofluids Analysis of the Coolant Flow during Lithium-Ion Battery Operation",
+            "schema:author": "Mustafa Fazil Serincan and Mahdi Tabatabaei Malazi",
+            "schema:description": "<jats:p>A three-dimensional computational fluid dynamics (CFD) model is developed to study thermal management of a lithium ion battery. Model geometry consists of a lithium polymer pouch cell and an aluminum plate with the cooling channels grooved inside. 40 Ah commercial cells are considered in this study. Heat generation during discharge of the battery is characterized as a function of state of charge, discharge rate and temperature based on the experimental results reported elsewhere. Non-isothermal momentum equation and energy equation are solved to account for the coupled thermofluids phenomena in the solid and fluid domains. Steady state simulations are carried out for different geometric and operational parameters to propose a design enhancing heat removal rates during typical discharge modes of the battery. Temperature rise in the cell, temperature difference and pressure drop in the coolant and weight of the battery pack are the main design criteria for the thermal management system. </jats:p>",
+            "schema:datePublished": 2015
         },
         {
-            "@id": "https://doi.org/10.1016/j.ijhydene.2020.01.067"
+            "@id": "https://doi.org/10.1016/j.ijhydene.2020.01.067",
+            "schema:headline": "Parameter identification and state-of-charge estimation for lithium-polymer battery cells using enhanced sunflower optimization algorithm",
+            "schema:author": "Ragab A. El-Sehiemy and M.A. Hamida and T. Mesbahi",
+            "schema:description": "",
+            "schema:datePublished": 2020
         },
         {
-            "@id": "https://doi.org/10.1109/TIE.2017.2714118"
+            "@id": "https://doi.org/10.1109/TIE.2017.2714118",
+            "schema:headline": "Dynamic Model of Li-Ion Batteries Incorporating Electrothermal and Ageing Aspects for Electric Vehicle Applications",
+            "schema:author": "Tedjani Mesbahi and Nassim Rizoug and Patrick Bartholomeus and Redha Sadoun and Fouad Khenfri and Philippe Le Moigne",
+            "schema:description": "",
+            "schema:datePublished": 2018
         }
     ],
     "hasCase": [

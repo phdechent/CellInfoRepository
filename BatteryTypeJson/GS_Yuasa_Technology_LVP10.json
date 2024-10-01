@@ -15,10 +15,16 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.15368/theses.2014.127"
+            "@id": "https://doi.org/10.15368/theses.2014.127",
+            "schema:headline": "BATTERY ELECTRIC AIRCRAFT FEASIBILITY INVESTIGATION INCLUDING A BATTERY-IN-WING CONCEPTUAL DESIGN",
+            "schema:author": "Mark H. Shushnar",
+            "schema:description": ""
         },
         {
-            "@id": "https://doi.org/10.15368/THESES.2014.127"
+            "@id": "https://doi.org/10.15368/THESES.2014.127",
+            "schema:headline": "BATTERY ELECTRIC AIRCRAFT FEASIBILITY INVESTIGATION INCLUDING A BATTERY-IN-WING CONCEPTUAL DESIGN",
+            "schema:author": "Mark H. Shushnar",
+            "schema:description": ""
         }
     ],
     "hasCase": [

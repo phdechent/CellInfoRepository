@@ -15,7 +15,11 @@
     },
     "schema:subjectOf": [
         {
-            "@id": "https://doi.org/10.3390/en13174518"
+            "@id": "https://doi.org/10.3390/en13174518",
+            "schema:headline": "Sizing of Lithium-Ion Battery/Supercapacitor Hybrid Energy Storage System for Forklift Vehicle",
+            "schema:author": "Th\u00e9ophile Paul and Tedjani Mesbahi and Sylvain Durand and Damien Flieller and Wilfried Uhring",
+            "schema:description": "<jats:p>Nowadays, electric vehicles are one of the main topics in the new industrial revolution, called Industry 4.0. The transport and logistic solutions based on E-mobility, such as handling machines, are increasing in factories. Thus, electric forklifts are mostly used because no greenhouse gas is emitted when operating. However, they are usually equipped with lead-acid batteries which present bad performances and long charging time. Therefore, combining high-energy density lithium-ion batteries and high-power density supercapacitors as a hybrid energy storage system results in almost optimal performances and improves battery lifespan. The suggested solution is well suited for forklifts which continuously start, stop, lift up and lower down heavy loads. This paper presents the sizing of a lithium-ion battery/supercapacitor hybrid energy storage system for a forklift vehicle, using the normalized Verein Deutscher Ingenieure (VDI) drive cycle. To evaluate the performance of the lithium-ion battery/supercapacitor hybrid energy storage system, different sizing simulations are carried out. The suggested solution allows us to successfully optimize the system in terms of efficiency, volume and mass, in regard to the battery, supercapacitors technology and the energy management strategy chosen.</jats:p>",
+            "schema:datePublished": 2020
         }
     ],
     "hasCase": [
