@@ -1,230 +1,231 @@
 {
-    "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "E63",
-    "schema:manufacturer": {
-        "schema:name": "LG Chem"
+  "@context": "https://w3id.org/emmo/domain/battery/context",
+  "@id": "k83m-e4pa-s2bk-hxcv",
+  "schema:name": "E63",
+  "schema:manufacturer": {
+    "schema:name": "LG Chem"
+  },
+  "hasPositiveElectrode": {
+    "@type": "PositiveElectrode",
+    "hasActiveMaterial": {
+      "@type": "NaN",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    }
+  },
+  "schema:subjectOf": [
+    {
+      "@id": "https://doi.org/10.1149/2.0501913jes",
+      "schema:headline": "How to Cool Lithium Ion Batteries: Optimising Cell Design using a Thermally Coupled Model",
+      "schema:author": "Yan Zhao and Laura Bravo Diaz and Yatish Patel and Teng Zhang and Gregory J. Offer",
+      "schema:description": "",
+      "schema:datePublished": 2019
     },
-    "hasPositiveElectrode": {
-        "@type": "PositiveElectrode",
-        "hasActiveMaterial": {
-            "@type": "NaN",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        }
+    {
+      "@id": "https://doi.org/10.1016/j.est.2022.105676",
+      "schema:headline": "Empirical calendar ageing model for electric vehicles and energy storage systems batteries",
+      "schema:author": "Gaizka Saldaña and José Ignacio San Martín and Inmaculada Zamora and Francisco Javier Asensio and Oier Oñederra and Mikel González-Pérez",
+      "schema:description": "",
+      "schema:datePublished": 2022
     },
-    "schema:subjectOf": [
-        {
-            "@id": "https://doi.org/10.1149/2.0501913jes",
-            "schema:headline": "How to Cool Lithium Ion Batteries: Optimising Cell Design using a Thermally Coupled Model",
-            "schema:author": "Yan Zhao and Laura Bravo Diaz and Yatish Patel and Teng Zhang and Gregory J. Offer",
-            "schema:description": "",
-            "schema:datePublished": 2019
-        },
-        {
-            "@id": "https://doi.org/10.1016/j.est.2022.105676",
-            "schema:headline": "Empirical calendar ageing model for electric vehicles and energy storage systems batteries",
-            "schema:author": "Gaizka Salda\u00f1a and Jos\u00e9 Ignacio San Mart\u00edn and Inmaculada Zamora and Francisco Javier Asensio and Oier O\u00f1ederra and Mikel Gonz\u00e1lez-P\u00e9rez",
-            "schema:description": "",
-            "schema:datePublished": 2022
-        },
-        {
-            "@id": "https://doi.org/10.1149/2.0501913JES",
-            "schema:headline": "How to Cool Lithium Ion Batteries: Optimising Cell Design using a Thermally Coupled Model",
-            "schema:author": "Yan Zhao and Laura Bravo Diaz and Yatish Patel and Teng Zhang and Gregory J. Offer",
-            "schema:description": "",
-            "schema:datePublished": 2019
-        },
-        {
-            "@id": "https://www.semanticscholar.org/paper/4af78e654e570c4a68fc66ff8d41111af3652cd0"
-        }
-    ],
-    "hasCase": [
-        {
-            "@type": "PrismaticCase"
-        }
-    ],
-    "hasProperty": [
-        {
-            "@type": [
-                "RatedCapacity",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 65.6
-            },
-            "hasMeasurementUnit": "emmo:AmpereHour",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "CycleLife",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 1000.0
-            },
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "NominalVoltage",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 3.6
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "UpperVoltageLimit",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 4.2
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "LowerVoltageLimit",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 2.5
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "DischargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 32.8
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "MaximumContinuousDischargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 65.6
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Mass",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.964
-            },
-            "hasMeasurementUnit": "emmo:Kilogram",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "ChargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 21.648
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "MaximumContinuousChargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 65.6
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Height",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.0115
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Width",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.125
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Length",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.325
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        }
-    ]
+    {
+      "@id": "https://doi.org/10.1149/2.0501913JES",
+      "schema:headline": "How to Cool Lithium Ion Batteries: Optimising Cell Design using a Thermally Coupled Model",
+      "schema:author": "Yan Zhao and Laura Bravo Diaz and Yatish Patel and Teng Zhang and Gregory J. Offer",
+      "schema:description": "",
+      "schema:datePublished": 2019
+    },
+    {
+      "@id": "https://www.semanticscholar.org/paper/4af78e654e570c4a68fc66ff8d41111af3652cd0"
+    }
+  ],
+  "hasCase": [
+    {
+      "@type": "PrismaticCase"
+    }
+  ],
+  "hasProperty": [
+    {
+      "@type": [
+        "RatedCapacity",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 65.6
+      },
+      "hasMeasurementUnit": "emmo:AmpereHour",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "CycleLife",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 1000.0
+      },
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "NominalVoltage",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 3.6
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "UpperVoltageLimit",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 4.2
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "LowerVoltageLimit",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 2.5
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "DischargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 32.8
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "MaximumContinuousDischargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 65.6
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Mass",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.964
+      },
+      "hasMeasurementUnit": "emmo:Kilogram",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "ChargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 21.648
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "MaximumContinuousChargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 65.6
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Height",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.0115
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Width",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.125
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Length",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.325
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    }
+  ]
 }

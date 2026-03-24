@@ -1,199 +1,200 @@
 {
-    "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "US21700VTC6A",
-    "schema:manufacturer": {
-        "schema:name": "Murata"
+  "@context": "https://w3id.org/emmo/domain/battery/context",
+  "@id": "2uew-0yle-dz1k-gvj9",
+  "schema:name": "US21700VTC6A",
+  "schema:manufacturer": {
+    "schema:name": "Murata"
+  },
+  "hasPositiveElectrode": {
+    "@type": "PositiveElectrode",
+    "hasActiveMaterial": {
+      "@type": "LithiumNickelCobaltAluminiumOxide",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    }
+  },
+  "schema:subjectOf": [
+    {
+      "@id": "https://doi.org/10.3390/batteries9060309",
+      "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells—A Generic Overview",
+      "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
+      "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
+      "schema:datePublished": 2023
+    }
+  ],
+  "hasCase": [
+    {
+      "@type": "R21700"
+    }
+  ],
+  "hasProperty": [
+    {
+      "@type": [
+        "RatedCapacity",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 4.0
+      },
+      "hasMeasurementUnit": "emmo:AmpereHour",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
     },
-    "hasPositiveElectrode": {
-        "@type": "PositiveElectrode",
-        "hasActiveMaterial": {
-            "@type": "LithiumNickelCobaltAluminiumOxide",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        }
+    {
+      "@type": [
+        "CycleLife",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 500.0
+      },
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
     },
-    "schema:subjectOf": [
-        {
-            "@id": "https://doi.org/10.3390/batteries9060309",
-            "schema:headline": "Design, Properties, and Manufacturing of Cylindrical Li-Ion Battery Cells\u2014A Generic Overview",
-            "schema:author": "Sabri Baazouzi and Niklas Feistel and Johannes Wanner and Inga Landwehr and Alexander Fill and Kai Peter Birke",
-            "schema:description": "<jats:p>Battery cells are the main components of a battery system for electric vehicle batteries. Depending on the manufacturer, three different cell formats are used in the automotive sector (pouch, prismatic, and cylindrical). In the last 3 years, cylindrical cells have gained strong relevance and popularity among automotive manufacturers, mainly driven by innovative cell designs, such as the Tesla tabless design. This paper investigates 19 Li-ion cylindrical battery cells from four cell manufacturers in four formats (18650, 20700, 21700, and 4680). We aim to systematically capture the design features, such as tab design and quality parameters, such as manufacturing tolerances and generically describe cylindrical cells. We identified the basic designs and assigned example cells to them. In addition, we show a comprehensive definition of a tabless design considering the current and heat transport paths. Our findings show that the Tesla 4680 design is quasi-tabless. In addition, we found that 25% of the cathode and 30% of the anode are not notched, resulting in long electrical and thermal transport paths. Based on CT and post-mortem analyses, we show that jelly rolls can be approximated very well with the Archimedean spiral. Furthermore, we compare the gravimetric and volumetric energy density, the impedance, and the heating behavior at the surface and in the center of the jelly rolls. From the generic description, we present and discuss production processes focusing on format and design flexible manufacturing of jelly rolls.</jats:p>",
-            "schema:datePublished": 2023
-        }
-    ],
-    "hasCase": [
-        {
-            "@type": "R21700"
-        }
-    ],
-    "hasProperty": [
-        {
-            "@type": [
-                "RatedCapacity",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 4.0
-            },
-            "hasMeasurementUnit": "emmo:AmpereHour",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "CycleLife",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 500.0
-            },
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "NominalVoltage",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 3.6
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "UpperVoltageLimit",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 4.2
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "LowerVoltageLimit",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 2.0
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "DischargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.8
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "MaximumContinuousDischargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 40.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Mass",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.0727
-            },
-            "hasMeasurementUnit": "emmo:Kilogram",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "ChargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 3.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "MaximumContinuousChargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 9.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Height",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.07
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Diameter",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.02155
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        }
-    ]
+    {
+      "@type": [
+        "NominalVoltage",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 3.6
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "UpperVoltageLimit",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 4.2
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "LowerVoltageLimit",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 2.0
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "DischargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.8
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "MaximumContinuousDischargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 40.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Mass",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.0727
+      },
+      "hasMeasurementUnit": "emmo:Kilogram",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "ChargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 3.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "MaximumContinuousChargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 9.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Height",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.07
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Diameter",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.02155
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    }
+  ]
 }

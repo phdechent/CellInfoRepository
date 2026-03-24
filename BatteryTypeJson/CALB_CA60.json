@@ -1,220 +1,221 @@
 {
-    "@context": "https://w3id.org/emmo/domain/battery/context",
-    "schema:name": "CA60",
-    "schema:manufacturer": {
-        "schema:name": "CALB"
+  "@context": "https://w3id.org/emmo/domain/battery/context",
+  "@id": "wsk0-6hw2-3e5b-35po",
+  "schema:name": "CA60",
+  "schema:manufacturer": {
+    "schema:name": "CALB"
+  },
+  "hasPositiveElectrode": {
+    "@type": "PositiveElectrode",
+    "hasActiveMaterial": {
+      "@type": "LithiumIronPhosphate",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    }
+  },
+  "schema:subjectOf": [
+    {
+      "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395",
+      "schema:headline": "Model Study of Lithium-Ion Battery Temperature Field",
+      "schema:author": "Hong-Yu Xu and Pan Zhang and Kua-Hai Yu and Xu-Hui Zhang",
+      "schema:description": "",
+      "schema:datePublished": 2017
     },
-    "hasPositiveElectrode": {
-        "@type": "PositiveElectrode",
-        "hasActiveMaterial": {
-            "@type": "LithiumIronPhosphate",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        }
+    {
+      "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395",
+      "schema:headline": "Model Study of Lithium-Ion Battery Temperature Field",
+      "schema:author": "Hong-Yu Xu and Pan Zhang and Kua-Hai Yu and Xu-Hui Zhang",
+      "schema:description": "",
+      "schema:datePublished": 2017
+    }
+  ],
+  "hasCase": [
+    {
+      "@type": "PrismaticCase"
+    }
+  ],
+  "hasProperty": [
+    {
+      "@type": [
+        "RatedCapacity",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 60.0
+      },
+      "hasMeasurementUnit": "emmo:AmpereHour",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
     },
-    "schema:subjectOf": [
-        {
-            "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395",
-            "schema:headline": "Model Study of Lithium-Ion Battery Temperature Field",
-            "schema:author": "Hong-Yu Xu and Pan Zhang and Kua-Hai Yu and Xu-Hui Zhang",
-            "schema:description": "",
-            "schema:datePublished": 2017
-        },
-        {
-            "@id": "https://doi.org/10.12783/dtetr/mcee2016/6395",
-            "schema:headline": "Model Study of Lithium-Ion Battery Temperature Field",
-            "schema:author": "Hong-Yu Xu and Pan Zhang and Kua-Hai Yu and Xu-Hui Zhang",
-            "schema:description": "",
-            "schema:datePublished": 2017
-        }
-    ],
-    "hasCase": [
-        {
-            "@type": "PrismaticCase"
-        }
-    ],
-    "hasProperty": [
-        {
-            "@type": [
-                "RatedCapacity",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 60.0
-            },
-            "hasMeasurementUnit": "emmo:AmpereHour",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "CycleLife",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 2000.0
-            },
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "NominalVoltage",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 3.2
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "UpperVoltageLimit",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 3.65
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "LowerVoltageLimit",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 2.5
-            },
-            "hasMeasurementUnit": "emmo:Volt",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "DischargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 18.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "MaximumContinuousDischargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 120.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Mass",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 2.0
-            },
-            "hasMeasurementUnit": "emmo:Kilogram",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "ChargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 18.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "MaximumContinuousChargingCurrent",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 60.0
-            },
-            "hasMeasurementUnit": "emmo:Ampere",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Height",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.041
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Width",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.24
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        },
-        {
-            "@type": [
-                "Length",
-                "ConventionalProperty"
-            ],
-            "hasNumericalPart": {
-                "@type": "Real",
-                "hasNumericalValue": 0.115
-            },
-            "hasMeasurementUnit": "emmo:Metre",
-            "schema:citation": {
-                "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
-            }
-        }
-    ]
+    {
+      "@type": [
+        "CycleLife",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 2000.0
+      },
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "NominalVoltage",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 3.2
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "UpperVoltageLimit",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 3.65
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "LowerVoltageLimit",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 2.5
+      },
+      "hasMeasurementUnit": "emmo:Volt",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "DischargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 18.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "MaximumContinuousDischargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 120.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Mass",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 2.0
+      },
+      "hasMeasurementUnit": "emmo:Kilogram",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "ChargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 18.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "MaximumContinuousChargingCurrent",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 60.0
+      },
+      "hasMeasurementUnit": "emmo:Ampere",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Height",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.041
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Width",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.24
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    },
+    {
+      "@type": [
+        "Length",
+        "ConventionalProperty"
+      ],
+      "hasNumericalPart": {
+        "@type": "Real",
+        "hasNumericalValue": 0.115
+      },
+      "hasMeasurementUnit": "emmo:Metre",
+      "schema:citation": {
+        "@id": "https://github.com/TUMFTM/TruckBatteryDesign/raw/main/Step1_cell_selection/inputs/CellDatabase_v6.xlsx"
+      }
+    }
+  ]
 }
