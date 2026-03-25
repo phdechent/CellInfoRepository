@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "841e-sffz-jvec-5ou3",
+  "@id": "kyrn-bts9-avjm-tm34",
   "schema:name": "ENV 50.4 Ah",
   "schema:manufacturer": {
     "schema:name": "Zenlabs_Envia"

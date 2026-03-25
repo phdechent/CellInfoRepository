@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "rauj-5q7g-pljq-ze83",
+  "@id": "erud-93nw-zn9g-58d7",
   "schema:name": "NCA596080",
   "schema:manufacturer": {
     "schema:name": "Panasonic"

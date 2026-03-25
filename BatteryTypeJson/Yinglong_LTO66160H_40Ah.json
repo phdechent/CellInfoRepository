@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "52hf-ovy8-s8m5-0qyg",
+  "@id": "795u-bcuy-kayf-2ees",
   "schema:name": "LTO66160H/40Ah",
   "schema:manufacturer": {
     "schema:name": "Yinglong"

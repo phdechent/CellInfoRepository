@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "z038-cp0v-i68z-jn3n",
+  "@id": "hzft-jnqu-bbjs-a6z7",
   "schema:name": "NCR20700",
   "schema:manufacturer": {
     "schema:name": "Hypercell"

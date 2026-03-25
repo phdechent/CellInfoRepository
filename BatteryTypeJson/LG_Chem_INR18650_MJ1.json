@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "d52s-6pbt-e1wk-uoh7",
+  "@id": "9mjz-z7z2-savj-547w",
   "schema:name": "INR18650 MJ1",
   "schema:manufacturer": {
     "schema:name": "LG Chem"

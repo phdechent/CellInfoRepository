@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "lb0b-wbhf-2hmk-93xi",
+  "@id": "4pba-9j88-zjxq-ydx3",
   "schema:name": "BMZ 21700 40PS1",
   "schema:manufacturer": {
     "schema:name": "BMZ_Sony"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "ci15-4ims-ofo6-2rn5",
+  "@id": "kf3h-tumj-jjc6-9ruj",
   "schema:name": "50Ah CATL 811",
   "schema:manufacturer": {
     "schema:name": "CATL"

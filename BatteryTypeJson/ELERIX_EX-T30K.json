@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "kl24-2xmz-ck0g-bctk",
+  "@id": "d389-gm7e-4gty-28gf",
   "schema:name": "EX-T30K",
   "schema:manufacturer": {
     "schema:name": "ELERIX"

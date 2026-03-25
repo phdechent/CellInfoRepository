@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "24z4-u54a-48hm-0gxv",
+  "@id": "c8er-k9b2-7ycf-grsy",
   "schema:name": "ENV23426-XP",
   "schema:manufacturer": {
     "schema:name": "Zenlabs_Envia"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "3jw6-ieai-gj4h-wf0o",
+  "@id": "422m-vya2-26k6-eh4j",
   "schema:name": "ICR26650",
   "schema:manufacturer": {
     "schema:name": "Chengdu Jianzhong Lithium Battery Company Ltd"

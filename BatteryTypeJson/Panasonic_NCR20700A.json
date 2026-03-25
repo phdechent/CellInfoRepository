@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "efpi-16qs-5lnh-23kf",
+  "@id": "tzw8-yytw-yyya-nccv",
   "schema:name": "NCR20700A",
   "schema:manufacturer": {
     "schema:name": "Panasonic"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "5y4m-cg1q-7rgh-6ur9",
+  "@id": "5d64-fxrb-z7pr-97km",
   "schema:name": "GP 21700",
   "schema:manufacturer": {
     "schema:name": "Great Power"

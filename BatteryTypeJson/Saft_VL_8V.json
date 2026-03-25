@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "hs0u-k7es-ix7n-z7a7",
+  "@id": "eb75-m9nh-3mcr-vyhj",
   "schema:name": "VL 8V",
   "schema:manufacturer": {
     "schema:name": "Saft"

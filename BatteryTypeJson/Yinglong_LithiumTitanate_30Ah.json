@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "vbch-sopa-gi6f-18a5",
+  "@id": "as6h-yjrp-k8fr-tzu2",
   "schema:name": "LithiumTitanate 30Ah",
   "schema:manufacturer": {
     "schema:name": "Yinglong"

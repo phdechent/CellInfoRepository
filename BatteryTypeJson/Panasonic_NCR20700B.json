@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "6cda-ho0r-9hz9-17yp",
+  "@id": "4e5c-zubg-zxmk-n7wa",
   "schema:name": "NCR20700B",
   "schema:manufacturer": {
     "schema:name": "Panasonic"

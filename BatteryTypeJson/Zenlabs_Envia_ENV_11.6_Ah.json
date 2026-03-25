@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "4thr-cjhz-53oy-95zt",
+  "@id": "r52s-35zg-b4k7-eqtp",
   "schema:name": "ENV 11.6 Ah",
   "schema:manufacturer": {
     "schema:name": "Zenlabs_Envia"

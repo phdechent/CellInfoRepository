@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "8de4-3q3l-2gk6-bxa7",
+  "@id": "qbng-d54h-hfy4-9wst",
   "schema:name": "INR21700 M50",
   "schema:manufacturer": {
     "schema:name": "LG Chem"

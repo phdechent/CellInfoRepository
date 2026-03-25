@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "v40x-f77y-16ou-ulv9",
+  "@id": "s6pv-5q5h-9f85-rpr5",
   "schema:name": "280Ah CATL LiFePO4",
   "schema:manufacturer": {
     "schema:name": "CATL"

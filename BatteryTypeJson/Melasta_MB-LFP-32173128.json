@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "p0zp-31ec-yg8x-cb5h",
+  "@id": "56jq-4tnf-f5sj-m96b",
   "schema:name": "MB-LFP-32173128",
   "schema:manufacturer": {
     "schema:name": "Melasta"

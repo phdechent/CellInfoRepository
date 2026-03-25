@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "cp48-12md-ei1g-g5kn",
+  "@id": "9865-fxca-marz-h5vs",
   "schema:name": "LP855085-PCM-NTC-LD",
   "schema:manufacturer": {
     "schema:name": "Eemb Co"

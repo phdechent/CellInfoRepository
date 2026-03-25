@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "1kds-jtvi-tmrm-qm2b",
+  "@id": "hyef-ewt5-juey-pec6",
   "schema:name": "LithiumTitanate 40Ah",
   "schema:manufacturer": {
     "schema:name": "Yinglong"

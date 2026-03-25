@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "onmp-cnzb-c46q-bfe6",
+  "@id": "w62r-hcfk-pku3-98qe",
   "schema:name": "INP80E",
   "schema:manufacturer": {
     "schema:name": "EVE Energy"

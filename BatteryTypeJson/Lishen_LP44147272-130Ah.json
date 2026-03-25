@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "0yh2-c87f-er82-qrjk",
+  "@id": "8s75-ucu6-6x9m-bpcc",
   "schema:name": "LP44147272-130Ah",
   "schema:manufacturer": {
     "schema:name": "Lishen"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "91mx-f2vf-2p9x-h92o",
+  "@id": "43a3-92af-qxyu-7cha",
   "schema:name": "LF90K",
   "schema:manufacturer": {
     "schema:name": "EVE Energy"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "lntt-bq1g-a9rb-o2q1",
+  "@id": "xk6g-bb4w-yp3e-frfz",
   "schema:name": "WB-LYP100AHA",
   "schema:manufacturer": {
     "schema:name": "Thunder-Sky"

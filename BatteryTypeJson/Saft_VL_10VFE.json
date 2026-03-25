@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "lsv1-fxt2-vqsb-oxse",
+  "@id": "b96b-tpx3-r4pe-resj",
   "schema:name": "VL 10VFE",
   "schema:manufacturer": {
     "schema:name": "Saft"

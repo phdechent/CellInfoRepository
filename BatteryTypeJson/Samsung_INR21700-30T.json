@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "s19m-ib2f-q7ei-8h0z",
+  "@id": "dur2-865n-t82c-7nrw",
   "schema:name": "INR21700-30T",
   "schema:manufacturer": {
     "schema:name": "Samsung"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "1p7g-or8g-wknz-fxyl",
+  "@id": "r2gv-c3nb-7hy8-bsb6",
   "schema:name": "LiBG18EV-1",
   "schema:manufacturer": {
     "schema:name": "Eagle Picher Technologies LLC"

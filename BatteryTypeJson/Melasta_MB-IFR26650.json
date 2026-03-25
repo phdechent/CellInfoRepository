@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "8301-4xjr-tb26-i7uh",
+  "@id": "qtqk-54c7-vzv6-4c3m",
   "schema:name": "MB-IFR26650",
   "schema:manufacturer": {
     "schema:name": "Melasta"

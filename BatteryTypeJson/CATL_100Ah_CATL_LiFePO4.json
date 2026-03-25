@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "ri6p-68lj-92ir-24h3",
+  "@id": "e5w9-bb45-gjeh-65wt",
   "schema:name": "100Ah CATL LiFePO4",
   "schema:manufacturer": {
     "schema:name": "CATL"

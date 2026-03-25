@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "ig0z-q0l2-8css-2jr8",
+  "@id": "g7tw-h23u-7m3x-3ewv",
   "schema:name": "INR21700-50E",
   "schema:manufacturer": {
     "schema:name": "Samsung"

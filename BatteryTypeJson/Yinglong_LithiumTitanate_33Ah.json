@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "abvp-mtem-xh6f-s0wq",
+  "@id": "avsa-7k6d-7vht-g2gz",
   "schema:name": "LithiumTitanate 33Ah",
   "schema:manufacturer": {
     "schema:name": "Yinglong"

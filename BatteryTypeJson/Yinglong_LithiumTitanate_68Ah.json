@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "8mpd-5r1y-dyju-o9ta",
+  "@id": "muzf-w7qb-m2hf-aeye",
   "schema:name": "LithiumTitanate 68Ah",
   "schema:manufacturer": {
     "schema:name": "Yinglong"

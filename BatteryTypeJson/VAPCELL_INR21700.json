@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "78aa-327r-n5pq-l75x",
+  "@id": "f9dd-533z-k3ek-tqtz",
   "schema:name": "INR21700",
   "schema:manufacturer": {
     "schema:name": "VAPCELL"

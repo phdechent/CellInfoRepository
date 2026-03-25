@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "pv7g-2oz9-2h76-pyjr",
+  "@id": "gq8f-44u3-t3xx-26am",
   "schema:name": "INR 21700 58 E",
   "schema:manufacturer": {
     "schema:name": "BMZ_TerraE"

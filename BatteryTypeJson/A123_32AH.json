@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "apj1-4hdy-988z-h7eo",
+  "@id": "chw8-b693-y8bd-xs6z",
   "schema:name": "32AH",
   "schema:manufacturer": {
     "schema:name": "A123"

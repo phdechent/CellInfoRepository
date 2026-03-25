@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "3605-33ey-0tgh-1lro",
+  "@id": "t7er-285n-sgpd-yzu4",
   "schema:name": "LFP176Ah",
   "schema:manufacturer": {
     "schema:name": "CALB"

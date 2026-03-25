@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "jwhu-xq7k-d79u-681t",
+  "@id": "fspv-ubft-xy5r-fvs8",
   "schema:name": "NCR18650BF",
   "schema:manufacturer": {
     "schema:name": "Panasonic"

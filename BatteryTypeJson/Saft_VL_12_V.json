@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "imt8-d6dz-b12o-s7ol",
+  "@id": "z869-mac9-gerv-6uyc",
   "schema:name": "VL 12 V",
   "schema:manufacturer": {
     "schema:name": "Saft"

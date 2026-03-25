@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "oasz-8nq3-aasu-fuwi",
+  "@id": "26gv-8ppr-5tz6-hrpb",
   "schema:name": "BMZ 21700 52E",
   "schema:manufacturer": {
     "schema:name": "BMZ_Sony"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "vt9f-af2j-vghj-6n15",
+  "@id": "x8gp-6xff-vvyb-7rje",
   "schema:name": "INR20650 M42",
   "schema:manufacturer": {
     "schema:name": "LG Chem"

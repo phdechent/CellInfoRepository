@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "e46s-5ua6-cp0e-kyy9",
+  "@id": "nee2-4nzd-t79w-yu8z",
   "schema:name": "GEB 21700",
   "schema:manufacturer": {
     "schema:name": "GeneralElectronics"

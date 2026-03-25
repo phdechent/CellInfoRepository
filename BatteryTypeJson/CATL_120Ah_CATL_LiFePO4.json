@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "ppsn-s0zt-zphk-fia9",
+  "@id": "2v63-r296-n785-ty9r",
   "schema:name": "120Ah CATL LiFePO4",
   "schema:manufacturer": {
     "schema:name": "CATL"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "277c-e840-pqbw-7urg",
+  "@id": "ee2h-pvwp-46mx-nxs7",
   "schema:name": "KP 21700",
   "schema:manufacturer": {
     "schema:name": "KeepPower"

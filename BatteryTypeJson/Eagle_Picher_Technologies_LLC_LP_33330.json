@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "r9wf-1vu8-wcc5-4gbm",
+  "@id": "22ue-hxpx-fxck-pg2b",
   "schema:name": "LP 33330",
   "schema:manufacturer": {
     "schema:name": "Eagle Picher Technologies LLC"

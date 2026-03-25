@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "1ms4-ft0h-vyxs-y3vy",
+  "@id": "5xrn-sm3y-4d2k-8f4g",
   "schema:name": "INR-21700-P42B",
   "schema:manufacturer": {
     "schema:name": "Molicel"

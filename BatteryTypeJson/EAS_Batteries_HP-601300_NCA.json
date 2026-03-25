@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "oqik-yk5a-xqiw-yt91",
+  "@id": "fc2x-rgbq-t99b-sy3m",
   "schema:name": "HP-601300 NCA",
   "schema:manufacturer": {
     "schema:name": "EAS Batteries"

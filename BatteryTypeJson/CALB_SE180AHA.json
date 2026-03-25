@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "hvmt-22ig-hea5-a19e",
+  "@id": "pb8g-gryz-sk9c-cvkv",
   "schema:name": "SE180AHA",
   "schema:manufacturer": {
     "schema:name": "CALB"

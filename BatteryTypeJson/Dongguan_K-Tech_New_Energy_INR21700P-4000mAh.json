@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "wyyn-mwki-85n2-avsn",
+  "@id": "uudf-pnmx-68qs-622c",
   "schema:name": "INR21700P-4000mAh",
   "schema:manufacturer": {
     "schema:name": "Dongguan K-Tech New Energy"

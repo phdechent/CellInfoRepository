@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "11t0-kttw-7oau-zo6v",
+  "@id": "tg97-ha59-mnyg-gtpk",
   "schema:name": "INR-21700-P42A",
   "schema:manufacturer": {
     "schema:name": "Molicel"

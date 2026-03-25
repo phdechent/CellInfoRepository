@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "vlu3-2phc-sgh3-u3kt",
+  "@id": "446c-mrs5-zp54-29tg",
   "schema:name": "BMZ 21700 50EL",
   "schema:manufacturer": {
     "schema:name": "BMZ_Sony"

@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "6v14-859r-mim7-vcch",
+  "@id": "b6h3-kz32-qx2x-jvup",
   "schema:name": "ENV35011-CRC",
   "schema:manufacturer": {
     "schema:name": "Zenlabs_Envia"

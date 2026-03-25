@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "imwe-k17l-eo51-ddpj",
+  "@id": "p8kh-mf8e-6bwk-w95b",
   "schema:name": "GEB 26650",
   "schema:manufacturer": {
     "schema:name": "GeneralElectronics"

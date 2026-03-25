@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "3r2h-zglr-56bu-l757",
+  "@id": "be3j-g72u-bj5x-se55",
   "schema:name": "LP37173207-150Ah",
   "schema:manufacturer": {
     "schema:name": "Lishen"

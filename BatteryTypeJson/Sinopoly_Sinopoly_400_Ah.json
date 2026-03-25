@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "ayze-mqy0-q6ff-p4j8",
+  "@id": "dpem-js2n-956k-e48n",
   "schema:name": "Sinopoly 400 Ah",
   "schema:manufacturer": {
     "schema:name": "Sinopoly"

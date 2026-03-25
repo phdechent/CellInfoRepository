@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "187p-0zc7-20ab-7bqi",
+  "@id": "nbr5-ntkg-sr77-ynrt",
   "schema:name": "SPB 90190260V2_40Ah",
   "schema:manufacturer": {
     "schema:name": "ENERTECH"

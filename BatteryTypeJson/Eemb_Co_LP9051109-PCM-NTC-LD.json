@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "g1uz-c8y3-4fan-ke5o",
+  "@id": "v8fb-v82w-znz6-t54r",
   "schema:name": "LP9051109-PCM-NTC-LD",
   "schema:manufacturer": {
     "schema:name": "Eemb Co"

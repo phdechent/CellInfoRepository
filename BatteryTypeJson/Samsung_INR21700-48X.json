@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "1914-vauf-2y26-2pzn",
+  "@id": "bv4t-tqzk-dy7d-xkdn",
   "schema:name": "INR21700-48X",
   "schema:manufacturer": {
     "schema:name": "Samsung"

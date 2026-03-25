@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "94wl-mpz0-4ohz-ng63",
+  "@id": "kfw8-8krp-5yp3-fywz",
   "schema:name": "GEB 32650",
   "schema:manufacturer": {
     "schema:name": "GeneralElectronics"

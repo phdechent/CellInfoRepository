@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "60oh-pjyn-sjh0-pq6q",
+  "@id": "mmvy-cg3y-7xg5-pb75",
   "schema:name": "50Ah 55380",
   "schema:manufacturer": {
     "schema:name": "AutoEnergy"

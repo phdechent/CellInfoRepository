@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "ayea-j0fy-5d40-0gg8",
+  "@id": "rtvh-gdsa-yxkm-93c5",
   "schema:name": "INR21700-40T",
   "schema:manufacturer": {
     "schema:name": "Samsung"

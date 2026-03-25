@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/emmo/domain/battery/context",
-  "@id": "2uew-0yle-dz1k-gvj9",
+  "@id": "c8tk-m3rr-uc73-q75x",
   "schema:name": "US21700VTC6A",
   "schema:manufacturer": {
     "schema:name": "Murata"
