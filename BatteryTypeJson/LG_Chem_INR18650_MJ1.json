@@ -657,6 +657,105 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.48550/arxiv.2411.09885",
             "schema:additionalType": "REFERENCED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.electacta.2022.139878",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2019.100900",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2019.101170",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2020.101828",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2022.105303",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2023.108029",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2018.11.043",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2019.03.109",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2019.226834",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.229523",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230030",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230240",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2021.230645",
+            "schema:additionalType": "REFERENCED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2022.231296",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.jpowsour.2022.231943",
+            "schema:additionalType": "REFERENCED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1038/s41467-022-29837-w",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1149/1945-7111/abad6b",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.3390/batteries8120285",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1149/1945-7111/acada6"
         }
     ],
     "schema:creator": {

@@ -585,6 +585,16 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.48550/arxiv.2508.14454",
             "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.dib.2022.107995",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2023.108046",
+            "schema:additionalType": "USED"
         }
     ],
     "schema:creator": {

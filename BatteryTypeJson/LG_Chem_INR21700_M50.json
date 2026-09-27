@@ -485,6 +485,31 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.48550/arxiv.2410.23303",
             "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1002/ente.202200547",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1007/s00502-020-00814-9",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.dib.2021.106894",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2022.104362",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.3390/batteries9010006",
+            "schema:additionalType": "USED"
         }
     ],
     "schema:creator": {

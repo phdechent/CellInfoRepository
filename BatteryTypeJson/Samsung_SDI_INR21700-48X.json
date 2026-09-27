@@ -271,6 +271,11 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.48550/arxiv.2304.08126",
             "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2023.107424",
+            "schema:additionalType": "USED"
         }
     ],
     "schema:creator": {

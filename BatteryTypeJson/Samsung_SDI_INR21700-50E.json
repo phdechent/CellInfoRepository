@@ -547,6 +547,21 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.48550/arxiv.2411.09915",
             "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1016/j.est.2021.102257",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1149/1945-7111/acb669",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1149/1945-7111/ace1a7",
+            "schema:additionalType": "USED"
         }
     ],
     "schema:creator": {

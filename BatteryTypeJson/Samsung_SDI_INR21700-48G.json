@@ -276,6 +276,11 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.3390/electronics15122563",
             "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1109/itec.2019.8790449",
+            "schema:additionalType": "USED"
         }
     ],
     "schema:creator": {

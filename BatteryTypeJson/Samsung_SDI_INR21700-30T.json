@@ -290,6 +290,16 @@
             "@type": "schema:ScholarlyArticle",
             "@id": "https://doi.org/10.3390/e28020221",
             "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1149/1945-7111/ace1a7",
+            "schema:additionalType": "USED"
+        },
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.3390/en16010211",
+            "schema:additionalType": "USED"
         }
     ],
     "schema:creator": {

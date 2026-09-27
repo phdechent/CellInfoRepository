@@ -190,6 +190,13 @@
             }
         }
     ],
+    "schema:subjectOf": [
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.3390/batteries9060309",
+            "schema:additionalType": "USED"
+        }
+    ],
     "schema:creator": {
         "@type": "schema:Person",
         "schema:name": "Philipp Dechent"

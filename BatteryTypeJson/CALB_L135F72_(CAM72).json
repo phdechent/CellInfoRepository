@@ -204,6 +204,13 @@
             }
         }
     ],
+    "schema:subjectOf": [
+        {
+            "@type": "schema:ScholarlyArticle",
+            "@id": "https://doi.org/10.1007/978-3-319-69950-9_8",
+            "schema:additionalType": "USED"
+        }
+    ],
     "schema:creator": {
         "@type": "schema:Person",
         "schema:name": "Philipp Dechent"
