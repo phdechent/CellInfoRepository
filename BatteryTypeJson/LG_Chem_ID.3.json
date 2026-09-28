@@ -99,7 +99,7 @@
             ],
             "hasNumericalPart": {
                 "@type": "RealData",
-                "hasNumericalValue": 0.001101
+                "hasNumericalValue": 1.101
             },
             "hasMeasurementUnit": "emmo:Kilogram",
             "schema:citation": {
