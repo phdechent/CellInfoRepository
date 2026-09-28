@@ -1,0 +1,301 @@
+ID,query,answer,rag_answer_claude-sonnet-5,is_correct_claude-sonnet-5,identifiably_wrong_claude-sonnet-5,rag_answer_gpt-5.4,is_correct_gpt-5.4,identifiably_wrong_gpt-5.4,rag_answer_gemini-3.5-flash,is_correct_gemini-3.5-flash,identifiably_wrong_gemini-3.5-flash,no_rag_answer_gemini-3.5-flash,no_rag_is_correct_gemini-3.5-flash,no_rag_identifiably_wrong_gemini-3.5-flash
+1,Which battery has a higher rated capacity: the Saft VL 5U or the LG Chem INR20650 M42?,Saft VL 5U (5 Ah vs 4.15 Ah),Saft VL 5U (5.0 Ah),1,0,5.0,0,0,Saft VL 5U,1,0,Saft VL 5U,1,0
+2,What is the upper voltage limit of the Saft VES180 battery?,4.1 V,4.1,1,0,4.1 V,1,0,4.1 V,1,0,4.1 V,1,0
+3,What is the rated capacity of the Eemb Co LP38103122 battery?,5.2 Ah,5.2,1,0,5.2 Ah,1,0,5.2 Ah,1,0,5 Ah,0,0
+4,Which battery has a higher rated capacity: the Sony US18650VTC4 or the CALB L160F100B?,CALB L160F100B (100 Ah vs 2.1 Ah),CALB L160F100B (100.0 Ah) has a higher rated capacity than the Sony US18650VTC4 (2.1 Ah).,1,0,100.0,1,0,CALB L160F100B,1,0,CALB L160F100B,1,0
+5,What is the max continuous discharge current limit on the Lishen LR2170SC?,10 A,10.0,1,0,10.0 A,1,0,10.0 A,1,0,30 A,0,0
+6,What is the rated capacity of the ATL Amperex Technology 8045135 expressed in milliampere-hours (mAh)?,4400 mAh,4.4 mAh,0,0,4400 mAh,1,0,4400 mAh,1,0,5000 mAh,0,0
+7,Can you provide the height dimension of the INP60E from EVE Energy?,0.027 m,0.027,1,0,0.027,1,0,0.027 m,1,0,355 mm,0,0
+8,What’s the lower voltage limit for the VL 48E from Saft?,2.5 V,2.5,1,0,2.5 V,1,0,2.5 V,1,0,2.7 V,0,0
+9,What is the diameter of the Samsung SDI INR-21700-50S battery?,0.021 m,0.021,1,0,0.021 m,1,0,0.021 m,1,0,21.1 mm,0,0
+10,What is the upper voltage limit of the JIANGSU HIGEE HJLFP48173170E-120Ah battery?,3.65 V,3.65,1,0,3.65 V,1,0,3.65 V,1,0,3.65 V,1,0
+11,What type of case form factor does the Kokam SLPB120216216G1 battery use?,PrismaticCase,Pouch,0,0,Unknown,0,1,Data not available,0,1,Pouch,0,0
+12,What is the diameter of the CATL 120Ah CATL LiFePO4 battery?,Not available,I don't have information about that battery's diameter in the available data.,0,1,unknown,0,1,Information not available,1,0,0 mm,0,0
+13,What type of case form factor does the Eemb Co LP70103122 battery use?,PrismaticCase,Pouch,0,0,Unknown,0,1,pouch,0,0,Pouch,0,0
+14,Is the Eemb Co LP6545135 heavier than the Zenlabs_Envia ENV 11.6 Ah?,No (0.082 kg vs 0.121 kg),No,1,0,No,1,0,No,1,0,"No, the Eemb Co LP6545135 (80 g) is lighter than the Zenlabs_Envia ENV 11.6 Ah (124 g).",1,0
+15,What are the rated capacity and nominal voltage of the GS Yuasa Technology LVP10 battery?,"Rated Capacity: 11.5 Ah, Nominal Voltage: 3.7 V","11.5 Ah, 3.7 V",1,0,"11.5 Ah, 3.7 V",1,0,11.5 Ah and 3.7 V,1,0,10 Ah and 3.7 V,0,0
+16,What are the rated capacity and nominal voltage of the Sony-Murata US26650FTC1A battery?,"Rated Capacity: 3 Ah, Nominal Voltage: 3.2 V","3.0 Ah, 3.2 V",1,0,3.0 Ah; 3.2 V,1,0,3.0 Ah and 3.2 V,1,0,3.0 Ah and 3.2 V,1,0
+17,What is the standard discharge current rate for the INR21700-40T from Samsung SDI?,0.8 A,"0.8, 0.9 A",0,0,0.8–0.9 C,0,0,0.8 A,1,0,0.8 A,1,0
+18,Can you tell me the maximum continuous discharge current for the BMZ_Sony BMZ 21700 52EM battery?,8 A,8.0,1,0,8.0 A,1,0,8.0 A,1,0,15 A,0,0
+19,Can you tell me the charging current rating for the LR2170SF from Lishen?,2.25 A,4.5,0,0,4.5 A,0,0,2.25 Ampere,1,0,2.25 A,1,0
+20,What cathode active material chemistry is used in the LG Chem ICR18650 C2?,LithiumNickelManganeseCobaltOxide,LCO (Lithium Cobalt Oxide),0,0,Unknown,0,1,Unknown,0,1,Lithium Cobalt Oxide,0,0
+21,What type of case form factor does the Eemb Co LP6545135 battery use?,PrismaticCase,Prismatic,0,0,Unknown,0,1,Unknown,0,1,Pouch,0,0
+22,What is the diameter of the Kokam SLPB120216216G1H battery?,Not available,I don't have information to answer this question.,1,0,unknown,1,0,Data not available,1,0,0 mm,0,0
+23,What is the height of the Thunder-Sky WB-LYP260AHA battery?,0.0555 m,0.0555,1,0,0.0555,1,0,0.0555 m,1,0,273 mm,0,0
+24,What cathode active material chemistry is used in the Eagle Picher Technologies LLC LP 33081?,LithiumNickelCobaltAluminiumOxide,LP 33081 (Lithium/Carbon Monofluoride),0,0,NaN Ampere,0,1,"carbon monofluoride, manganese dioxide",0,0,NCA,1,0
+25,What is the upper voltage limit of the GeneralElectronics GEB 126090 battery?,4.2 V,4.2,1,0,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0
+26,What is the diameter of the GBS ZhEJIANG Systems GBS-LFP200Ah-B battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,0,1,,1,0,0 mm,0,0
+27,Can you provide the upper voltage limit for the LT 34 Ah (936901) from LECLANCHÉ?,2.8 V,2.8,1,0,2.8 V,1,0,2.8 V,1,0,2.7 V,0,0
+28,What cathode active material chemistry is used in the EVE Energy INP42P?,LithiumNickelManganeseCobaltOxide,I don't know.,0,1,Unknown,0,1,Information not available,0,1,NMC,1,0
+29,What is the diameter of the Eagle Picher Technologies LLC LP 32770 battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,0,1,Unknown,0,1,32 mm,0,0
+30,Which battery has a higher rated capacity: the Headway Group HW40152S or the Murata US21700VTC6A?,Headway Group HW40152S (15 Ah vs 4 Ah),Headway Group HW40152S,1,0,15.0,1,0,Headway Group HW40152S,1,0,Headway Group HW40152S,1,0
+31,What is the rated capacity of the Kokam SLPB53460330 expressed in milliampere-hours (mAh)?,70000 mAh,**70.0 mAh**,1,0,70.0 mAh,0,0,70.0 mAh,0,0,74000 mAh,0,0
+32,What are the rated capacity and nominal voltage of the EVE Energy D21 battery?,"Rated Capacity: 52 Ah, Nominal Voltage: 3.7 V","52.0 Ah, 3.7 V",1,0,"52.0 Ah, 3.7 V",1,0,52.0 Ah and 3.7 V,1,0,21 Ah and 3.65 V,0,0
+33,What cathode active material chemistry is used in the Emmerich LFP26650P?,LithiumNickelManganeseCobaltOxide,I don't have information about the cathode active material chemistry for the Emmerich LFP26650P in the provided data.,0,1,Unknown,0,1,LFP,0,0,Lithium Iron Phosphate,0,0
+34,What's the capacity specification for EAS Batteries HE-341440 NCA?,10 Ah,10.0,1,0,10.0,1,0,10.0 Ah,1,0,13 Ah,0,0
+35,What is the diameter of the LECLANCHÉ 904823 battery?,Not available,18mm,1,0,unknown,0,1,Unknown,0,1,0 mm,0,0
+36,What is the diameter of the Eagle Picher Technologies LLC LP 33330 battery?,Not available,I don't have information about the diameter of the Eagle Picher Technologies LLC LP 33330 battery.,1,0,Unknown,1,0,,1,0,33.3 mm,0,0
+37,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Saft INT 176065 ISR FL?",20.44 Wh,**≈ 20.44 Wh**,1,0,20.44 Wh,1,0,20.44 Wh,1,0,20.44 Wh,1,0
+38,What is the operating voltage window (lower and upper limits) for the Amita Technologies 120155250NH-NH02?,2.4 V to 4.2 V,2.4 V – 4.2 V,1,0,2.4–4.2 V,1,0,2.4 to 4.2 V,1,0,2.7 V to 4.2 V,0,0
+39,What is the diameter of the Kokam SLPB120460330 battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,1,0,,1,0,0 mm,0,0
+40,What is the diameter of the EVE Energy D11 battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,1,0,Information not available,1,0,33 mm,0,0
+41,Can you tell me the maximum continuous discharge current for the Emmerich LFP26650P battery?,42 A,42.0,1,0,42.0 A,1,0,42 A,1,0,50 A,0,0
+42,What is the rated capacity of the Samsung SDI SDI 94Ah expressed in milliampere-hours (mAh)?,94000 mAh,94000 mAh,1,0,94000 mAh,1,0,94000 mAh,1,0,94000 mAh,1,0
+43,How heavy is the Eemb Co LP50100100 battery?,0.096 kg,0.096,1,0,0.096 kg,1,0,0.096 kg,1,0,95 g,0,0
+44,Can you provide the height dimension of the 20AH from A123 Systems?,0.00725 m,**0.048 meters**,0,0,0.048,0,0,0.048 m,0,0,227 mm,0,0
+45,What cathode active material chemistry is used in the Saft MP174865?,LithiumNickelManganeseCobaltOxide and LithiumNickelCobaltAluminiumOxide,I don't know.,0,1,NMC622,0,0,Unknown,0,1,NMC,1,0
+46,What is the lower voltage limit of the Saft VL 27M battery?,2.7 V,2.7,1,0,2.7 V,1,0,2.7 V,1,0,2.7 V,1,0
+47,How heavy is the Panasonic NCR18650BD battery?,0.0495 kg,0.0495 kg,1,0,0.0495 kg,1,0,0.0495 kg,1,0,49 g,0,0
+48,What is the diameter of the Eagle Picher Technologies LLC SLC-16050-003 battery?,Not available,"Based on the query results, there is no data available to answer this question.",1,0,Unknown,1,0,Data not available,1,0,50.3 mm,0,0
+49,What is the diameter of the EVE Energy LF56K battery?,Not available,46 mm,1,0,Unknown,1,0,,1,0,0 mm,0,0
+50,What is the weight specification for the Wuhan Lisun Power Corp. Ltd ICP174167S?,0.13 kg,0.13,1,0,0.13,1,0,0.13 kg,1,0,92 g,0,0
+51,Can you provide the nominal voltage for the Saft VL 5U?,3.65 V,3.65,1,0,3.65 V,1,0,3.65 V,1,0,3.6 V,0,0
+52,What type of case form factor does the Saft VL 20P battery use?,CylindricalCase,Cylindrical,1,0,0.163 Metre,0,0,Data not available,0,1,Cylindrical,0,0
+53,What is the diameter of the Eemb Co LP656194-PCM-LD battery?,Not available,0,0,0,Unknown,1,0,,1,0,0 mm,0,0
+54,Can you tell me the charging current rating for the LP956167-PCM-LD from Eemb Co?,0.8 A,0.8,1,0,0.8 A,1,0,0.8 A,1,0,0.5 C,0,0
+55,What are the rated capacity and nominal voltage of the Kayo battery co.. ltd KFL 32650 battery?,"Rated Capacity: 4 Ah, Nominal Voltage: 3.2 V","4.0 Ah, 3.2 V",1,0,"4.0 Ah, 3.2 V",1,0,4.0 Ah and 3.2 V,1,0,5.5 Ah and 3.2 V,0,0
+56,What is the discharge current of the Amita Technologies 120155250NH-NH02 battery?,8.8 A,8.8 A,1,0,8.8 A,1,0,8.8 A,1,0,40 A,0,0
+57,What is the diameter of the Thunder-Sky WB-LYP300AHA battery?,Not available,I don't have information to answer this question.,1,0,Unknown,1,0,Data not available,1,0,0 mm,0,0
+58,Is the Saft VL 32600-125 heavier than the Eagle Picher Technologies LLC LiBG18EV-1?,No (0.139 kg vs 0.81 kg),No,0,0,No,1,0,No,1,0,Yes,0,0
+59,What are the rated capacity and nominal voltage of the Lishen LP54173210-202Ah battery?,"Rated Capacity: 202 Ah, Nominal Voltage: 3.2 V","202.0 Ah, 3.2 V",1,0,"202.0 Ah, 3.2 V",1,0,"202.0 Ah, 3.2 V",1,0,202 Ah and 3.2 V,1,0
+60,What is the nominal voltage of the LG Chem E66A battery?,3.657 V,3.657 V,1,0,3.657 V,1,0,3.657 V,1,0,3.65 V,1,0
+61,How many cycles is the Guangzhou FULLRIVER Battery New Technology Co 32700Fe5400 rated for?,1000 cycles,1000,1,0,1000 cycles,1,0,1000 cycles,1,0,2000 cycles,0,0
+62,Which battery has a higher rated capacity: the EAS Batteries HP-601300 LithiumNickelCobaltAluminiumOxide or the Thunder-Sky WB-LYP160AHA?,Thunder-Sky WB-LYP160AHA (160 Ah vs 27 Ah),Thunder-Sky WB-LYP160AHA,1,0,160.0,1,0,Thunder-Sky WB-LYP160AHA (160.0 Ah),1,0,Thunder-Sky WB-LYP160AHA,1,0
+63,What type of case form factor does the AlcaPower LIR18650HFT battery use?,R18650,Cylindrical,1,0,Unknown,0,1,Data not available,0,1,Cylindrical,1,0
+64,What is the height of the Optimum Battery Co Ltd OPT-32650F battery?,0.07 m,0.07,1,0,0.07,1,0,0.07 m,1,0,65 mm,0,0
+65,What’s the lower voltage limit for the INR18650-20R from Samsung SDI?,2.5 V,2.5,1,0,2.5 V,1,0,2.5 V,1,0,2.5 V,1,0
+66,What type of case form factor does the Neosonic Li-Polymer Energy KMBNK06035195S battery use?,PrismaticCase,Pouch,0,0,No data available,0,1,Unknown,0,1,Pouch,0,0
+67,Which battery has a higher rated capacity: the CALB CA40 or the Kokam SLPB130255255G1?,Kokam SLPB130255255G1 (103 Ah vs 40 Ah),Kokam SLPB130255255G1 - 103.0 Ah,1,0,103.0,1,0,Kokam SLPB130255255G1 (103.0 Ah),1,0,Kokam SLPB130255255G1,1,0
+68,Can you tell me the charging current rating for the INR 21700 58 E from BMZ_TerraE?,1.14 A,1.5,0,0,1.14 A,1,0,1.14 A,1,0,2.775 A,0,0
+69,How many cycles is the Panasonic UPF673791 rated for?,500 cycles,500.0 cycles,1,0,500 cycles,1,0,500 cycles,1,0,500 cycles,1,0
+70,What is the discharge current of the Wuhan Lisun Power Corp. Ltd ICP174167S battery?,0.8 A,0.8,1,0,0.8 A,1,0,0.8 A,1,0,1 A,0,0
+71,What is the height of the Kokam SLPB55205130H battery?,0.0056 m,0.0056,1,0,0.0056 m,1,0,0.0056 m,1,0,130 mm,0,0
+72,Which battery has a higher rated capacity: the Yinglong 35Ah or the Amita Technologies 7799130P?,Yinglong 35Ah (36.2 Ah vs 7.5 Ah),**Yinglong 35Ah (36.2 Ah)**,1,0,36.2 Ah,1,0,Yinglong 35Ah,1,0,Yinglong 35Ah,1,0
+73,Which battery has a higher rated capacity: the EAS Batteries HE-341440 NCA or the EVE Energy INP42P?,EVE Energy INP42P (42 Ah vs 10 Ah),EVE Energy INP42P (42.0),1,0,42.0,1,0,EVE Energy INP42P (42.0 Ah),1,0,EVE Energy INP42P,1,0
+74,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Yinglong LithiumTitanate 9Ah?",20.70 Wh,**20.7 Wh**,1,0,20.7 Wh,1,0,20.7 Wh,1,0,20.7 Wh,1,0
+75,What type of case form factor does the Optimum Battery Co Ltd OPT-32650F battery use?,CylindricalCase,Cylindrical,1,0,32650F,0,0,Information not available,0,1,cylindrical,1,0
+76,What is the lower voltage limit of the Kokam SLPB120216216G1H battery?,2.7 V,2.7 V,1,0,2.7 V,1,0,2.7 V,1,0,2.7 V,1,0
+77,Can you tell me the rated capacity of the SLPB120216216G1 battery from Kokam?,60 Ah,60.0,1,0,60.0 Ah,1,0,60.0 Ah,1,0,53 Ah,0,0
+78,Which battery has a higher rated capacity: the Eagle Picher Technologies LLC SLC-16050-003 or the Advanced Electronics Energy AE8867220PMHRE?,Eagle Picher Technologies LLC SLC-16050-003 (62.5 Ah vs 10.5 Ah),62.5,1,0,62.5,1,0,Eagle Picher Technologies LLC SLC-16050-003,1,0,Eagle Picher Technologies LLC SLC-16050-003,1,0
+79,How many cycles is the ENERDEL CE250-370 Moxie+ rated for?,3000 cycles,3000,1,0,3000 cycles,1,0,3000 cycles,1,0,3000 cycles,1,0
+80,How heavy is the Kokam SLPB70460330 battery?,2.32 kg,2.32 kg,1,0,2.32 g,0,0,2.32 kg,1,0,2.15 kg,0,0
+81,What is the rated capacity of the Eemb Co LP6545135 expressed in milliampere-hours (mAh)?,3800 mAh,**3.8 mAh**,0,0,3800 mAh,1,0,3800 mAh,1,0,4500 mAh,0,0
+82,What is the diameter of the OSN-08198255-LT28 battery?,Not available,18mm,0,0,Unknown,1,0,Information not available,1,0,81.98 mm,1,0
+83,What type of case form factor does the Kokam SLPB60460330H battery use?,PrismaticCase,Pouch,0,0,0.455 Metre,0,0,,0,1,pouch,0,0
+84,What type of case form factor does the Kokam SLPB125255255H battery use?,PrismaticCase,Pouch,0,0,Unknown,0,1,Unknown,0,1,Pouch,0,0
+85,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the KeepPower NH2140?",14.80 Wh,14.8 Wh,1,0,14.8 Wh,1,0,14.8 Wh,1,0,14.4 Wh,0,0
+86,What is the operating voltage window (lower and upper limits) for the ELERIX EX-T30K?,1.5 V to 2.7 V,1.5 V - 2.7 V,1,0,1.5–2.7 V,1,0,1.5 V to 2.7 V,1,0,1.5 V - 2.8 V,0,0
+87,What is the discharge current of the Thunder-Sky WB-LYP160AHA battery?,80 A,80.0,1,0,80.0 A,1,0,80.0 A,1,0,80 A,1,0
+88,Which battery has a higher rated capacity: the Saft VES180 or the Eagle Picher Technologies LLC LP 32770?,Eagle Picher Technologies LLC LP 32770 (55 Ah vs 50 Ah),Eagle Picher Technologies LLC LP 32770 (55.0 Ah),1,0,55.0,1,0,Eagle Picher Technologies LLC LP 32770,1,0,Eagle Picher Technologies LLC LP 32770,1,0
+89,What is the upper voltage limit of the Amprius_Wuxi Lead E485795CH battery?,4.4 V,4.4,1,0,4.4,1,0,4.4 V,1,0,4.2 V,0,0
+90,How many cycles is the Saft VL 34570 rated for?,500 cycles,500.0 cycles,1,0,500 cycles,1,0,500 cycles,1,0,3000,0,0
+91,Is the LECLANCHÉ GL60 (936A04) heavier than the Sinopoly 100 Ah?,No (1.12 kg vs 3.15 kg),No,1,0,3.15 kg,0,0,No,1,0,No,1,0
+92,Can you tell me the rated capacity of the BMZ 21700 40PS1 battery from BMZ_Sony?,4 Ah,4.0 Ah,1,0,4.0 Ah,1,0,4.0 Ah,1,0,4.0 Ah,1,0
+93,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the O'CELL IFR14500EC?",1.92 Wh,**1.92 Wh**,1,0,1.92 Wh,1,0,1.92 Wh,1,0,1.92 Wh,1,0
+94,Can you provide the height dimension of the HJLFP48173170E-152Ah from JIANGSU HIGEE?,0.049 m,0.049,1,0,0.049,1,0,0.049 m,1,0,170 mm,0,0
+95,What type of case form factor does the BMZ_Sony BMZ 21700 42 PM battery use?,R21700,Cylindrical,1,0,21700,1,0,cylindrical,1,0,Cylindrical,1,0
+96,What is the standard discharge current rate for the ePLB C020 from EiG?,60 A,60.0 A,1,0,60.0 A,1,0,60.0 A,1,0,1 C,0,0
+97,What is the max continuous discharge current limit on the EVE Energy LF280K-72174?,280 A,280.0 A,1,0,280.0 A,1,0,280 A,1,0,280 A,1,0
+98,What is the diameter of the Amita Technologies 5099130NRS battery?,Not available,I don't know,0,1,Unknown,1,0,Information not available,1,0,0 mm,0,0
+99,What are the rated capacity and nominal voltage of the GFB 48173125-100Ah battery?,"Rated Capacity: 100 Ah, Nominal Voltage: 3.2 V","100.0 Ah, 3.2 V",1,0,"100 Ah, 3.2 V",1,0,"100.0 Ah, 3.2 V",1,0,"100 Ah, 3.2 V",1,0
+100,What is the height of the LG Chem 18650 HE4 battery?,0.065 m,0.065,1,0,0.065 m,1,0,0.065 m,1,0,65 mm,1,0
+101,How heavy is the Panasonic NCR21700A battery?,0.07 kg,0.07 kg,1,0,0.07 oz,0,0,0.07 kg,1,0,68 g,0,0
+102,What is the upper voltage limit of the VAPCELL INR21700 battery?,4.2 V,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0
+103,What is the operating voltage window (lower and upper limits) for the Varta CP1654 A4X?,3 V to 4.3 V,3.0 V to 4.3 V,1,0,3.0–4.3 V,1,0,3.0 V to 4.3 V,1,0,3.0 V to 4.4 V,0,0
+104,What type of case form factor does the Thunder-Sky WB-LYP90AHA battery use?,PrismaticCase,Prismatic,1,0,7000.0,0,0,Information not available,0,1,Prismatic,0,0
+105,What is the operating voltage window (lower and upper limits) for the ENERTECH SPB704684?,3 V to 4.2 V,3.0 V to 4.2 V,1,0,3.0–4.2 V,1,0,3.0 V to 4.2 V,1,0,3.0 V - 4.2 V,1,0
+106,What is the cycle life of the 6567100 battery from Yoku Energy (Shenzhen) Co?,300 cycles,300.0,1,0,300.0 cycles,1,0,300 cycles,1,0,500 cycles,0,0
+107,What type of case form factor does the Panasonic NCR20700B battery use?,CylindricalCase,Cylindrical,1,0,0.02 × 0.07 Metre,0,0,No data available,0,1,Cylindrical,0,0
+108,What is the diameter of the Amita Technologies 9299130N battery?,Not available,I don't have information about this battery's diameter in the available data.,0,1,unknown,0,1,Data not available,1,0,0 mm,0,0
+109,What is the diameter of the ATL Amperex Technology 8235138 battery?,Not available,3.8 mm,0,0,Unknown,1,0,Information not available,1,0,0 mm,0,0
+110,How long is the cycle life of the Melasta MB-LFP-32173128 battery?,2000 cycles,2000,1,0,2000 cycles,1,0,2000 cycles,1,0,2000 cycles,1,0
+111,Which battery has a higher rated capacity: the Saft MP174565 or the Kokam SLPB065070180?,Kokam SLPB065070180 (11.6 Ah vs 4.8 Ah),Kokam SLPB065070180 (11.6 Ah),1,0,11.6,1,0,Kokam SLPB065070180,1,0,Kokam SLPB065070180,1,0
+112,Can you tell me the rated capacity of the CS0495RT001A battery from Samsung SDI?,49.5 Ah,49.5,1,0,49.5,1,0,49.5 Ah,1,0,4.95 Ah,0,0
+113,What are the rated capacity and nominal voltage of the GeneralElectronics GEB 855085 battery?,"Rated Capacity: 4.1 Ah, Nominal Voltage: 3.7 V","4.1 Ah, 3.7 V",1,0,"4.1 Ah, 3.7 V",1,0,"4.1 Ah, 3.7 V",1,0,4.0 Ah and 3.7 V,0,0
+114,What is the rated capacity of the Neosonic Li-Polymer Energy KMBNS06065108S battery?,4.7 Ah,4.7,1,0,4.7 Ah,1,0,,0,0,4.2 Ah,0,0
+115,What cathode active material chemistry is used in the LG Chem ID.3?,LithiumNickelManganeseCobaltOxide,NMC (Nickel Manganese Cobalt Oxide),1,0,Not available,0,1,Data not available,0,1,NCM 712,1,0
+116,What is the standard discharge current rate for the 7545135 from Yoku Energy (Shenzhen) Co?,0.84 A,0.84,1,0,0.84,1,0,0.84 A,1,0,0.2 C,0,0
+117,What cathode active material chemistry is used in the EVE Energy LF280N-72174?,LithiumIronPhosphate,LFP (Lithium Iron Phosphate),1,0,Unknown,0,1,Unknown,0,1,Lithium Iron Phosphate,1,0
+118,Can you provide the height dimension of the MP174865 from Saft?,0.019 m,0.019,1,0,0.019,1,0,0.019 m,1,0,65 mm,0,0
+119,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Samsung SDI CS0495RT001A?",178.20 Wh,178.2 Wh,1,0,178.2 Wh,1,0,178.2 Wh,1,0,346 Wh,0,0
+120,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the JGNE JGPFR26650?",9.60 Wh,**9.6 Wh**,1,0,9.6 Wh,1,0,9.6 Wh,1,0,10.24 Wh,0,0
+121,What cathode active material chemistry is used in the Quallion LLC QL015KA?,LNCAO,Not available in the provided data.,1,0,Unknown,0,1,Unknown,0,1,NCA,0,0
+122,What type of case form factor does the Kokam SLPB100216216H battery use?,PrismaticCase,Pouch,0,0,6000.0,0,0,Information not available,0,1,Pouch,0,0
+123,What cathode active material chemistry is used in the Kokam SLPB065070180?,LithiumNickelManganeseCobaltOxide,"The query returned no results, so I cannot determine the cathode active material chemistry for the Kokam SLPB065070180.",1,0,3000.0,0,0,Unknown,0,1,NMC,1,0
+124,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Kokam SLPB50106100?",18.50 Wh,18.5 Wh,1,0,18.5 Wh,1,0,18.5 Wh,1,0,17.76 Wh,0,0
+125,Is the Thunder-Sky WB-LYP90AHA heavier than the Eemb Co LP70103122?,Yes (2.9 kg vs 0.173 kg),Yes,1,0,Yes,1,0,Yes,1,0,Yes,1,0
+126,What is the charging current of the A123 Systems 50AH battery?,25 A,"75.0, 25.0, 25.0, 10.0 A",0,0,75.0 A,0,0,25.0 Ampere,1,0,50 A,0,0
+127,What is the rated capacity of the Headway Group HW38140S expressed in milliampere-hours (mAh)?,12000 mAh,12.0 mAh,0,0,12000 mAh,1,0,12000 mAh,1,0,10000 mAh,0,0
+128,What is the max continuous discharge current limit on the Sanyo UR18650AA?,4.4 A,4.4,1,0,4.4 A,1,0,4.4 A,1,0,4.3 A,0,0
+129,What is the standard discharge current rate for the ICP226754M from Wuhan Lisun Power Corp. Ltd?,7 A,7.0 A,1,0,7.0C,1,0,7.0 mA,0,0,0.2 C,0,0
+130,What is the standard discharge current rate for the US18650VTC5A from Sony-Murata?,10 A,10.0 A,1,0,10.0 A,1,0,10.0 A,1,0,10 A,1,0
+131,What is the diameter of the Samsung SDI 94Ah Cell battery?,Not available,"The query result is empty, so I don't have this information.",1,0,Unknown,1,0,,1,0,0 mm,0,0
+132,What is the discharge current of the AA Portable Power PL-325085-2C battery?,0.31 A,0.31 A,1,0,0.31 A,1,0,0.31 A,1,0,2.6 A,0,0
+133,What’s the lower voltage limit for the WB-LYP400AHA from Thunder-Sky?,2.5 V,2.5,1,0,2.5 V,1,0,2.5 V,1,0,2.5 V,1,0
+134,What is the mass of the HW40152S from Headway Group?,0.475 kg,0.475,1,0,0.475 kg,1,0,0.475 kg,1,0,480 g,0,0
+135,What is the standard discharge current rate for the VL 34P from Saft?,33 A,33.0,1,0,33.0 mA,0,0,33.0 A,1,0,34 A,0,0
+136,What’s the nominal voltage of the WB-LYP200AHA battery from Thunder-Sky?,3.3 V,3.3 V,1,0,3.3,1,0,3.3 V,1,0,3.2 V,0,0
+137,Which battery has a higher rated capacity: the Wuhan Lisun Power Corp. Ltd ICP257054M or the Headway Group HW38120S/L?,Headway Group HW38120S/L (10 Ah vs 9 Ah),10.0,1,0,10.0,1,0,Headway Group HW38120S/L,1,0,Headway Group HW38120S/L,1,0
+138,What cathode active material chemistry is used in the ENERTECH SPB 59235172PG1?,LithiumNickelManganeseCobaltOxide and LithiumNickelCobaltAluminiumOxide,I don't have information about this specific battery cell's cathode active material chemistry in the provided data.,0,1,Unknown,0,1,NMC,1,0,NMC,1,0
+139,Which battery has a higher rated capacity: the GeneralElectronics GEB 32650 or the Kokam SLPB70205130P?,Kokam SLPB70205130P (12 Ah vs 6 Ah),Kokam SLPB70205130P (12.0 Ah),1,0,12.0,1,0,Kokam SLPB70205130P (12.0 Ah),1,0,Kokam SLPB70205130P,1,0
+140,What is the rated capacity of the CALB CA100 battery?,100 Ah,100.0,1,0,100.0 Ah,1,0,100.0 Ah,1,0,100 Ah,1,0
+141,Is the Varta CP1654 A4X heavier than the Eemb Co LP8545135-PCM-LD?,No (0.0031 kg vs 0.105 kg),No,1,0,No,1,0,No,1,0,No,1,0
+142,What is the rated capacity of the COSLIGHT FP45173209A expressed in milliampere-hours (mAh)?,150000 mAh,150.0 mAh,0,0,150.0 mAh,0,0,150.0 mAh,0,0,100000 mAh,0,0
+143,What type of case form factor does the EVE Energy LF56K battery use?,PrismaticCase,Prismatic,0,0,0.185 Metre,0,0,Data not available,0,1,Prismatic,0,0
+144,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the BAK N21700CB-48?",17.28 Wh,**17.28 Wh**,1,0,17.28 Wh,1,0,17.28 Wh,1,0,17.28 Wh,1,0
+145,What is the operating voltage window (lower and upper limits) for the LG Chem INR21700 M50?,2.5 V to 4.2 V,2.5 V – 4.2 V,1,0,2.5–4.2 V,1,0,2.5 V to 4.2 V,1,0,2.5 V - 4.2 V,1,0
+146,Can you tell me the maximum continuous discharge current for the Saft VL 7P battery?,100 A,100.0,1,0,100.0 A,1,0,100 A,1,0,70 A,0,0
+147,What is the diameter of the Eemb Co LP7851119F battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,1,0,Data not available,1,0,0 mm,0,0
+148,Is the Dongguan K-Tech New Energy INR21700P-4000mAh heavier than the CALB L160F100B?,No (0.068 kg vs 1.97 kg),No,1,0,No,1,0,No,1,0,No,1,0
+149,What is the operating voltage window (lower and upper limits) for the Melasta MB-LFP-32173128?,2 V to 3.65 V,2.0 V – 3.65 V,1,0,2.0–3.65 V,1,0,2.0 V to 3.65 V,1,0,2.0 V to 3.65 V,1,0
+150,What's the capacity specification for CALB CA60?,60 Ah,60.0,1,0,60.0,1,0,60.0 Ah,1,0,60 Ah,1,0
+151,How many cycles is the CALB L135F72 (CAM72) rated for?,2000 cycles,2000 cycles,1,0,2000 cycles,1,0,2000 cycles,1,0,2000 cycles,1,0
+152,What is the diameter of the Emmerich LFP26650P battery?,0.0265 m,0.0265,1,0,0.0265 m,1,0,0.0265 m,1,0,26.2 mm,0,0
+153,Is the EVE Energy D13 heavier than the Eemb Co LP38103122?,Yes (0.8 kg vs 0.104 kg),Yes,1,0,0.696 kg,0,0,Yes,1,0,No,0,0
+154,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the GS Yuasa Technology LVP10?",42.55 Wh,**42.55 Wh**,1,0,42.55 Wh,1,0,42.55 Wh,1,0,32 Wh,0,0
+155,What cathode active material chemistry is used in the EVE Energy LF75?,LithiumIronPhosphate,LFP (Lithium Iron Phosphate),1,0,Unknown,0,1,Unknown,0,1,LFP,1,0
+156,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the ATL Amperex Technology 7048168?",20.35 Wh,**20.35 Wh**,1,0,20.35 Wh,1,0,20.35 Wh,1,0,25.16 Wh,0,0
+157,What is the max continuous discharge current limit on the EVE Energy LF280-72174?,280 A,280.0,1,0,280.0 A,1,0,280.0 A,1,0,280 A,1,0
+158,Can you tell me the rated capacity of the ENV 50.4 Ah battery from Zenlabs_Envia?,51 Ah,51.0,1,0,51.0 Ah,1,0,51.0 Ah,1,0,50.4 Ah,0,0
+159,What is the lower voltage limit of the SKI Kia Niro battery?,2.75 V,2.75,1,0,2.75 V,1,0,2.75 V,1,0,2.7 V,0,0
+160,What is the operating voltage window (lower and upper limits) for the OSN-08198255-LT28?,1.6 V to 2.8 V,1.6–2.8 V,1,0,1.6–2.8 V,1,0,1.6 to 2.8 V,1,0,1.5 V - 2.8 V,0,0
+161,Can you provide the upper voltage limit for the LP857062-PCM-NTC-LD from Eemb Co?,4.2 V,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0
+162,What is the nominal voltage of the Varta CP1654 A4X battery?,3.7 V,3.7,1,0,3.7 V,1,0,3.7 V,1,0,3.7 V,1,0
+163,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Eemb Co LP9590120F?",27.20 Wh,27.2 Wh,1,0,27.2 Wh,1,0,27.2 Wh,1,0,22.4 Wh,0,0
+164,What is the rated capacity of the CALB L135F72 (CAM72) expressed in milliampere-hours (mAh)?,72000 mAh,72000 mAh,1,0,72000 mAh,1,0,72000 mAh,1,0,72000 mAh,1,0
+165,Which battery has a higher rated capacity: the Saft MP174865 IS or the GFB 48173125-100Ah?,GFB 48173125-100Ah (100 Ah vs 4.8 Ah),GFB 48173125-100Ah (100.0 Ah),1,0,100 Ah,1,0,GFB 48173125-100Ah (100.0 Ah),1,0,GFB 48173125-100Ah,1,0
+166,Can you tell me the charging current rating for the ENV 50.4 Ah from Zenlabs_Envia?,10.2 A,10.2,1,0,10.2,1,0,10.2 Ampere,1,0,15.12 A,0,0
+167,What is the cycle life of the SLPB60460330H battery from Kokam?,800 cycles,800.0 cycles,1,0,800 cycles,1,0,800 cycles,1,0,800 cycles,1,0
+168,What is the mass of the SLPB140460330 from Kokam?,3.955 kg,3.955,1,0,3.955 g,0,0,3.955 kg,1,0,4.85 kg,0,0
+169,What are the rated capacity and nominal voltage of the Eemb Co LP8867220 battery?,"Rated Capacity: 10 Ah, Nominal Voltage: 3.7 V","10.0 Ah, 3.7 V",1,0,10.0 Ah; 3.7 V,1,0,10.0 Ah and 3.7 V,1,0,13 Ah and 3.7 V,0,0
+170,What is the lower voltage limit of the Thunder-Sky WB-LYP260AHA battery?,2.5 V,2.5,1,0,2.5 V,1,0,2.5 V,1,0,2.5 V,1,0
+171,What is the rated capacity of the Zenlabs_Envia ENV 50.4 Ah expressed in milliampere-hours (mAh)?,51000 mAh,50000 mAh,0,0,51.0 mAh,0,0,51000 mAh,1,0,50400 mAh,0,0
+172,What is the height of the Kokam SLPB120216216G1H battery?,0.0122 m,0.0122 m,1,0,0.012199999999999999 m,1,0,0.0122 meters,1,0,216 mm,0,0
+173,What’s the lower voltage limit for the LP90100160F from Eemb Co?,2 V,2.0,1,0,2.0 V,1,0,2.0 V,1,0,2.0 V,1,0
+174,What are the rated capacity and nominal voltage of the Kokam SLPB98188216P battery?,"Rated Capacity: 30 Ah, Nominal Voltage: 3.7 V","30.0 (Ah), 3.7 (V)",1,0,"30.0 Ah, 3.7 V",1,0,30.0 Ah and 3.7 V,1,0,40 Ah and 3.7 V,0,0
+175,What is the operating voltage window (lower and upper limits) for the Saft VL 10VFE?,2.5 V to 3.65 V,2.5 V to 3.65 V,1,0,2.5–3.65 V,1,0,2.5 V to 3.65 V,1,0,2.7 V - 4.1 V,0,0
+176,What type of case form factor does the CATL 280Ah CATL LiFePO4 battery use?,PrismaticCase,Prismatic,0,0,Unknown,0,1,Information not available,0,1,Prismatic,0,0
+177,What is the cycle life of the HW38120S/L battery from Headway Group?,1500 cycles,1500,1,0,1500 cycles,1,0,1500 cycles,1,0,2000 cycles,0,0
+178,Is the Wuhan Lisun Power Corp. Ltd ICP226754M heavier than the EVE Energy LF280-72174?,No (0.21 kg vs 5.22 kg),No,1,0,No,1,0,No,1,0,No,1,0
+179,What cathode active material chemistry is used in the Kokam SLPB11543140H5?,LithiumNickelManganeseCobaltOxide,"The query result is empty, so no cathode active material chemistry information is available.",0,1,NMC / Graphite,1,0,Unknown,0,1,NMC,1,0
+180,What cathode active material chemistry is used in the LG Chem INR21700 M50?,LithiumNickelManganeseCobaltOxide,The query results do not contain information about the cathode active material chemistry.,0,1,Unknown,0,1,Unknown,0,1,NMC,1,0
+181,What are the rated capacity and nominal voltage of the Kokam SLPB120216216G1 battery?,"Rated Capacity: 60 Ah, Nominal Voltage: 3.68 V","60.0 Ah, 3.68 V",1,0,"60.0 Ah, 3.68 V",1,0,60.0 Ah and 3.68 V,1,0,53 Ah and 3.7 V,0,0
+182,What is the rated capacity of the Eagle Picher Technologies LLC LP 33037 expressed in milliampere-hours (mAh)?,60000 mAh,60.0 mAh,0,0,60.0 mAh,0,0,60.0 mAh,0,0,1250 mAh,0,0
+183,Can you provide the nominal voltage for the EVE Energy LF105-73103?,3.2 V,3.2,1,0,3.2 V,1,0,3.2 V,1,0,3.2 V,1,0
+184,Can you provide the nominal voltage for the Eagle Picher Technologies LLC LP 33450?,3.6 V,3.6,1,0,3.6 V,1,0,3.6 V,1,0,3.7 V,0,0
+185,What is the diameter of the Eemb Co LP55103122 battery?,Not available,"I don't have information about the diameter of the ""Eemb Co LP55103122"" battery, as the query returned no results.",1,0,unknown,1,0,Information not available,1,0,0 mm,0,0
+186,How many Ah is the rated capacity of the Samsung SDI INR21700-48X?,4.8 Ah,4.5–4.8 Ah,1,0,4.8 Ah,1,0,4.5 Ah,0,0,4.8 Ah,1,0
+187,What is the charging current of the Saft VL 30P battery?,3 A,3.0 A,1,0,3.0 A,1,0,3.0 A,1,0,30 A,0,0
+188,What is the charging current of the ENERTECH SPB 58253172V2_22Ah battery?,11 A,11.0,1,0,11.0 A,1,0,11.0 Ampere,1,0,11 A,1,0
+189,What is the diameter of the A123 Systems 20AH battery?,Not available,20 Ah,0,0,unknown,1,0,Information not available,1,0,0 mm,0,0
+190,What is the cycle life of the ENV 50.4 Ah battery from Zenlabs_Envia?,1000 cycles,1000.0,1,0,1000 cycles,1,0,1000 cycles,1,0,1000 cycles,1,0
+191,What’s the lower voltage limit for the PL-325085-2C from AA Portable Power?,3 V,3.0,1,0,3.0 V,1,0,3.0 V,1,0,3.0 V,1,0
+192,What type of case form factor does the Kokam SLPB90216216 battery use?,PrismaticCase,Pouch,0,0,unknown,0,1,Information not available,0,1,Pouch,0,0
+193,What is the rated capacity of the ATL Amperex Technology 5080122 expressed in milliampere-hours (mAh)?,4530 mAh,4.53 mAh,0,0,4530 mAh,1,0,4530 mAh,1,0,6000 mAh,0,0
+194,What is the operating voltage window (lower and upper limits) for the ATL Amperex Technology 8235138?,3 V to 4.2 V,3.0 V - 4.2 V,1,0,3.0–4.2 V,1,0,3.0 to 4.2 V,1,0,3.0 V - 4.2 V,1,0
+195,What is the mass of the FREY36130290-100PF from Jiangsu FREY?,3 kg,3.0,1,0,3.0 pF,0,0,3.0 kg,1,0,3.0 kg,1,0
+196,Can you provide the nominal voltage for the Kokam SLPB125255255G1H?,3.7 V,**3.7 V**,1,0,3.7 V,1,0,3.7 V,1,0,3.7 V,1,0
+197,What cathode active material chemistry is used in the Eemb Co LP656194-PCM-LD?,ambigious - LCO,"Based on the query results, no information is available regarding the cathode active material chemistry for the Eemb Co LP656194-PCM-LD.",1,0,Unknown,1,0,Unknown,1,0,LiCoO2,1,0
+198,Is the GFB 48173125-100Ah heavier than the Eemb Co LP9590120F?,Yes (2.3 kg vs 0.17 kg),Yes,1,0,2.3 > 0.17,1,0,Yes,1,0,Yes,1,0
+199,Can you tell me the maximum continuous discharge current for the Saft VL 20P battery?,250 A,250.0,1,0,250.0 A,1,0,250 A,1,0,100 A,0,0
+200,What cathode active material chemistry is used in the Kokam SLPB125255255H?,LithiumNickelManganeseCobaltOxide,SLPB125255255H,0,0,Unknown,0,1,NMC,1,0,NMC,1,0
+201,What is the upper voltage limit of the EVE Energy LF105-73103 battery?,3.65 V,3.65,1,0,3.65 V,1,0,3.65 V,1,0,3.65 V,1,0
+202,What is the operating voltage window (lower and upper limits) for the LG Chem ICR18650 C2?,3 V to 4.3 V,3.0–4.3 V,1,0,3.0–4.3 V,1,0,3.0 V to 4.3 V,1,0,3.0 V to 4.3 V,1,0
+203,What type of case form factor does the CALB CA40 battery use?,PrismaticCase,Prismatic,0,0,No data available,0,1,Data not available,0,1,Prismatic,0,0
+204,What is the rated capacity of the ENAX ENW-LM08 expressed in milliampere-hours (mAh)?,8000 mAh,8.0 mAh,0,0,8.0 mAh,0,0,8.0 mAh,0,0,8000 mAh,1,0
+205,What cathode active material chemistry is used in the Amita Technologies 5099130NRS?,LithiumNickelManganeseCobaltOxide,LFP,0,0,Unknown,0,1,Information not available,0,1,NMC,1,0
+206,What is the diameter of the Wuhan Lisun Power Corp. Ltd IMP225054S battery?,Not available,"I don't have information to answer this question, as the query returned no results.",1,0,Unknown,1,0,Information not available,1,0,22 mm,0,0
+207,Which battery has a higher rated capacity: the CATL 100Ah CATL LiFePO4 or the CATL LEP54H4K1?,CATL LEP54H4K1 (202 Ah vs 100 Ah),CATL LEP54H4K1 (202.0 Ah),1,0,202.0 Ah,1,0,CATL LEP54H4K1,1,0,CATL LEP54H4K1,1,0
+208,What are the rated capacity and nominal voltage of the Yinglong LTO66160H/40Ah battery?,"Rated Capacity: 40 Ah, Nominal Voltage: 2.3 V","40.0 Ah, 2.3 V",1,0,"40 Ah, 2.3 V",1,0,40.0 Ah and 2.3 V,1,0,"40 Ah, 2.3 V",1,0
+209,What is the diameter of the JGNE JGPFR26650 battery?,0.0262 m,**0.0262 meters**,1,0,0.026199999999999998 m,1,0,0.0262 meters,1,0,26.2 mm,1,0
+210,What is the cycle life of the EX-T30K battery from ELERIX?,16000 cycles,16000.0,1,0,16000.0 cycles,1,0,16000 cycles,1,0,30000 cycles,0,0
+211,What is the diameter of the Neosonic Li-Polymer Energy KMBNS08035130S battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,unknown,0,1,,1,0,0 mm,0,0
+212,What are the rated capacity and nominal voltage of the Hitachi L15A0N2C1 battery?,"Rated Capacity: 15 Ah, Nominal Voltage: 3.7 V","15.0, 3.7",1,0,"15.0 Ah, 3.7 V",1,0,15.0 Ah and 3.7 V,1,0,"15 Ah, 3.6 V",0,0
+213,Which battery has a higher rated capacity: the LG Chem INR21700 M50T or the AA Portable Power PL-325085-2C?,LG Chem INR21700 M50T (4.8 Ah vs 1.55 Ah),LG Chem INR21700 M50T (4.8 Ah),1,0,4.8 Ah,1,0,LG Chem INR21700 M50T,1,0,LG Chem INR21700 M50T,1,0
+214,What is the standard discharge current rate for the VL 41M from Saft?,4.5 A,4.5,1,0,4.5 A,1,0,4.5 A,1,0,8.2 A,0,0
+215,Is the Eemb Co LP855085-PCM-NTC-LD heavier than the Eemb Co LP9590120F?,No (0.078 kg vs 0.17 kg),No,0,0,No,1,0,No,1,0,No,1,0
+216,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Yoku Energy (Shenzhen) Co 8235135?",12.95 Wh,**12.95 Wh**,1,0,12.95 Wh,1,0,12.95 Wh,1,0,14.8 Wh,0,0
+217,What is the diameter of the Saft MP174565xtd battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,1,0,Data not available,1,0,0 mm,0,0
+218,What cathode active material chemistry is used in the Amita Technologies 7799130ND?,LithiumNickelManganeseCobaltOxide,Not specified in the provided data.,1,0,Unknown,0,1,,0,1,NMC,1,0
+219,What type of case form factor does the Eemb Co LP50100100 battery use?,PrismaticCase,"The query result is empty, so no answer can be determined.",0,0,Unknown,0,1,Unknown,0,1,Pouch,0,0
+220,What cathode active material chemistry is used in the ENERTECH SPB 58253172V3_25Ah?,LithiumNickelManganeseCobaltOxide and LithiumNickelCobaltAluminiumOxide,NMC,1,0,Unknown,0,1,Unknown,0,1,NMC,1,0
+221,What cathode active material chemistry is used in the K2 LFP18650P?,LithiumNickelManganeseCobaltOxide,LFP,0,0,Unknown,0,1,Lithium Iron Phosphate,0,0,Lithium Iron Phosphate,0,0
+222,What are the rated capacity and nominal voltage of the Thunder-Sky WB-LYP260AHA battery?,"Rated Capacity: 260 Ah, Nominal Voltage: 3.3 V","260.0 Ah, 3.3 V",1,0,"260.0 Ah, 3.3 V",1,0,260.0 Ah and 3.3 V,1,0,"260 Ah, 3.2 V",0,0
+223,What is the diameter of the GS Yuasa Technology LVP65 battery?,Not available,I don't have that information available.,0,1,unknown,1,0,130 mm,0,0,65 mm,1,0
+224,What is the rated capacity of the Gaia HP 602030 expressed in milliampere-hours (mAh)?,45000 mAh,45.0 mAh,0,0,45.0 mAh,0,0,45.0 mAh,0,0,27000 mAh,0,0
+225,What is the diameter of the Eemb Co LP7568130F battery?,Not available,I don't have information about the diameter of the Eemb Co LP7568130F battery in the available data.,1,0,unknown,1,0,Information not available,1,0,nan,0,1
+226,What is the diameter of the Kokam SLPB065070180 battery?,Not available,"I don't have information to answer this question, as the query result is empty.",1,0,Unknown,1,0,Information not available,1,0,0 mm,0,0
+227,Can you provide the nominal voltage for the Power-Sonic PSL-FP-IFP2770180EC?,3.2 V,3.2,1,0,3.2 V,1,0,3.2 V,1,0,3.2 V,1,0
+228,Is the HYB Battery Co IMP206990S heavier than the Sony-Murata US18650VTC6?,Yes (0.31 kg vs 0.0466 kg),Yes,0,0,0.2634 kg,0,0,Yes,1,0,Yes,1,0
+229,What cathode active material chemistry is used in the CATL CB2W0?,LithiumNickelManganeseCobaltOxide,I don't have information about the cathode active material chemistry used in the CATL CB2W0.,0,1,3.2 Volt,0,0,Data not available,0,1,Lithium Iron Phosphate,0,0
+230,Can you tell me the charging current rating for the VL 20P from Saft?,2 A,2.0,1,0,2.0 A,1,0,20.0 Ampere,0,0,10 A,0,0
+231,Can you provide the nominal voltage for the Yoku Energy (Shenzhen) Co 7545135?,3.7 V,3.7,1,0,3.7 V,1,0,3.7 V,1,0,3.7 V,1,0
+232,Can you provide the upper voltage limit for the VL 45E FE from Saft?,3.65 V,3.65,1,0,3.65 V,1,0,3.65 V,1,0,4.0 V,0,0
+233,What are the rated capacity and nominal voltage of the Amita Technologies 7799130ND battery?,"Rated Capacity: 11.7 Ah, Nominal Voltage: 3.7 V","11.7 Ah, 3.7 V",1,0,"11.7 Ah, 3.7 V",1,0,"11.7 Ah, 3.7 V",1,0,8 Ah and 3.7 V,0,0
+234,What is the cycle life of the ICP225054S battery from Wuhan Lisun Power Corp. Ltd?,500 cycles,500.0,1,0,500.0 cycles,1,0,500 cycles,1,0,300 cycles,0,0
+235,What cathode active material chemistry is used in the Saft VL 30P?,LithiumNickelManganeseCobaltOxide and LithiumNickelCobaltAluminiumOxide,I don't have information about the cathode active material chemistry for the Saft VL 30P.,0,1,30.0 AmpereHour,0,0,Data not available,0,1,NCA,1,0
+236,What is the charging current of the Amita Technologies 9299130NE battery?,3.2 A,3.2,1,0,3.2 A,1,0,3.2 Ampere,1,0,11 A,0,0
+237,How heavy is the Amita Technologies 120155250NH-NH04 battery?,0.93 kg,0.93,1,0,0.93,1,0,0.93 kg,1,0,1050 g,0,0
+238,What is the discharge current of the ENERDEL CP160-365 Moxie+ battery?,8 A,**8.0**,1,0,8.0 A,1,0,8.0 A,1,0,16 A,0,0
+239,What is the operating voltage window (lower and upper limits) for the ENERDEL CE175-360 Moxie+?,2.5 V to 4.1 V,2.5 V to 4.1 V,1,0,2.5–4.1 V,1,0,2.5 V to 4.1 V,1,0,2.7 V - 4.1 V,0,0
+240,How many cycles is the Kokam SLPB 11543140H5 rated for?,800 cycles,800.0 cycles,1,0,800 cycles,1,0,800 cycles,1,0,800 cycles,1,0
+241,What is the height of the Saft VL 27M battery?,0.163 m,0.163 m,1,0,0.163,1,0,0.163 m,1,0,221 mm,0,0
+242,What is the diameter of the Battronix LCB8570170EC1 battery?,Not available,I don't have information about the diameter of the Battronix LCB8570170EC1 battery. The query returned no results.,1,0,unknown,0,1,Unknown,0,1,0 mm,0,0
+243,What type of case form factor does the Saft VES140 battery use?,CylindricalCase,Prismatic,0,0,Unknown,0,1,Data not available,0,1,Cylindrical,1,0
+244,What cathode active material chemistry is used in the ENERDEL CE175-360 Moxie+?,LithiumNickelManganeseCobaltOxide,Empty result - no data found for that battery.,0,1,Unknown,0,1,Unknown,0,1,LMO,0,0
+245,What is the operating voltage window (lower and upper limits) for the Kokam SLPB140460330?,2.7 V to 4.2 V,2.7 V to 4.2 V,1,0,2.7–4.2 V,1,0,2.7 - 4.2 V,1,0,2.7 V to 4.2 V,1,0
+246,What cathode active material chemistry is used in the Saft VES100?,LithiumNickelManganeseCobaltOxide and LithiumNickelCobaltAluminiumOxide,The query results do not include information about the cathode active material chemistry for the Saft VES100.,0,1,NCA,0,0,NCA,1,0,LCO,0,0
+247,What is the diameter of the Lishen LP37173207-150Ah battery?,Not available,173.2 mm,0,0,Unknown,1,0,Unknown,0,1,0 mm,0,0
+248,What is the lower voltage limit of the EVE Energy LF304-72174 battery?,2.5 V,2.5,1,0,2.5 V,1,0,2.5 V,1,0,2.5 V,1,0
+249,What is the diameter of the Wuhan Lisun Power Corp. Ltd ICP225069S battery?,Not available,I don't have information about this specific battery in the available data.,1,0,I don’t know.,0,1,Data not available,1,0,0 mm,0,0
+250,Is the Lishen LR2170SA heavier than the General Electronics Battery Co GEB32650?,No (0.068 kg vs 0.14 kg),No,0,0,No,1,0,No,1,0,No,1,0
+251,What’s the lower voltage limit for the SLPB45205130P from Kokam?,2.7 V,2.7,1,0,2.7 V,1,0,2.7 V,1,0,2.7 V,1,0
+252,What’s the lower voltage limit for the SLPB50106100 from Kokam?,2.7 V,2.7,1,0,2.7 V,1,0,2.7 V,1,0,2.7 V,1,0
+253,What are the rated capacity and nominal voltage of the ENERTECH SPB 90190260V2_40Ah battery?,"Rated Capacity: 40 Ah, Nominal Voltage: 3.7 V","40.0 Ah, 3.7 V",1,0,"40 Ah, 3.7 V",1,0,"40.0 Ah, 3.7 V",1,0,40 Ah and 3.7 V,1,0
+254,What is the discharge current of the EVE Energy LF56K battery?,11.2 A,11.2,1,0,11.2 A,1,0,11.2 A,1,0,28 A,0,0
+255,What is the operating voltage window (lower and upper limits) for the Thunder-Sky WB-LYP1000AHA?,2.5 V to 3.65 V,2.5 V to 3.65 V,1,0,2.5–3.65 V,1,0,2.5 to 3.65 V,1,0,2.8 V to 4.0 V,0,0
+256,What is the upper voltage limit of the EVE Energy D12 battery?,4.2 V,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0,3.65 V,0,0
+257,What is the rated capacity of the Eemb Co LP55103122 expressed in milliampere-hours (mAh)?,6600 mAh,6.6 mAh,0,0,6600 mAh,1,0,6.6 mAh,0,0,8000 mAh,0,0
+258,What are the rated capacity and nominal voltage of the CATL LEP71H3L7-01 battery?,"Rated Capacity: 302 Ah, Nominal Voltage: 3.2 V","302.0 Ah, 3.2 V",1,0,"302.0 Ah, 3.2 V",1,0,302.0 Ah and 3.2 V,1,0,"120 Ah, 3.2 V",0,0
+259,What is the rated capacity of the EVE Energy LF280-72174 expressed in milliampere-hours (mAh)?,280000 mAh,280000 mAh,1,0,280000 mAh,1,0,280000 mAh,1,0,280000 mAh,1,0
+260,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the Yoku Energy (Shenzhen) Co 7545135?",15.54 Wh,**15.54 Wh**,1,0,15.54 Wh,1,0,15.54 Wh,1,0,18.5 Wh,0,0
+261,What is the weight specification for the JIANGSU HIGEE HJLFP48173170E-152Ah?,2.94 kg,2.94 kg,1,0,2.94,1,0,2.94 kg,1,0,3.1 kg,0,0
+262,How heavy is the Lishen LR2170SA battery?,0.068 kg,**0.068 kg**,1,0,0.068 kg,1,0,0.068 kg,1,0,68 g,1,0
+263,What is the height of the Samsung SDI 94Ah Cell battery?,0.125 m,0.125,1,0,0.125 m,1,0,0.125 m,1,0,125 mm,1,0
+264,Which battery has a higher rated capacity: the Kokam SLPB41205130H or the Kokam SLPB065070180?,Kokam SLPB065070180 (11.6 Ah vs 7.5 Ah),Kokam SLPB065070180,0,0,11.6,0,0,Kokam SLPB41205130H,0,0,Kokam SLPB41205130H,0,0
+265,Is the Panasonic NCR18650BF heavier than the Hypercell NCR20700?,No (0.0465 kg vs 0.07 kg),No,1,0,No,1,0,No,1,0,No,1,0
+266,Can you provide the height dimension of the LP7548166 from Eemb Co?,0.0075 m,0.0075,1,0,0.0075 m,1,0,0.0075 m,1,0,166 mm,0,0
+267,What’s the nominal voltage of the INR 21700 58 E battery from BMZ_TerraE?,3.6 V,3.6 V,1,0,3.6 V,1,0,3.6 V,1,0,3.6 V,1,0
+268,What type of case form factor does the Amita Technologies 120155250NH-NH04 battery use?,PrismaticCase,Prismatic,0,0,0.0125 Metre,0,0,Pouch,0,0,Pouch,0,0
+269,Which battery has a higher rated capacity: the Dongguan K-Tech New Energy INR21700P-4000mAh or the HYB Battery Co IMP206990S?,HYB Battery Co IMP206990S (9 Ah vs 4 Ah),**HYB Battery Co IMP206990S** — 9.0 Ah,1,0,"HYB Battery Co IMP206990S, 9.0 Ah",1,0,HYB Battery Co IMP206990S,1,0,HYB Battery Co IMP206990S,1,0
+270,Is the Dongguan K-Tech New Energy INR21700P-4000mAh heavier than the Neosonic Li-Polymer Energy KMBNS08035130S?,No (0.068 kg vs 0.09 kg),No,1,0,No,1,0,No,1,0,No,1,0
+271,Can you tell me the charging current rating for the LP55103122 from Eemb Co?,1.32 A,1.32,1,0,1.32 A,1,0,1.32 Ampere,1,0,5 A,0,0
+272,What is the rated capacity of the Varta CP1654 A4X expressed in milliampere-hours (mAh)?,145 mAh,0.145 mAh,0,0,145 mAh,1,0,145 mAh,1,0,155 mAh,0,0
+273,Can you tell me the diameter of the LithiumTitanate 9Ah from Yinglong?,0.0332 m,0.0332,1,0,0.0332 m,1,0,0.0332 m,1,0,33 mm,1,0
+274,Can you provide the upper voltage limit for the LF50 from EVE Energy?,3.65 V,3.65,1,0,3.65 V,1,0,3.65 V,1,0,3.65 V,1,0
+275,What is the cycle life of the LFP18650P battery from K2?,90 cycles,90.0,1,0,90.0,1,0,90.0 %,0,0,2000 cycles,0,0
+276,Is the Thunder-Sky WB-LYP700AHA heavier than the Wuhan Lisun Power Corp. Ltd ICP226754M?,Yes (21 kg vs 0.21 kg),Yes,1,0,21.0 kg,1,0,Yes,1,0,Yes,1,0
+277,What is the diameter of the Saft MP176065xtd battery?,Not available,I don't have information available to answer that question.,0,1,Unknown,0,1,Data not available,1,0,0 mm,0,0
+278,What is the diameter of the Yinglong 35Ah battery?,0.066 m,0.066,1,0,0.066,1,0,0.066 m,1,0,66 mm,1,0
+279,Which battery has a higher rated capacity: the Amita Technologies 7799130P or the Saft MP 144350 XLR?,Amita Technologies 7799130P (7.5 Ah vs 2.6 Ah),7.5 Ah,1,0,7.5 Ah,1,0,Amita Technologies 7799130P,1,0,Amita Technologies 7799130P,1,0
+280,How many Ah is the rated capacity of the Kokam SLPB120216216HR2?,46 Ah,46.0 Ah,1,0,46.0 Ah,1,0,46.0 Ah,1,0,40 Ah,0,0
+281,"Assuming nominal voltage and rated capacity, what is the approximate energy capacity in Wh of the BAK 26650HC2?",18.00 Wh,18.0 Wh,1,0,18 Wh,1,0,18 Wh,1,0,10.24 Wh,0,0
+282,What’s the lower voltage limit for the MP174865 IS from Saft?,2.5 V,2.5,1,0,2.5 V,1,0,2.5 V,1,0,2.5 V,1,0
+283,What is the nominal voltage of the Samsung SDI ICR18650-26F battery?,3.7 V,3.7,1,0,3.7 V,1,0,3.7 V,1,0,3.7 V,1,0
+284,What’s the nominal voltage of the L173F125A battery from CALB?,3.3 V,3.3 V,1,0,3.3 V,1,0,3.3 V,1,0,3.2 V,0,0
+285,Which battery has a higher rated capacity: the LG Chem 18650HG2 or the Power-Sonic PSL-FP-IFP2770180EC?,Power-Sonic PSL-FP-IFP2770180EC (25 Ah vs 3 Ah),Power-Sonic PSL-FP-IFP2770180EC (25.0 Ah),1,0,25.0,1,0,Power-Sonic PSL-FP-IFP2770180EC,1,0,Power-Sonic PSL-FP-IFP2770180EC,1,0
+286,How long is the cycle life of the Saft VL 52E battery?,500 cycles,500.0 cycles,1,0,500 cycles,1,0,500 cycles,1,0,3000 cycles,0,0
+287,What is the rated capacity of the Sinopoly 100 Ah expressed in milliampere-hours (mAh)?,100000 mAh,100000 mAh,1,0,100000 mAh,1,0,"100,000 mAh",1,0,100000 mAh,1,0
+288,Can you provide the upper voltage limit for the SLPB 11543140H5 from Kokam?,4.2 V,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0
+289,What is the upper voltage limit of the ATL Amperex Technology 8045135 battery?,4.2 V,4.2,1,0,4.2 V,1,0,4.2 V,1,0,4.2 V,1,0
+290,What is the max continuous discharge current limit on the ATL Amperex Technology 7048168?,5.5 A,5.5,1,0,5.5,1,0,5.5 A,1,0,13.6 A,0,0
+291,What type of case form factor does the GeneralElectronics GEB 855085 battery use?,PrismaticCase,Pouch,0,0,Unknown,0,1,pouch,0,0,Pouch,0,0
+292,What is the standard discharge current rate for the VL 45E FE from Saft?,6.28571 A,6.285714286,1,0,6.285714286 A,1,0,6.285714286 A,1,0,9 A,0,0
+293,What are the rated capacity and nominal voltage of the LG Chem A7 battery?,"Rated Capacity: 50 Ah, Nominal Voltage: 3.6 V","50.0, 3.6",1,0,"50.0 Ah, 3.6 V",1,0,"50.0 Ah, 3.6 V",1,0,15.6 Ah and 3.75 V,0,0
+294,How heavy is the Amita Technologies 7799130P battery?,0.195 kg,0.195,1,0,0.195,1,0,0.195 kg,1,0,220 g,0,0
+295,What is the lower voltage limit of the ATL Amperex Technology 7048168 battery?,3 V,3.0,1,0,3.0 V,1,0,3.0 V,1,0,3.0 V,1,0
+296,Which battery has a higher rated capacity: the Amita Technologies 5099130NRS or the Kokam SLPB30205130H?,Amita Technologies 5099130NRS (5.5 Ah vs 5 Ah),Amita Technologies 5099130NRS,1,0,5.5,1,0,"Amita Technologies 5099130NRS, 5.5 Ah",1,0,Kokam SLPB30205130H,0,0
+297,What type of case form factor does the Melasta SLPBB042126 battery use?,PrismaticCase,Pouch,0,0,Unknown,0,1,Unknown,0,1,pouch,0,0
+298,What is the max continuous discharge current limit on the Panasonic NCR18650BD?,6 A,6.0 A,1,0,6.0 A,1,0,6.0 A,1,0,10 A,0,0
+299,What is the cycle life of the BMZ 21700 52E battery from BMZ_Sony?,350 cycles,350.0,1,0,350.0,1,0,350 cycles,1,0,1000 cycles,0,0
+300,What's the capacity specification for Eagle Picher Technologies LLC LiBG18EV-1?,17 Ah,17.0,1,0,17.0 Ah,1,0,17.0 Ah,1,0,1.8 Ah,0,0

@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "batterygraph"
+version = "2.0.0"
+description = "Battery-cell profiles as linked data (EMMO / JSON-LD) with a GraphRAG question-answering workflow"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = [
+    "rdflib>=7.0",
+    "requests>=2.32",
+    "pandas>=2.0",
+    "matplotlib>=3.8",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+openai = ["openai>=1.40"]
+anthropic = ["anthropic>=0.40"]
+gemini = ["google-genai>=1.0"]
+ollama = ["ollama>=0.3"]
+all = ["openai>=1.40", "anthropic>=0.40", "google-genai>=1.0", "ollama>=0.3"]
+
+[project.urls]
+Repository = "https://github.com/phdechent/CellInfoRepository"
+
+[tool.setuptools]
+packages = ["batterygraph"]

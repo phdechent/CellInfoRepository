@@ -1,4 +1,12 @@
-ollama>=0.3.0
-openai>=1.37.0
-rdflib>=7.0.0
-requests>=2.32.3
+# Knowledge graph and evaluation
+rdflib>=7.0
+requests>=2.32
+pandas>=2.0
+matplotlib>=3.8
+python-dotenv>=1.0
+
+# LLM providers: install the ones you use
+openai>=1.40
+anthropic>=0.40
+google-genai>=1.0
+ollama>=0.3

@@ -1,0 +1,5 @@
+model,mode,questions,correct,incorrect,identifiably_wrong,accuracy,hallucination_robustness
+claude-sonnet-5,GraphRAG,300,238,62,15,0.7933,0.2419
+gpt-5.4,GraphRAG,300,229,71,38,0.7633,0.5352
+gemini-3.5-flash,GraphRAG,300,242,58,38,0.8067,0.6552
+gemini-3.5-flash,LLM only,300,127,173,1,0.4233,0.0058
