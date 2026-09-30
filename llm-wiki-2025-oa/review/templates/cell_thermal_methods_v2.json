@@ -1,0 +1,74 @@
+{
+  "name": "cell_thermal_methods_v2",
+  "version": 2,
+  "title": "Cell Experiment and Modelling Review",
+  "description": "A cell-specific review of experimental purpose and boundary conditions, temperature sensing and findings, and model purpose, parameterization, validation, and spatial resolution.",
+  "questions": [
+    {
+      "id": "Q1",
+      "title": "Study Purpose and Approach",
+      "context": "What was the study trying to establish for the target cell, and was the work experimental, modelling, or hybrid? Classify the approach only from activities explicitly described in the paper.",
+      "expected_format": "[Purpose in 1-2 factual sentences]; approach: [Experimental / Modelling / Hybrid]"
+    },
+    {
+      "id": "Q2",
+      "title": "Experimental Purpose and Protocol",
+      "context": "If experiments were performed, why were they conducted and which cycling, characterization, abuse, or validation tests were performed on the target cell? Distinguish the authors' own experiments from reused public or literature data.",
+      "expected_format": "Purpose: [purpose]; tests: [test list]; data origin: [Own experiments / Reused dataset / Both]"
+    },
+    {
+      "id": "Q3",
+      "title": "Ambient Boundary Conditions",
+      "context": "What ambient temperature or temperatures were used during the primary cycling or testing phase, how were they controlled, and what stability or tolerance was reported? Do not infer room temperature when no value is stated.",
+      "expected_format": "[Temperature or range] °C via [control method]; stability/tolerance: [value or not reported]"
+    },
+    {
+      "id": "Q4",
+      "title": "Mechanical Boundary Conditions",
+      "context": "Was pressure or mechanical constraint applied to the target cell? If so, identify whether it was constant force, constant pressure, constant gap, or another arrangement, together with magnitude and fixture when stated.",
+      "expected_format": "[None reported / constraint method]; magnitude: [value or not reported]; fixture: [description or not reported]"
+    },
+    {
+      "id": "Q5",
+      "title": "Cell Temperature Measurement",
+      "context": "Was the physical temperature of the target cell measured during operation? If yes, report sensor type, number of sensors, placement, attachment method, and sampling rate when explicitly stated.",
+      "expected_format": "[Sensor type] × [count] at [location]; attachment: [method]; sampling: [rate]"
+    },
+    {
+      "id": "Q6",
+      "title": "Temperature-Dependent Performance",
+      "context": "Did the paper explicitly report how temperature affected impedance, available capacity, power capability, efficiency, voltage response, or another short-term cell response? Report the comparison without generalizing beyond the tested conditions.",
+      "expected_format": "At [temperatures], [measured response and direction/magnitude of change]"
+    },
+    {
+      "id": "Q7",
+      "title": "Temperature-Dependent Aging",
+      "context": "Were capacity fade, impedance growth, resistance growth, or another degradation measure compared across aging temperatures? State the authors' conclusion about high- and low-temperature aging only when an explicit comparison was made.",
+      "expected_format": "Across [temperatures/conditions], [strictly factual aging comparison]"
+    },
+    {
+      "id": "Q8",
+      "title": "Model Purpose and Type",
+      "context": "What was the model intended to predict or explain, what model class was used, and did it contain an explicit thermal component? Identify equivalent-circuit, electrochemical, thermal, electrothermal, CFD, data-driven, or other types as stated by the authors.",
+      "expected_format": "Purpose: [prediction/explanation]; type: [model class]; thermal component: [Yes/No/Not stated]"
+    },
+    {
+      "id": "Q9",
+      "title": "Model Parameterization and Validation",
+      "context": "How were model parameters obtained, and against what data was the model calibrated and validated? Distinguish the authors' own measurements, public datasets, literature values, and numerical optimization.",
+      "expected_format": "Parameters from [source/method]; calibrated with [data]; validated against [data and metric]"
+    },
+    {
+      "id": "Q10",
+      "title": "Spatial Resolution and Inhomogeneity",
+      "context": "Was the model lumped, 1D, 2D, or 3D, and did it represent internal, surface, axial, radial, tab-related, or module-level inhomogeneities? Do not treat multiple scalar state variables as a spatial model.",
+      "expected_format": "[Lumped / 1D / 2D / 3D]; represented inhomogeneities: [list or none]"
+    },
+    {
+      "id": "Q11",
+      "title": "Model Applicability and Limitations",
+      "context": "Over which temperatures, currents, C-rates, SOC range, aging states, or operating profiles was the model validated, and what limitations did the authors explicitly report?",
+      "expected_format": "Validated range: [conditions]; explicitly reported limitations: [limitations or none stated]"
+    }
+  ]
+}

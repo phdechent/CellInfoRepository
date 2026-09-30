@@ -1,0 +1,2378 @@
+{
+ "schema_version": 1,
+ "set_version": "2026-09-27-2025-gold-diamond-v1",
+ "template": "cell_thermal_methods_v2",
+ "template_version": 2,
+ "output_dir": "wiki-pages-2025-oa/papers",
+ "target": {
+  "cell_file": "ALL (BatteryTypeJson/*.json)",
+  "cell_name": "Any cell in the 382-cell dataset"
+ },
+ "inclusion_policy": {
+  "cell_relations": [
+   "USED"
+  ],
+  "publication_year": 2025,
+  "oa_status": [
+   "gold",
+   "diamond"
+  ],
+  "fulltext_required": true,
+  "doc_type": "journal_article",
+  "new_data_required": "Paper must report the authors' own new measurements on an identified target cell; papers relying only on public/literature datasets (or reporting no data) are held.",
+  "bibliographic_source": "OpenAlex only"
+ },
+ "counts": {
+  "candidates": 108,
+  "included": 60,
+  "held": 48
+ },
+ "papers": [
+  {
+   "doi_key": "10.1038_s41598-025-02709-1",
+   "doi": "10.1038/s41598-025-02709-1",
+   "cell": "A123_Systems_26AH",
+   "cells": [
+    "A123_Systems_26AH"
+   ],
+   "title": "SOC estimation for a lithium-ion pouch cell using machine learning under different load profiles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_26AH"
+    ],
+    "reason": "The authors tested a 26 Ah A123 NMC pouch cell with a battery testing equipment under full, partial, dynamic (WLTP) and HPPC load profiles and used the 262,469 collected data points for SOC estimation.",
+    "evidence": "A total of 262,469 data points were obtained during the data gathering method, which included subjecting a lithium-ion battery to four different load profiles utilizing a battery testing equipment."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.ohx.2025.e00679",
+   "doi": "10.1016/j.ohx.2025.e00679",
+   "cell": "A123_Systems_AMP20M1HD-A",
+   "cells": [
+    "A123_Systems_AMP20M1HD-A"
+   ],
+   "title": "Low-cost electronic DC load module design for battery capacity evaluation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_AMP20M1HD-A"
+    ],
+    "reason": "The authors built an electronic DC load and validated it by discharging an A123 AMP20M1HD LiFePO4 cell themselves (CC, CR, CP, 1C capacity and HPPC tests) against a PCS-1000 reference meter.",
+    "evidence": "The 123-AMP20M1HD lithium-ion battery, with a nominal voltage of 3.3 V and a capacity of 19.5 A h , was used as the test object."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.rineng.2025.104509",
+   "doi": "10.1016/j.rineng.2025.104509",
+   "cell": "A123_Systems_AMP20M1HD-A",
+   "cells": [
+    "A123_Systems_AMP20M1HD-A"
+   ],
+   "title": "Hardware-in-the-Loop simulation for online identification of lithium-ion battery model parameters and state of charge estimation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_AMP20M1HD-A"
+    ],
+    "reason": "The authors ran their own HPPC and 0.5C constant-current discharge experiments on a single A123 cell (19.5 Ah) to derive the OCV-SOC curve and validate the mAUKF SOC estimator, complemented by simulation and HIL tests.",
+    "evidence": "a single lithium battery cell (A123) was discharged with a current of 0.5 C , equivalent to 9.75 A"
+   }
+  },
+  {
+   "doi_key": "10.1016_j.fub.2025.100037",
+   "doi": "10.1016/j.fub.2025.100037",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Thermal performance of lithium-ion battery tabs under liquid immersion cooling conditions",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "diamond",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_ANR26650M1-B"
+    ],
+    "reason": "The authors built an immersion-cooling test chamber and experimentally measured terminal and surface temperatures of a LithiumWerks ANR26650M1B LFP cell during 1C-4C charging and 4C-10C discharging in Novec 7000.",
+    "evidence": "A single 2.5 Ah 26650 LithiumWerks ANR26650M1B LiFePO 4 cylindrical cell is located at the centre of the chamber and completely immersed in 3M’s Novec 7000 dielectric fluid"
+   }
+  },
+  {
+   "doi_key": "10.1038_s41598-025-16329-2",
+   "doi": "10.1038/s41598-025-16329-2",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Investigating thermal dynamics in cylindrical Li-ion batteries across varied temperatures based on electrochemical principles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_ANR26650M1-B"
+    ],
+    "reason": "The authors cycled an ANR26650M1B cell in an environmental chamber at 21, 0, 40 and -10 °C with surface thermocouples to validate their multi-layer electrochemical-thermal model.",
+    "evidence": "The experimental tests were performed on a commercially available ANR26650M1B Li-ion cell from Lithium Werks, which is also routinely used in our laboratory."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11010038",
+   "doi": "10.3390/batteries11010038",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Design Analysis of 26650 and 18650 LFP Cells for High Power and Low Temperature Use Cases",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_ANR26650M1-B"
+    ],
+    "reason": "The authors performed initial charge/capacity checks, CT scans and tear-down with micrometre and laser-scanning microscopy on five LFP cells, including the ANR26650M1B (green) cell.",
+    "evidence": "For identification purposes they are referenced by a colour code: red (IFR26650-25B), green (ANR26650M1B), orange (APR18650M1B), or blue (IFR26650P2.5Ah)."
+   }
+  },
+  {
+   "doi_key": "10.3390_molecules30163448",
+   "doi": "10.3390/molecules30163448",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Raman Spectroscopy of Practical LIB Cathodes: A Study of Humidity-Induced Degradation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "A123_Systems_ANR26650M1-B"
+    ],
+    "reason": "The authors disassembled pristine A123 ANR26650M1B cells themselves and measured the harvested LFP cathodes (Raman, SEM/EDS, coin-cell cycling) with and without humidity exposure.",
+    "evidence": "LFP cathodes were obtained from A123 ANR26650M1B, 26650 cylindrical format, 2300 mAh, 50 A, 3.3 V"
+   }
+  },
+  {
+   "doi_key": "10.1038_s41467-025-55861-7",
+   "doi": "10.1038/s41467-025-55861-7",
+   "cell": "BYD_FC4680",
+   "cells": [
+    "BYD_FC4680"
+   ],
+   "title": "Challenges and opportunities for high-quality battery production at scale",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "BYD_FC4680"
+    ],
+    "reason": "This perspective on battery production quality includes newly acquired nondestructive imaging (ultrasound, 2D X-ray and CT) of a BYD FC4680 cylindrical cell (Fig. 7), with experimental details in the supplement; the ultrasound data were provided by Liminal Insights.",
+    "evidence": "All measurements were obtained on a BYD FC4680 cylindrical cell. Experimental details are provided in Supplementary Discussion 2."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.dib.2025.111301",
+   "doi": "10.1016/j.dib.2025.111301",
+   "cell": "CALB_L148N58A",
+   "cells": [
+    "CALB_L148N58A"
+   ],
+   "title": "A dataset for large prismatic lithium-ion battery cells (CALB L148N58A): Comprehensive characterization and real-world driving cycles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "CALB_L148N58A"
+    ],
+    "reason": "Data-in-Brief dataset paper publishing newly measured C/20, HPPC, EIS and driving-cycle data for eleven CALB L148N58A cells tested at the University of Trieste ELISA lab at 10, 25 and 40 °C.",
+    "evidence": "This paper presents an experimental dataset for a batch of eleven prismatic CALB L148N58A lithium-ion B-grade battery cells with a nominal capacity of 58 Ah."
+   }
+  },
+  {
+   "doi_key": "10.1002_advs.202503583",
+   "doi": "10.1002/advs.202503583",
+   "cell": "CATL_CB2W0; Lishen_LP27148134",
+   "cells": [
+    "CATL_CB2W0",
+    "Lishen_LP27148134"
+   ],
+   "title": "Smart Health Evaluation for Lithium‐Ion Battery With Super‐Short‐Segment Charging",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Both",
+    "cells_with_own_data": [
+     "CATL_CB2W0",
+     "Lishen_LP27148134"
+    ],
+    "reason": "The authors constructed their own long-term cycling degradation datasets for LISHEN LP27148134 (40 Ah) and CATL CB2W0 (280 Ah) LFP cells in a temperature-controlled chamber, and combined them with public CALCE, Oxford and MIT-Stanford-Toyota datasets.",
+    "evidence": "DegradationdatasetsonLCObatteries&LFPbatterieswithdif- ferentcapacitiesareconstructedinthisstudy."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11020073",
+   "doi": "10.3390/batteries11020073",
+   "cell": "EVE_EVE-INR18650_33V",
+   "cells": [
+    "EVE_EVE-INR18650_33V"
+   ],
+   "title": "Lab-Scale X-Ray Exposure Has No Measurable Impact on Lithium-Ion Battery Performance and Lifetime",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "EVE_EVE-INR18650_33V"
+    ],
+    "reason": "The authors X-ray scanned and then tested fifteen EVE INR18650-33V cells (RPTs at 33 °C, 300 cycles at 45 °C, CT scans) in their own lab to compare exposed and control groups.",
+    "evidence": "We used EVE INR18650 -33V cells ( EVE Energy Co., Huizhou, China ) for this study."
+   }
+  },
+  {
+   "doi_key": "10.3390_modelling6030100",
+   "doi": "10.3390/modelling6030100",
+   "cell": "EVE_EVE-INR18650_33V",
+   "cells": [
+    "EVE_EVE-INR18650_33V"
+   ],
+   "title": "Joint Estimation of SOC and SOH Based on Kalman Filter Under Multi-Time Scale",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "EVE_EVE-INR18650_33V"
+    ],
+    "reason": "The authors built a test platform and performed static capacity, aging cycle and HPPC tests on EVE INR18650/33V cells to parameterize and validate a multi-time-scale SVDUKF-EKF SOC/SOH estimator.",
+    "evidence": "This paper uses the ternary EVE-INR-18650/33V vehicle ba ttery cell as the research object and employs the CT-4008Tn-5V12A charge–discharge tester to build a test platform."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.dib.2025.111531",
+   "doi": "10.1016/j.dib.2025.111531",
+   "cell": "JGNE_JGPFR26650; Samsung_SDI_ICR18650-26J; Samsung_SDI_INR21700-40T",
+   "cells": [
+    "JGNE_JGPFR26650",
+    "Samsung_SDI_ICR18650-26J",
+    "Samsung_SDI_INR21700-40T"
+   ],
+   "title": "Dataset of lithium-ion cell degradation under randomized current profiles for NMC, NCA, and LFP chemistries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "JGNE_JGPFR26650",
+     "Samsung_SDI_ICR18650-26J",
+     "Samsung_SDI_INR21700-40T"
+    ],
+    "reason": "Data in Brief paper publishing a newly measured aging dataset of four ICR18650-26J, two INR21700-40T and two JGPFR26650 cells cycled with randomized current profiles and periodic HPPC/RPT tests at Turku University of Applied Sciences.",
+    "evidence": "three different types of cells including four ICR18650-26J (NCA), two INR21700-40T (NMC), and two JGPFR26650 (LFP) which are tested at room temperature"
+   }
+  },
+  {
+   "doi_key": "10.1038_s41467-025-62935-z",
+   "doi": "10.1038/s41467-025-62935-z",
+   "cell": "Kokam_SLPB065070180",
+   "cells": [
+    "Kokam_SLPB065070180"
+   ],
+   "title": "Exploring electrochemical dynamics in graphite||LiNi0.8Mn0.1Co0.1O2 cells via operando ultrasound and multiprobe approaches",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Kokam_SLPB065070180"
+    ],
+    "reason": "The authors cycled an 11.6 Ah Kokam SLPB065070180 NMC811/graphite pouch cell with glued ultrasound transducers during operando synchrotron XRD at ESRF and performed nanodilatometry on electrodes harvested from the same cell type.",
+    "evidence": "The cell used for this study was an industrial KOKAM® pouch cell of 11.6 Ah."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries12010014",
+   "doi": "10.3390/batteries12010014",
+   "cell": "Kokam_SLPB120216216G1H",
+   "cells": [
+    "Kokam_SLPB120216216G1H"
+   ],
+   "title": "Experimental Study of Pouch-Type Battery Cell Thermal Characteristics Operated at High C-Rates",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Kokam_SLPB120216216G1H"
+    ],
+    "reason": "The authors charged and discharged a SolarEdge (formerly Kokam) SLPB120216216G1H 57 Ah pouch cell at 0.5-2 C on their own test bench with heat flux sensors, thermocouples and a thermal camera, and used the data to validate an NTGK model.",
+    "evidence": "To assess the temperatures of the battery cell during charging/discharging at different intensities, 8 heat flux sensors with thermocouples were installed on the cell face."
+   }
+  },
+  {
+   "doi_key": "10.1038_s41598-025-00482-9",
+   "doi": "10.1038/s41598-025-00482-9",
+   "cell": "LG_Chem_18650HG2; Panasonic_NCR18650PF",
+   "cells": [
+    "LG_Chem_18650HG2",
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "A combined improved dung beetle optimization and extreme learning machine framework for precise SOC estimation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "LG_Chem_18650HG2",
+     "Panasonic_NCR18650PF"
+    ],
+    "reason": "The paper describes its own test setup (NEWARE battery tester, thermal chamber) in which LG 18650HG2 and Panasonic 18650PF cells were subjected to UDDS, US06 and HWFET drive-cycle tests at several temperatures; no public dataset is cited (data available on request).",
+    "evidence": "LG18650 and Pan18650 batteries were employed for the charge/discharge trials, with their specific parameters detailed in Table 1."
+   }
+  },
+  {
+   "doi_key": "10.3390_wevj16060296",
+   "doi": "10.3390/wevj16060296",
+   "cell": "LG_Chem_E66A",
+   "cells": [
+    "LG_Chem_E66A"
+   ],
+   "title": "Quantifying the State of the Art of Electric Powertrains in Battery Electric Vehicles: Comprehensive Analysis of the Two-Speed Transmission and 800 V Technology of the Porsche Taycan",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "LG_Chem_E66A"
+    ],
+    "reason": "Vehicle-level study of a Porsche Taycan (LG Chem E66A cells per Table A1) with own dynamometer, climate-chamber and DC-charging measurements; the authors also measured the cell internal resistance (1.243 mΩ) in a thermal chamber with a BaSyTec cycler.",
+    "evidence": "The internal resistance of the cells was measured in aVC3 4100 thermal camber"
+   }
+  },
+  {
+   "doi_key": "10.1016_j.mrl.2025.200180",
+   "doi": "10.1016/j.mrl.2025.200180",
+   "cell": "LG_Chem_INR21700_M50",
+   "cells": [
+    "LG_Chem_INR21700_M50"
+   ],
+   "title": "Cryoporometry for short T2 samples: A T1 filter method applied to battery electrode characterization",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "LG_Chem_INR21700_M50"
+    ],
+    "reason": "The authors disassembled an un-aged LG Chem 21700 M50 cell and performed their own NMR cryoporometry (T1 filter) measurements on the harvested NMC811 cathode to obtain its pore size distribution.",
+    "evidence": "The NMC electrode has been taken from an un-aged commercial battery (LG Chem 21700 M50 cell with NMC811 as positive active material)."
+   }
+  },
+  {
+   "doi_key": "10.1007_s41104-025-00150-0",
+   "doi": "10.1007/s41104-025-00150-0",
+   "cell": "LG_Chem_INR21700_M50T",
+   "cells": [
+    "LG_Chem_INR21700_M50T"
+   ],
+   "title": "Utilization of battery analysis methodologies for parametrization and enhancement of an electrochemically approximated simulation model approach for thermal management battery system tests",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Both",
+    "cells_with_own_data": [
+     "LG_Chem_INR21700_M50T"
+    ],
+    "reason": "The authors performed EIS (four cells) and OCV (three cells) measurements on LG INR21700 M50T cells at TU Graz to parameterize an ECM; validation cycles were partly measured in-house and partly obtained from BATEMO.",
+    "evidence": "To characterize the INR21700M50T cell from LG, which was used in the simulation, a total of four cells were"
+   }
+  },
+  {
+   "doi_key": "10.3390_en18215645",
+   "doi": "10.3390/en18215645",
+   "cell": "LG_Chem_INR21700_M50T",
+   "cells": [
+    "LG_Chem_INR21700_M50T"
+   ],
+   "title": "Optimal Direct Parameter Extraction of a Lithium-Ion Equivalent Circuit Cell Model for Electric Vehicle Application",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "LG_Chem_INR21700_M50T"
+    ],
+    "reason": "The authors built a test bench and performed their own pulse discharge (0.5C, 0.8C, 1C), WLTC and high-current discharge tests on an LG M50T cell to parameterize and validate a 3-RC ECM.",
+    "evidence": "A testbench was designed to control the discharge of the LG M50T NMC-811 cell."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.csite.2025.106474",
+   "doi": "10.1016/j.csite.2025.106474",
+   "cell": "Melasta_SLPBB042126",
+   "cells": [
+    "Melasta_SLPBB042126"
+   ],
+   "title": "Thermal analysis of nanofluid submerged battery tab under fast charging conditions",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Both",
+    "cells_with_own_data": [
+     "Melasta_SLPBB042126"
+    ],
+    "reason": "The authors measured internal resistance (HPPC), entropic coefficient and surface temperatures during 2C charging of Melasta SLPBB042126 pouch cells in their own test bed to parameterize and validate a CFD nanofluid tab-cooling model; natural-convection results were additionally compared with literature data of Spitthoff et al.",
+    "evidence": "Melasta SLPBB042126 lithium cobalt oxide ion pouch batteries were used for research and analysis."
+   }
+  },
+  {
+   "doi_key": "10.1038_s41597-025-05725-y",
+   "doi": "10.1038/s41597-025-05725-y",
+   "cell": "Molicel_INR-21700-P42A",
+   "cells": [
+    "Molicel_INR-21700-P42A"
+   ],
+   "title": "High-power lithium-ion battery characterization dataset for stochastic battery modeling",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Molicel_INR-21700-P42A"
+    ],
+    "reason": "Data descriptor presenting newly measured screening (45 cells) and capacity, high C-rate pulse/GITT and EIS characterization data (12 cells) of Molicel INR-21700-P42A cells at 5, 25 and 40 °C, published on OSF.",
+    "evidence": "In this work, the dataset is based on the Molicel INR-21700-P42A cells with LiNiMnCoO2 (NMC) cathode and Silicon-graphite anode."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.fub.2025.100036",
+   "doi": "10.1016/j.fub.2025.100036",
+   "cell": "Panasonic-Sanyo_NCR18650GA",
+   "cells": [
+    "Panasonic-Sanyo_NCR18650GA"
+   ],
+   "title": "Experimental investigation of the impact of high-frequency alternating current on heating a Li-ion cell at subzero temperatures and its effect on lifetime",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "diamond",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Panasonic-Sanyo_NCR18650GA"
+    ],
+    "reason": "The authors performed 100-cycle endurance tests with a high-frequency self-heating circuit on seven heated/reference NCR18650GA cell couples, with capacity checks and EIS before and after cycling.",
+    "evidence": "The tested Li-Ion cell was the NCR18650GA from Sanyo/Panasonic."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11070251",
+   "doi": "10.3390/batteries11070251",
+   "cell": "Panasonic-Sanyo_NCR18650GA",
+   "cells": [
+    "Panasonic-Sanyo_NCR18650GA"
+   ],
+   "title": "Demand-Adapting Charging Strategy for Battery-Swapping Stations",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Panasonic-Sanyo_NCR18650GA"
+    ],
+    "reason": "The authors ran their own discharge/charge tests on 10 NCR18650GA cells at the CMT institute to characterize charging-time variability, which feeds the battery-swapping-station simulation.",
+    "evidence": "Experimental tests have been carried out on the installations of the CMT research institute to characterize the charging time and the variability observed."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11120431",
+   "doi": "10.3390/batteries11120431",
+   "cell": "Panasonic-Sanyo_NCR18650GA",
+   "cells": [
+    "Panasonic-Sanyo_NCR18650GA"
+   ],
+   "title": "Polymer-BN Composites as Thermal Interface Materials for Lithium-Ion Battery Modules: Experimental and Simulation Insights",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Panasonic-Sanyo_NCR18650GA"
+    ],
+    "reason": "The authors built six-cell (3s2p) modules of Panasonic NCR18650GA cells with liquid-cooling manifold and polymer TIMs, and measured cell temperatures with thermocouples during external heating/cooling and during charge-discharge cycling at several C-rates.",
+    "evidence": "six 18650-type cells (Panasonic NCR18650GA, 3300 mAh) were mounted in a custom aluminum manifold with internal coolant tubes"
+   }
+  },
+  {
+   "doi_key": "10.3390_ma18010213",
+   "doi": "10.3390/ma18010213",
+   "cell": "Panasonic-Sanyo_NCR18650GA",
+   "cells": [
+    "Panasonic-Sanyo_NCR18650GA"
+   ],
+   "title": "Electrolytic Ni-P and Ni-P-Cu Coatings on PCM-Loaded Expanded Graphite for Enhanced Battery Thermal Management with Mechanical Properties",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Panasonic-Sanyo_NCR18650GA"
+    ],
+    "reason": "The authors built 3s2p packs of six Panasonic/Sanyo NCR18650GA cells embedded in uncoated, Ni-P-coated and Ni-P-Cu-coated PCM/EG blocks and measured cell surface temperatures, voltage, capacity and energy during 1.25C and 2.5C discharges at 25 °C.",
+    "evidence": "(Panasonic/Sanyo NCR 18650GA, 3.6V, 3500 mAh)"
+   }
+  },
+  {
+   "doi_key": "10.3390_pr13030848",
+   "doi": "10.3390/pr13030848",
+   "cell": "Panasonic-Sanyo_NCR18650GA",
+   "cells": [
+    "Panasonic-Sanyo_NCR18650GA"
+   ],
+   "title": "A Study on the Removal of Heat Generated by a Lithium-Ion Battery Module: A Fan-Assisted Battery Cooling Approach",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Panasonic-Sanyo_NCR18650GA"
+    ],
+    "reason": "The authors built a 4S2P module of Panasonic Sanyo NCR18650GA cells and measured cell temperatures with thermocouples during 4-16 A constant-current discharges under no cooling and four fan-assisted cooling configurations; single-cell discharge tests validated datasheet curves.",
+    "evidence": "In this work, a Panasonic Sanyo NCR18650GA LiB cell (Sanyo Electric Co., Ltd., Osaka, Japan) was utilized to create a module in 4S2P configuration"
+   }
+  },
+  {
+   "doi_key": "10.1038_s41598-025-15597-2",
+   "doi": "10.1038/s41598-025-15597-2",
+   "cell": "Panasonic_NCR18650BD; Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Panasonic_NCR18650BD",
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "CNN-LSTM optimized with SWATS for accurate state-of-charge estimation in lithium-ion batteries considering internal resistance",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Both",
+    "cells_with_own_data": [
+     "Panasonic_NCR18650BD"
+    ],
+    "reason": "The authors built a test bench and measured their own drive-cycle dataset (including internal resistance) on a Panasonic NCR18650BD cell; the Samsung INR18650-20R data come from the public CALCE (University of Maryland) dataset.",
+    "evidence": "In this experiment, a Panasonic NCR18650BD battery cell was tested."
+   }
+  },
+  {
+   "doi_key": "10.3390_en18051035",
+   "doi": "10.3390/en18051035",
+   "cell": "Panasonic_NCR18650BD; Samsung_SDI_ICR18650-26F",
+   "cells": [
+    "Panasonic_NCR18650BD",
+    "Samsung_SDI_ICR18650-26F"
+   ],
+   "title": "The State of Health Estimation of Retired Lithium-Ion Batteries Using a Multi-Input Metabolic Gated Recurrent Unit",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Panasonic_NCR18650BD",
+     "Samsung_SDI_ICR18650-26F"
+    ],
+    "reason": "The authors built their own test platform and cycled retired Samsung ICR18650-26F and Panasonic NCR18650BD cells (and six-cell Samsung packs) for about 100 cycles under constant-current and dynamic discharge scenarios to train and validate the MM-GRU SoH estimator.",
+    "evidence": "we selected Samsung (Seongnam, Gyeonggi-do, South Korea) ICR18650-26F and Panasonic (Osaka, Japan) NCR18650BD batteries for our study."
+   }
+  },
+  {
+   "doi_key": "10.1109_access.2025.3564072",
+   "doi": "10.1109/access.2025.3564072",
+   "cell": "Samsung_SDI_ICR18650-22P",
+   "cells": [
+    "Samsung_SDI_ICR18650-22P"
+   ],
+   "title": "Self SOC Estimation for Second-Life Lithium-Ion Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_ICR18650-22P"
+    ],
+    "reason": "The authors discharged 100 second-life Samsung ICR18650-22P cells of different capacities with their own Raspberry Pi-based data acquisition setup and ran 15 further real-time experiments to train and test a two-layer random forest SOC estimator.",
+    "evidence": "one hundred experiments were carried out with one hundred different battery capacities, and all data were saved in CSV files."
+   }
+  },
+  {
+   "doi_key": "10.3390_en18051037",
+   "doi": "10.3390/en18051037",
+   "cell": "Samsung_SDI_ICR18650-26F",
+   "cells": [
+    "Samsung_SDI_ICR18650-26F"
+   ],
+   "title": "A Novel Online State-of-Health Estimation Method for Lithium-Ion Batteries with Multi-Input Metabolic Long Short-Term Memory Framework",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_ICR18650-26F"
+    ],
+    "reason": "Four Samsung ICR18650-26F cells (S17, S30, S42, S43) and one Panasonic NCR18650B were tested on the authors’ ITECH-based test bench with characteristic and aging tests, and these data are used to train and validate the MM-LSTM SoH estimator.",
+    "evidence": "Two kinds of lithium-ion batteries were tested in this article: a LiNMC NCR18650B battery (labeled P01) from Panasonic (Osaka, Japan) and four LCO ICR18650-26F batteries"
+   }
+  },
+  {
+   "doi_key": "10.3390_app16010079",
+   "doi": "10.3390/app16010079",
+   "cell": "Samsung_SDI_ICR18650-26J",
+   "cells": [
+    "Samsung_SDI_ICR18650-26J"
+   ],
+   "title": "Analysis of the Relationship Between Discharge Cutoff Voltage and Thermal Behavior in Different Lithium-Ion Cell Types",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_ICR18650-26J"
+    ],
+    "reason": "The authors performed their own controlled discharge tests with surface temperature measurement on five Samsung ICR18650-26J cells (and EVE 40PL 21700 cells) at multiple cutoff voltages and C-rates at 25 °C.",
+    "evidence": "By contrast, the Samsung ICR18650-26J cells (Figure 3) display significantly higher sensitivity to both cutoff voltage and load."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11050188",
+   "doi": "10.3390/batteries11050188",
+   "cell": "Samsung_SDI_ICR18650-26J",
+   "cells": [
+    "Samsung_SDI_ICR18650-26J"
+   ],
+   "title": "Multiband Multisine Excitation Signal for Online Impedance Spectroscopy of Battery Cells",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_ICR18650-26J"
+    ],
+    "reason": "The authors measured the impedance of a fully charged Samsung ICR18650-26J cell with a Hioki IM3590 analyzer to extract the fractional-order ECM used as battery model in their co-simulation of multiband multisine EIS; a separate online hardware test used an unnamed 2.9 Ah 18650 cell.",
+    "evidence": "Values of the parameters were experimentally extracted using a Hioki IM3590 Chemical Impedance Analyzer."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11100351",
+   "doi": "10.3390/batteries11100351",
+   "cell": "Samsung_SDI_ICR18650-26J",
+   "cells": [
+    "Samsung_SDI_ICR18650-26J"
+   ],
+   "title": "An Integrated Co-Simulation Framework for the Design, Analysis, and Performance Assessment of EIS-Based Measurement Systems for the Online Monitoring of Battery Cells",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_ICR18650-26J"
+    ],
+    "reason": "The authors measured the impedance of a fully charged Samsung ICR18650-26J cell with a Hioki IM3590 analyzer to parameterize the battery ECM in their co-simulation framework, and compared framework predictions against their own EIS prototype and Hioki measurements on a real cell.",
+    "evidence": "experimentally extracted from a real fully charged cylindrical battery cell Samsung ICR18650-26J 2600 mAh"
+   }
+  },
+  {
+   "doi_key": "10.3390_physchem5010012",
+   "doi": "10.3390/physchem5010012",
+   "cell": "Samsung_SDI_INR-21700-50S",
+   "cells": [
+    "Samsung_SDI_INR-21700-50S"
+   ],
+   "title": "Random Forest-Based Machine Learning Model Design for 21,700/5 Ah Lithium Cell Health Prediction Using Experimental Data",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR-21700-50S"
+    ],
+    "reason": "The author cycled a Samsung INR21700-50S cell for 300 full 1C charge-discharge cycles at 25 °C in a climatic chamber with a ProDigitek BCS-800 cycler and used the recorded voltage, current, temperature and capacity to train SoH models.",
+    "evidence": "Cell under test (Samsung INR21700-50S—5 Ah—3.6 V)"
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11100377",
+   "doi": "10.3390/batteries11100377",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "Online Parameter Identification of a Fractional-Order Chaotic System for Lithium-Ion Battery RC Equivalent Circuit Using a State Observer",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-20R"
+    ],
+    "reason": "The authors state that HPPC, DST and UDDS real-time tests on a Samsung INR18650-20R cell were carried out with an Arbin BT200 system at 25 °C and 40 °C and used to validate the state-observer parameter identification.",
+    "evidence": "The test object was a Samsung INR18650-20R LIB (Jizhou Technology Co., Ltd., Shenzhen City, China) with a rated capacity of 2000 mAh"
+   }
+  },
+  {
+   "doi_key": "10.3390_environments12040119",
+   "doi": "10.3390/environments12040119",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "Pretreatment Methods for Recovering Active Cathode Material from Spent Lithium-Ion Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-20R"
+    ],
+    "reason": "The authors disassembled Samsung SDI INR18650-20R cells (pristine and one cycled) and performed their own TGA, ICP-OES, SEM/EDS, XRD and cathode-material recovery experiments on them.",
+    "evidence": "In this study, Samsung SDI INR 18650-20R ba tteries (Samsung Electronics Co., Ltd., Suwon, South Korea) were used."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.rineng.2025.106428",
+   "doi": "10.1016/j.rineng.2025.106428",
+   "cell": "Samsung_SDI_INR18650-25R",
+   "cells": [
+    "Samsung_SDI_INR18650-25R"
+   ],
+   "title": "XGBoost–random forest stacking with dual-state Kalman filtering for real-time battery SOC estimation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-25R"
+    ],
+    "reason": "The authors cycled and field-tested a custom-instrumented 20S1P pack of Samsung INR18650-25R cells on an e-bike, logging a 141,872-sample dataset via the BMS and a Raspberry Pi 4 to train and validate the HEAD-KF SOC estimator.",
+    "evidence": "Experiments were conducted on a 20S1P lithium-ion battery module comprising Samsung INR18650-25R cells managed by an ANT-BMS-24S board."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11020067",
+   "doi": "10.3390/batteries11020067",
+   "cell": "Samsung_SDI_INR18650-25R",
+   "cells": [
+    "Samsung_SDI_INR18650-25R"
+   ],
+   "title": "Experimental Investigation of Phase Change Material-Based Battery Pack Performance Under Elevated Ambient Temperature",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-25R"
+    ],
+    "reason": "The authors built a nine-cell pack of Samsung INR18650-25R cells and measured cell surface temperatures during their own 1C and 3C discharges at 22–42 °C ambient, with and without PCM.",
+    "evidence": "Nine cylindrical lithium-ion Samsung INR18650-25R batteries were utilized."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11020077",
+   "doi": "10.3390/batteries11020077",
+   "cell": "Samsung_SDI_INR18650-25R",
+   "cells": [
+    "Samsung_SDI_INR18650-25R"
+   ],
+   "title": "Inductor-Based Active Balancing Topology with Wide Voltage Range Capability",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-25R"
+    ],
+    "reason": "The authors experimentally validated their inductor-based active balancer on a five-cell series pack of INR18650-25R cells, reporting measured cell-voltage convergence during rest, charging and discharging.",
+    "evidence": "The experimental setup, shown in Figure 6, consists of a five-cell series-connected battery pack, a five-cell balancer board"
+   }
+  },
+  {
+   "doi_key": "10.3390_en18164364",
+   "doi": "10.3390/en18164364",
+   "cell": "Samsung_SDI_INR18650-25R",
+   "cells": [
+    "Samsung_SDI_INR18650-25R"
+   ],
+   "title": "SOC Estimation for Lithium-Ion Batteries Based on Weighted Multi-Innovation Sage–Husa Adaptive EKF",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-25R"
+    ],
+    "reason": "Main UDDS tests were run on an ATL 33 Ah cell with a Neware CE6008a tester; for generalization, measured FTP-75 data of an INR18650-25R cell at 25 °C were used, with no external dataset cited (data origin stated only implicitly as measured).",
+    "evidence": "the algorithm was used for SOC estimation verification under the FTP-75 condition of INR18650-25R lithium-ion battery. Under a constant temperature of 25◦C"
+   }
+  },
+  {
+   "doi_key": "10.3390_en18051173",
+   "doi": "10.3390/en18051173",
+   "cell": "Samsung_SDI_INR18650-30Q",
+   "cells": [
+    "Samsung_SDI_INR18650-30Q"
+   ],
+   "title": "Effects of Different Safety Vent Bursting Pressures on Lithium-Ion Battery Thermal Runaway Process and Reaction Product Compositions",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-30Q"
+    ],
+    "reason": "The authors performed their own heating-triggered thermal runaway tests on Samsung SDI INR18650-30Q cells with the safety vent replaced by aluminium foil discs (1, 2, 3 MPa bursting pressure), with gas chromatography, XRD and SEM-EDS of the products.",
+    "evidence": "The cylindrical lithium-ion ba ttery used in this study was the INR18650-30Q model."
+   }
+  },
+  {
+   "doi_key": "10.3390_en18184996",
+   "doi": "10.3390/en18184996",
+   "cell": "Samsung_SDI_INR18650-30Q",
+   "cells": [
+    "Samsung_SDI_INR18650-30Q"
+   ],
+   "title": "Hybrid PCM–Liquid Cooling System with Optimized Channel Design for Enhanced Thermal Management of Lithium–Ion Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-30Q"
+    ],
+    "reason": "The authors built 3p packs of Samsung INR18650-30Q cells filled with PCM, silicone oil or thermal adhesive and measured cell temperatures during 2C discharges in a 20 °C chamber; the data validate a CFD model.",
+    "evidence": "The battery selected for this experiment was a cylindri- cal lithium–ion cell (Samsung INR18650 -30Q, NMC (LiNiMnCoO 2)) with a rated capacity of 3000 mA·h"
+   }
+  },
+  {
+   "doi_key": "10.3390_en18246510",
+   "doi": "10.3390/en18246510",
+   "cell": "Samsung_SDI_INR18650-30Q",
+   "cells": [
+    "Samsung_SDI_INR18650-30Q"
+   ],
+   "title": "A Study on the Lithium-Ion Battery Fire Prevention Diagnostic Technique Based on Time-Resolved Partial Discharge Algorithm",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-30Q"
+    ],
+    "reason": "The authors performed their own accelerated-degradation cycling (25 °C and 60 °C, 1C/2C) and mechanical deformation tests on Samsung INR18650-30Q cells while recording high-frequency partial-discharge signals.",
+    "evidence": "As shown in Table 1, the test battery was a Samsung INR18650-30Q model"
+   }
+  },
+  {
+   "doi_key": "10.3390_wevj16090533",
+   "doi": "10.3390/wevj16090533",
+   "cell": "Samsung_SDI_INR18650-30Q",
+   "cells": [
+    "Samsung_SDI_INR18650-30Q"
+   ],
+   "title": "Cooperative Estimation Method for SOC and SOH of Lithium-Ion Batteries Based on Fractional-Order Model",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-30Q"
+    ],
+    "reason": "The authors ran their own pulse-discharge and UDDS/NEDC/HWFET drive-cycle tests on a Samsung INR18650-30Q cell with a YouNeng UPC-5V6A-8C tester to parameterize a fractional-order ECM and validate SOC/SOH co-estimation.",
+    "evidence": "The experimental subject selected for this study is a lithium nickel manganese cobalt oxide (NMC) battery produced by Samsung, model INR-18650-30Q."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.nxener.2025.100385",
+   "doi": "10.1016/j.nxener.2025.100385",
+   "cell": "Samsung_SDI_INR18650-35E",
+   "cells": [
+    "Samsung_SDI_INR18650-35E"
+   ],
+   "title": "Impact of first-life usage on second-life performance of lithium-ion batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR18650-35E"
+    ],
+    "reason": "The authors cycled twelve retired Samsung INR18650-35E cells on an Arbin BT2000 with integrated EIS through high/low-current first-life and 30% DoD second-life protocols, with periodic capacity, DCIR and ACIR characterization.",
+    "evidence": "The cell type selected for this research is the Samsung INR18650-35E, a lithium-ion rechargeable cell"
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11070236",
+   "doi": "10.3390/batteries11070236",
+   "cell": "Samsung_SDI_INR21700-40T",
+   "cells": [
+    "Samsung_SDI_INR21700-40T"
+   ],
+   "title": "Machine Learning-Based Methodology for Fast Assessment of Battery Health Status",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-40T"
+    ],
+    "reason": "The author aged Samsung INR21700-40T cells with 2C CC cycling on an APRO cycler and periodically measured DCIR, 6-min 1C partial discharge voltage traces and capacity to train an RNN capacity estimator.",
+    "evidence": "we used a cylindrical lithium-ion battery typically found in the market to acquire data for training and validation for machine learning algorithms"
+   }
+  },
+  {
+   "doi_key": "10.3390_en18051272",
+   "doi": "10.3390/en18051272",
+   "cell": "Samsung_SDI_INR21700-40T",
+   "cells": [
+    "Samsung_SDI_INR21700-40T"
+   ],
+   "title": "A Modeling Technique for High-Efficiency Battery Packs in Battery-Powered Railway System",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-40T"
+    ],
+    "reason": "The authors measured surface temperature and voltage of a Samsung INR21700-40T cell under a repeated railway driving profile at 25 °C to validate their 3D thermal-flow simulation of a 4S3P module.",
+    "evidence": "The INR21700-40T cell(Samsung SDI, Yongin, Korea) was utilized for both simulation and experimental"
+   }
+  },
+  {
+   "doi_key": "10.3390_en18236300",
+   "doi": "10.3390/en18236300",
+   "cell": "Samsung_SDI_INR21700-40T",
+   "cells": [
+    "Samsung_SDI_INR21700-40T"
+   ],
+   "title": "Development of a Correction Algorithm for Structural Elements to Enhance EIS Measurement Reliability in Battery Modules",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-40T"
+    ],
+    "reason": "The authors performed their own EIS measurements (Hioki BT4560-50, 25 °C chamber) on single Samsung INR21700-40T cells and on 2P–4P parallel modules built from them to derive and validate a bus-plate impedance correction algorithm.",
+    "evidence": "The batteries used in the experi- ments were SAMSUNG INR21700-40T NCA (SAMSUNG, Seoul, Korea) batteries, and all measurements were conducted at 50% SOC and 100% SOH."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11020059",
+   "doi": "10.3390/batteries11020059",
+   "cell": "Samsung_SDI_INR21700-48X",
+   "cells": [
+    "Samsung_SDI_INR21700-48X"
+   ],
+   "title": "Experimental Study on Thermal Management of 5S7P Battery Module with Immersion Cooling Under High Charging/Discharging C-Rates",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-48X"
+    ],
+    "reason": "The authors built a 5S7P module of 35 Samsung SDI INR21700-48X cells and experimentally tested oil immersion cooling (three oils, 0.4-1.0 LPM, 1.0C-3.0C charge/discharge) with nine surface thermocouples at 25 °C ambient.",
+    "evidence": "a 21700-type battery cell (INR21700-48X-SDI-2) manufac- tured by Samsung SDI Co., Ltd."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.csite.2025.107013",
+   "doi": "10.1016/j.csite.2025.107013",
+   "cell": "Samsung_SDI_INR21700-50E",
+   "cells": [
+    "Samsung_SDI_INR21700-50E"
+   ],
+   "title": "Development of a fast-charging strategy considering degradation in lithium-ion batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-50E"
+    ],
+    "reason": "The authors built their own test setup (power supply, electronic load, power meter, thermocouple) to charge Samsung SDI INR21700-50E cells at 0.6-3C for model validation and to cycle cells with the proposed TBFC strategy versus CCCV charging.",
+    "evidence": "The experiment was conducted to validate the advanced SPM for lithium-ion batteries and to demonstrate the fast-charging strategy. A 21700 cylindrical battery (INR21700-50E, Samsung SDI, Korea) was used."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.dib.2025.111346",
+   "doi": "10.1016/j.dib.2025.111346",
+   "cell": "Samsung_SDI_INR21700-50E",
+   "cells": [
+    "Samsung_SDI_INR21700-50E"
+   ],
+   "title": "Data on battery health and performance: Analysing Samsung INR21700-50E cells with advanced feature engineering",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-50E"
+    ],
+    "reason": "Data-in-Brief dataset paper publishing charge-discharge and HPPC measurements of 256 Samsung INR21700-50E cells tested at 25 °C at the University of Wuppertal by co-authors, plus engineered features.",
+    "evidence": "This dataset provides a comprehensive collection of detailed measurements from 256 Samsung INR21700-50E cells, spanning 32 batches."
+   }
+  },
+  {
+   "doi_key": "10.1016_j.ijepes.2025.111053",
+   "doi": "10.1016/j.ijepes.2025.111053",
+   "cell": "Samsung_SDI_INR21700-50E",
+   "cells": [
+    "Samsung_SDI_INR21700-50E"
+   ],
+   "title": "Impedance-based Thermal Runaway early detection methodology for Lithium-Ion batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-50E"
+    ],
+    "reason": "The authors performed their own ARC, overtemperature abuse and module-level thermal runaway tests with continuous EIS tracking on Samsung INR21700-50E cells.",
+    "evidence": "Commercial Samsung INR21700-50E cylindrical lithium-ion cells with a nickel–cobalt-aluminum oxide (NCA) cathode and a graphite anode were used in this study."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11080313",
+   "doi": "10.3390/batteries11080313",
+   "cell": "Samsung_SDI_INR21700-50G",
+   "cells": [
+    "Samsung_SDI_INR21700-50G"
+   ],
+   "title": "Systematic Characterization of Lithium-Ion Cells for Electric Mobility and Grid Storage: A Case Study on Samsung INR21700-50G",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-50G"
+    ],
+    "reason": "The authors performed their own static capacity and HPPC tests on a Samsung INR21700-50G cell at −10 to 45 °C and used the data to parameterize a second-order ECM with a lumped thermal model.",
+    "evidence": "All tests are conducted using a Samsung INR-21700-50G cell"
+   }
+  },
+  {
+   "doi_key": "10.3390_wevj16050255",
+   "doi": "10.3390/wevj16050255",
+   "cell": "Samsung_SDI_INR21700-50G",
+   "cells": [
+    "Samsung_SDI_INR21700-50G"
+   ],
+   "title": "The Overlooked Role of Battery Cell Relaxation: How Reversible Effects Manipulate Accelerated Aging Characterization",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Samsung_SDI_INR21700-50G"
+    ],
+    "reason": "The authors ran their own cycle aging tests (four substudies on cycling interruption, DOD, C-rate and recovery cycles) on INR21700-50G cells extracted from a Lucid Air, using BaSyTec testers in 25 °C climate chambers, and published the data on mediaTUM.",
+    "evidence": "This study was conducted with the INR21700-50G (Samsung SDI, Yongin-si, South Korea), an automotive-grade 21700 cylindrical cell"
+   }
+  },
+  {
+   "doi_key": "10.1016_j.rineng.2025.104136",
+   "doi": "10.1016/j.rineng.2025.104136",
+   "cell": "Sony-Murata_US18650VTC5",
+   "cells": [
+    "Sony-Murata_US18650VTC5"
+   ],
+   "title": "A novel hybrid cooling system for a Lithium-ion battery pack based on forced air and fins integrated with phase change material",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Sony-Murata_US18650VTC5"
+    ],
+    "reason": "The authors built a 9-cell pack of Sony US18650VTC5 cells and experimentally measured cell surface temperatures during 1C, 2C and 3C discharge at 35 °C under forced-air and hybrid PCM-fin-air cooling at different air velocities.",
+    "evidence": "In the present experimental study, the Li-ion battery of model SONY US18650VTC5 with a capacity of 2600 mAh is arranged in a pack of 9 batteries"
+   }
+  },
+  {
+   "doi_key": "10.1016_j.csite.2025.106580",
+   "doi": "10.1016/j.csite.2025.106580",
+   "cell": "Sony-Murata_US18650VTC6",
+   "cells": [
+    "Sony-Murata_US18650VTC6"
+   ],
+   "title": "Comparative analysis of innovative cooling systems for Li-ion cells using carbon-graphene coatings, metal foams, and 3D printing",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Sony-Murata_US18650VTC6"
+    ],
+    "reason": "The authors tested a two-cell series pack of US18650VTC6 cells on plastic support, an Al-foam frame and an Al-foam frame with a Peltier cell under a pulsed current test with infrared thermography, alongside flat-cell experiments.",
+    "evidence": "Two different cells are used for the tests presented in this work. A Li-polymer flat cell and a cylindrical US18650VTC6 cell."
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11060208",
+   "doi": "10.3390/batteries11060208",
+   "cell": "Sony-Murata_US18650VTC6",
+   "cells": [
+    "Sony-Murata_US18650VTC6"
+   ],
+   "title": "Accurate Chemistry Identification of Lithium-Ion Batteries Based on Temperature Dynamics with Machine Learning",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Sony-Murata_US18650VTC6"
+    ],
+    "reason": "The authors aged three Sony US18650VTC6 (NCA-GS) cells, alongside Panasonic NCR-18650B and LG M50LT cells, with 1C cycling, 0.2C check-ups and GITT in a 25 °C chamber while measuring surface temperature, and used these data for GRU-based chemistry classification.",
+    "evidence": "The experimental setup consists of three cells for each of the following chemistries"
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11080314",
+   "doi": "10.3390/batteries11080314",
+   "cell": "Sony-Murata_US18650VTC6",
+   "cells": [
+    "Sony-Murata_US18650VTC6"
+   ],
+   "title": "Experimental Testing and Modeling of Li-Ion Battery Performance Based on IEC 62660-1 Standard",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Sony-Murata_US18650VTC6"
+    ],
+    "reason": "The authors tested a series string of five Sony/Murata VTC6 cells with an ITECH IT-M3900C supply (CC/CV cycles at 1, 3, 5 A, intermittent OCV tests and an IEC 62660-1 dynamic discharge profile at 25 °C) to build and validate an OCV/IR voltage model.",
+    "evidence": "The experimental study was conducted using five Sony/Murata VTC6 lithium-ion cylindrical cells (Tohoku Murata Manufacturing Co., Ltd., Fukushima, Japan), connected in series"
+   }
+  },
+  {
+   "doi_key": "10.3390_batteries11110396",
+   "doi": "10.3390/batteries11110396",
+   "cell": "Sony-Murata_US18650VTC6",
+   "cells": [
+    "Sony-Murata_US18650VTC6"
+   ],
+   "title": "Research on Aging Evolution and Safety Characteristics of Lithium-Ion Batteries Cycling at Low Temperature",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "include",
+    "data_origin": "Own experiments",
+    "cells_with_own_data": [
+     "Sony-Murata_US18650VTC6"
+    ],
+    "reason": "The authors cycled Sony US18650VTC6 cells in a low-temperature chamber under various temperatures, C-rates and voltage windows with periodic HPPC tests, and performed ARC thermal runaway tests on cells aged at low temperature.",
+    "evidence": "This study employed commercial cylindrical 18650 (Sony US18650VTC6"
+   }
+  }
+ ],
+ "holds": [
+  {
+   "doi_key": "10.1109_access.2025.3627207",
+   "doi": "10.1109/access.2025.3627207",
+   "cell": "A123_Systems_AMP20M1HD-A",
+   "cells": [
+    "A123_Systems_AMP20M1HD-A"
+   ],
+   "title": "Battery-Integrated AUV SOC Analysis Using Model-Based Nonlinear PID Controller With Disturbance Observer",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Pure MATLAB/Simulink simulation study of an AUV controller with a Coulomb-counting SOC model; the AMP20M1HD cell is only used as a simulated battery with parameter values, and experimental validation is named as future work.",
+    "evidence": "Battery simulation utilizes the AMP20M1HD Lithium-ion battery, which has a cell capacity of 19.487 ampere-hours (Ah)"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.1016_j.ecmx.2025.101062",
+   "doi": "10.1016/j.ecmx.2025.101062",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Electrochemical-thermal numerical model of a lithium-ion battery under natural convection liquid immersion cooling conditions",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "Purely numerical P2D/CFD study of the ANR26650M1B cell under immersion cooling; validation data are taken from the authors' previous experimental work [43] and literature OCV/entropy measurements [58], with no new measurements reported in this paper.",
+    "evidence": "closely follows the behaviour determined in the authors’ previous experimental work on natural convection liquid immersion cooling of a similar lithium-ion cell [ 43 ]"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1016_j.fub.2025.100056",
+   "doi": "10.1016/j.fub.2025.100056",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Comparative Electrical Characterization of Commercial Sodium-Ion and Lithium-Ion Cells Using Enhanced Ragone Plot Analysis",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "diamond",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "New experiments were performed only on Mushang NA18650-1250 sodium-ion cells; the A123 ANR26650M1-B LFP data used for comparison come from the authors' previously published characterization campaign.",
+    "evidence": "A similar characterization campaign was performed previously in [39,41] for cells with three different LIB chemistries: LFP/Gr ANR26650m1-B model by A123 Systems"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3634374",
+   "doi": "10.1109/access.2025.3634374",
+   "cell": "A123_Systems_ANR26650M1-B",
+   "cells": [
+    "A123_Systems_ANR26650M1-B"
+   ],
+   "title": "Development of an Enhanced Self-Correcting Equivalent Circuit Model for State Estimation of Lithium-Ion Batteries in Electric Vehicle Applications",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The ESC model of the A123 ANR26650M1B cell is parameterized and compared against an existing temperature-sweep dataset (tests and parameters cited to Plett [8] and Yu et al. [17]); no own test setup or own measurements are described, and the pack study is pure Simulink simulation.",
+    "evidence": "Electrical parameters were extracted across temperatures ranging from−15◦C to 35◦C [17]."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1016_j.ecmx.2025.101435",
+   "doi": "10.1016/j.ecmx.2025.101435",
+   "cell": "EVE_Energy_LF105-73103",
+   "cells": [
+    "EVE_Energy_LF105-73103"
+   ],
+   "title": "Fuel cell hybrid electric vehicle with real-world driving cycle: six-step control strategy for dynamic energy management and fuel optimization",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Pure MATLAB/Simulink simulation of a fuel-cell hybrid vehicle in which the EVE LF105 cell is parameterized from manufacturer specifications; no measurements were performed and experimental testing is listed as future work.",
+    "evidence": "Although this work focuses on technical validation and performance evaluation, future extensions will include economic analysis, hardware-in-the-loop validation, and experimental testing."
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.1016_j.egyai.2025.100612",
+   "doi": "10.1016/j.egyai.2025.100612",
+   "cell": "Gotion_IFR32135",
+   "cells": [
+    "Gotion_IFR32135"
+   ],
+   "title": "An enhanced sorting framework for retired batteries based on multi-dimensional features and an integrated clustering approach",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "Own capacity, OCV, EIS and aging tests were performed only on 100 retired 'XTU batteries' (model not identified as IFR32135); the IFR32135 data come from the cited public CETL-data set of 4000 retired batteries.",
+    "evidence": "In addition, this paper cites the large retired battery dataset CETL-data [ 25 ]. This dataset contains 4000 retired batteries of model IFR32135"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1016_j.xcrp.2025.102444",
+   "doi": "10.1016/j.xcrp.2025.102444",
+   "cell": "Gotion_IFR32135",
+   "cells": [
+    "Gotion_IFR32135"
+   ],
+   "title": "Capacity estimation of retired lithium-ion batteries using random charging segments from massive real-world data",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The IFR32135 (AOC15) charging-discharging data of 2,354 retired cells were provided by a third party (Anhui Guoqi Technology Co., Ltd.) rather than measured by the authors; the paper develops a 2D-CNN capacity estimator on these data. Borderline: the dataset is newly published by the authors on Zenodo.",
+    "evidence": "The data used in this research were provided by Anhui Guoqi Technology Co., Ltd."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_en18112699",
+   "doi": "10.3390/en18112699",
+   "cell": "Headway_Group_HW40152S",
+   "cells": [
+    "Headway_Group_HW40152S"
+   ],
+   "title": "Applying Structure Exchange to Battery Charging to Enhance Light-Load Efficiency",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "The charger is only designed based on the LiFePO4 40152S cell specifications; all experiments use a DC electronic load to emulate the battery, so no measurements on the target cell are reported.",
+    "evidence": "At the same time, a DC electronic load is used to simulate the behavior of the battery on the load side."
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.1002_eng2.70346",
+   "doi": "10.1002/eng2.70346",
+   "cell": "LG_Chem_18650HG2; Panasonic_NCR18650PF",
+   "cells": [
+    "LG_Chem_18650HG2",
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "Real‐Time Parameter Identification and State of Charge Estimation of Electric Vehicle Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "VFFRLS parameter identification and SFO-EKF SOC estimation are validated only with manufacturer datasheet data and public datasets (NASA, Panasonic 18650PF, LG 18650HG2, CALCE); the authors state they did no laboratory experiments.",
+    "evidence": "rather than doing experiments in the laboratory, the datasheet provided by the manufacturer, the NASA batterydataset"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1016_j.fub.2025.100124",
+   "doi": "10.1016/j.fub.2025.100124",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Predicting remaining useful life of lithium-ion batteries: A review of degradation mechanisms and open-source data availability",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "diamond",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Review of degradation mechanisms, SOH/RUL modelling approaches and open-source datasets; the LG 18650HG2 appears only as part of the Sandia public dataset description.",
+    "evidence": "This paper reviews the battery cell degradation mechanisms, followed by the prediction of battery health parameters and relevant degradation modelling approaches for individual cells."
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.1016_j.mlwa.2025.100629",
+   "doi": "10.1016/j.mlwa.2025.100629",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Machine learning-based state of charge estimation: A comparison between CatBoost model and C-BLSTM-AE model",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "SOC estimation models are trained and validated only on the public McMaster University LG 18650HG2 drive-cycle dataset (Vidal et al., 2020); the authors performed no own measurements.",
+    "evidence": "To validate our models, raw data from a brand-new cylindrical 18,650 LiNiMnCoO2 cell by LG provided by McMaster University in Hamilton, Ontario, Canada (Vidal et al., 2020) are used."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1038_s41598-025-29449-6",
+   "doi": "10.1038/s41598-025-29449-6",
+   "cell": "LG_Chem_18650HG2; Samsung_SDI_INR18650-20R",
+   "cells": [
+    "LG_Chem_18650HG2",
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "Dual-phase optimized deep learning framework for accurate, efficient, and robust battery SoC estimation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The KANBiLSTMAtt SoC model is trained and tested only on open-source data: Samsung INR18650-20R drive cycles from CALCE and LG HG2 data from McMaster University; no own measurements are reported.",
+    "evidence": "In these experiments, two different datasets are used from the open-source datasets for battery experimental data described in Table 4."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1038_s41598-025-32347-6",
+   "doi": "10.1038/s41598-025-32347-6",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Temporal-aware transformer networks for state of charge multi-output prediction in unmanned aerial vehicle lithium-ion batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "All LG 18650HG2 data come from the public McMaster (Kollmeyer) Mendeley dataset; the authors conduct no own measurements and only train/evaluate a transformer SOC model.",
+    "evidence": "The dataset used in this experiment is the LG 18650HG2 Li-ion battery data, made publicly available by Dr. Phillip Kollmeyer from McMaster University"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3580552",
+   "doi": "10.1109/access.2025.3580552",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "State of Charge Estimation for Li-Ion Batteries: An Edge-Based Data-Driven Approach",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The LSTM SoC estimator is trained and evaluated on the public Mendeley LG 18650HG2 dataset (Kollmeyer et al.); the laboratory framework for a generic 3 Ah 18650 cell is only described procedurally and no own measurement results on the LG HG2 are reported.",
+    "evidence": "A typical battery data set used for the initial study is taken from Mendeley Data repository [26], LG 18650HG2 Li-ion Battery data."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3583216",
+   "doi": "10.1109/access.2025.3583216",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Mixing High-Frequency Bands Based on Wavelet Decomposition for Long-Term State-of-Charge Forecasting of Lithium-Ion Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The HiMixer SoC forecasting model is trained and evaluated only on the public LG 18650HG2 Mendeley dataset by Kollmeyer et al. [17]; no own measurements are reported.",
+    "evidence": "We employed the LG18650HG2 Li-ion battery dataset [17],"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3632340",
+   "doi": "10.1109/access.2025.3632340",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "A Generative Adversarial Network and Feed-Forward Neural Network Approach to Predict Health of Electric Vehicle Lithium-Ion Batteries in Extreme Temperature",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The LG HG2 data come exclusively from the public Mendeley dataset generated by Kollmeyer at McMaster University, augmented with GAN-generated synthetic data; the authors performed no own measurements.",
+    "evidence": "The dataset for this study, sourced from Mendeley and generated by Dr. Phillip Kollmeyer at McMaster University, consists of experimental data from a 3Ah LG HG2 LiB cell"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3648252",
+   "doi": "10.1109/access.2025.3648252",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "An Iterative Algorithm to Estimate State of Health in Li-Ion Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The ECM for the LG 18650HG2 cell is identified from the public McMaster University (Kollmeyer) dataset, and experimental validation uses the public Stanford Energy Control Lab dataset; no own measurements are reported.",
+    "evidence": "The dataset used corresponds to the LG 18650HG2 Li-ion cell and were performed at McMaster University in Hamilton, Ontario, Canada by Dr. Phillip Kollmeyer"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_en18102459",
+   "doi": "10.3390/en18102459",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Robust Data-Driven State of Health Estimation of Lithium-Ion Batteries Based on Reconstructed Signals",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "Purely data-driven SoH estimation evaluated only on the public NASA and Sandia National Laboratories datasets; the LG 18650HG2 appears only in the Sandia dataset description, and no own measurements are reported.",
+    "evidence": "In this study, two publicly available lithium-ion battery aging datasets were employed, the NASA battery dataset [ 49] and Sandia National Laboratories (SNL) battery degradation dataset [50] ."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_en18133436",
+   "doi": "10.3390/en18133436",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Optimization and Estimation of the State of Charge of Lithium-Ion Batteries for Electric Vehicles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "AEKF SOC estimation is run in MATLAB Simulink on 'Battery Data' sets for Turnigy, LG 18650HG2, Panasonic 18650PF and Samsung 30T cells whose names and test protocol (HPPC, UDDS/HWFET/LA92/US06, 0.1 s sampling) match the public McMaster/Kollmeyer datasets; no own test equipment or measurements are described (source not explicitly cited, so classification is inferred).",
+    "evidence": "the four ba tteries: Turnigy Graphene 5000 mAh 65C, LG 18650HG2 Li-ion Ba ttery Data, Panasonic 18650PF Li-ion Ba ttery Data"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_en18236192",
+   "doi": "10.3390/en18236192",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Enhanced Lithium-Ion Battery State-of-Charge Estimation via Akima–Savitzky–Golay OCV-SOC Mapping Reconstruction and Bayesian-Optimized Adaptive Extended Kalman Filter",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The SOC estimator is validated exclusively on the public McMaster University LG HG2 dataset by Dr. Phillip Kollmeyer (−20 °C to 40 °C drive cycles); the authors report no own measurements.",
+    "evidence": "Validation and verification of the proposed algorithm are accomplished through a comprehensive dataset assembled at McMaster University’s battery evaluation laboratory, under the supervision of Dr. Phillip Kollmeyer"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_pr13113559",
+   "doi": "10.3390/pr13113559",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "State of Charge Estimation for Lithium-Ion Batteries: An Online Method Combining Deep Neural Network and Adaptive Kalman Filter",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The CNN-LSTM-AKF SOC estimator is trained and tested on LG 18650HG2 DST/FUDS/US06 data from a public University of Maryland (CALCE) dataset; the authors report no own measurements.",
+    "evidence": "This study utilizes a publicly available dataset from the University of Maryland Battery Laboratory"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_su18010209",
+   "doi": "10.3390/su18010209",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "Comparative Battery State of Charge (SoC) Estimation Using Shallow and Deep Machine Learning Models",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The study benchmarks neural-network SoC estimators exclusively on the public McMaster University LG HG2 dataset (Kollmeyer et al., Mendeley Data); no own measurements are reported.",
+    "evidence": "The dataset was collected at McMaster University using a brand new 3Ah LG HG2"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_wevj16030168",
+   "doi": "10.3390/wevj16030168",
+   "cell": "LG_Chem_18650HG2",
+   "cells": [
+    "LG_Chem_18650HG2"
+   ],
+   "title": "LSTM-Based State-of-Charge Estimation and User Interface Development for Lithium-Ion Battery Management",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The LSTM/MLP SOC models are trained and tested on LG 18650HG2 data sourced from the public Mendeley dataset of Kollmeyer et al.; no own measurements on the cell are reported.",
+    "evidence": "The data for this study were sourced from publicly available datasets"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1016_j.prime.2025.100995",
+   "doi": "10.1016/j.prime.2025.100995",
+   "cell": "LG_Chem_ID.3",
+   "cells": [
+    "LG_Chem_ID.3"
+   ],
+   "title": "Beyond lithium: A comprehensive use-case-analysis of sodium-ion-battery technology in battery electric vehicles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Techno-economic vehicle simulation and cost model of NMC, LFP and sodium-ion batteries in a VW ID.3 reference vehicle, parameterized from literature and validated against published empirical data (Wassiliadis et al.); no cell measurements are reported.",
+    "evidence": "The LDS is parameterized using battery cell characteristics from an extensive literature review, with the energy consumption results validated against empirical data."
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.3390_wevj16050287",
+   "doi": "10.3390/wevj16050287",
+   "cell": "LG_Chem_ID.3",
+   "cells": [
+    "LG_Chem_ID.3"
+   ],
+   "title": "Evaluating Carbon Emissions: A Lifecycle Comparison Between Electric and Conventional Vehicles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Lifecycle carbon-emission comparison of EVs (e.g., VW ID.3 Pure) and ICE vehicles based on vehicle databases, manufacturer specifications and literature emission factors; no cell measurements are reported.",
+    "evidence": "We used their carbon emissions data sets from vehicle databases and company specifications"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.1016_j.egyai.2025.100493",
+   "doi": "10.1016/j.egyai.2025.100493",
+   "cell": "LG_Chem_INR18650_MJ1",
+   "cells": [
+    "LG_Chem_INR18650_MJ1"
+   ],
+   "title": "Physics-constrained transfer learning: Open-circuit voltage curve reconstruction and degradation mode estimation of lithium-ion batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "Transfer-learning models are pretrained on synthetic NCA data and fine-tuned with the published LG INR18650 MJ1 aging dataset of Schmitt et al.; the authors report no new measurements of their own.",
+    "evidence": "The experimental data is taken from Schmitt et al. [28] and includes ten commercial INR18650 MJ1 nickel manganese cobalt oxide (NMC)-silicone/graphite cells with 3.35 Ah."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_app15105704",
+   "doi": "10.3390/app15105704",
+   "cell": "LG_Chem_INR21700_M50T",
+   "cells": [
+    "LG_Chem_INR21700_M50T"
+   ],
+   "title": "Privacy Auditing of Lithium-Ion Battery Ageing Model by Recovering Time-Series Data Using Gradient Inversion Attack in Federated Learning",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The transformer ageing model and gradient inversion attacks use the published INR21700-M50T real-driving ageing dataset of Pozzato et al.; the authors perform no own cell measurements.",
+    "evidence": "we evaluated the performance of attack and defence strategies on a time-series standard benchmark dataset for testing lithium-ion battery ageing based on electrical vehicle real-driving profiles"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_en18174709",
+   "doi": "10.3390/en18174709",
+   "cell": "Melasta_SLPBB042126",
+   "cells": [
+    "Melasta_SLPBB042126"
+   ],
+   "title": "SPICE-Aided Modeling Characteristics of Selected Batteries",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "SPICE compact battery model whose parameters come from manufacturer data and whose 'measured' points (including for the Melasta SLPBB042126 LiPo, ACU4) are manufacturer-provided datasheet characteristics; no own measurements are reported.",
+    "evidence": "the points represent measurement results provided by the manufacturers of the tested batteries"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.1016_j.ijepes.2025.110896",
+   "doi": "10.1016/j.ijepes.2025.110896",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "A virtual-component-embedded equivalent circuit model for lithium-ion battery state estimation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The FreTS-embedded ECM is validated only on two third-party datasets: a Panasonic 18650PF dataset provided by ref. [30] and an LFP cycle-aging dataset from ref. [35]; no own measurements are reported.",
+    "evidence": "the test case is established using a real-world battery dataset provided by [ 30 ]. This dataset includes charging/discharging measurements, e.g. current, voltage, cell temperature, from a Panasonic 18650PF cell"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3618980",
+   "doi": "10.1109/access.2025.3618980",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "State of Charge Estimation Across Dynamic and Sub-Zero Thermal Conditions for Electric Vehicles",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The Panasonic 18650PF drive-cycle data at fixed and varying ambient temperatures were measured by University of Wisconsin-Madison researchers (ref. [32], UW-Madison/McMaster dataset); the authors only trained and tested deep-learning SOC estimators on these public data.",
+    "evidence": "Under fixed and varying temperatures, University of Wisconsin-Madison researchers assessed a Panasonic 18650PF Li-ion battery cell"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_app15158538",
+   "doi": "10.3390/app15158538",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "A Novel Real-Time Battery State Estimation Using Data-Driven Prognostics and Health Management",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The Bi-LSTM, EKF and UKF SOC estimators are parameterized and evaluated solely on the public Mendeley Panasonic 18650PF dataset (HPPC and drive cycles at 25 °C); no own cell measurements are reported.",
+    "evidence": "The dataset used in this work is the “Panasonic 18650pf li-ion battery data”, available at https://data.mendeley.com/datasets/wykht8y7tg/1"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_batteries11030107",
+   "doi": "10.3390/batteries11030107",
+   "cell": "Panasonic_NCR18650PF; Samsung_SDI_INR18650-20R; Samsung_SDI_INR21700-40T",
+   "cells": [
+    "Panasonic_NCR18650PF",
+    "Samsung_SDI_INR18650-20R",
+    "Samsung_SDI_INR21700-40T"
+   ],
+   "title": "Exploiting Artificial Neural Networks for the State of Charge Estimation in EV/HV Battery Systems: A Review",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Review of ANN-based SOC estimation; the Panasonic 18650PF, Samsung INR18650-20R and INR21700-40T appear only via reviewed studies using public datasets (e.g., CALCE), and no new data were generated.",
+    "evidence": "Data Availability Statement: No new data have been generated."
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.3390_batteries11110404",
+   "doi": "10.3390/batteries11110404",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "A Novel Efficient Grading of Spent Lithium-Ion Batteries Using Electrochemical Impedance Spectrometry",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "The NCR18650PF appears only as the built-in Simscape battery model used in a Simulink proof-of-concept of adaptive balancing resistance; the authors' own EIS/capacity/GITT experiments were on non-target spent Panasonic CGR18650E and Sony US18650GR cells.",
+    "evidence": "As a proof of concept, an inbuilt battery model for 18650 cells in MATLAB R2024a Simulink, as shown in Table 1, was used"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.3390_drones9040247",
+   "doi": "10.3390/drones9040247",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "A Multi-Timescale Method for State of Charge Estimation for Lithium-Ion Batteries in Electric UAVs Based on Battery Model and Data-Driven Fusion",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The MI-AEKF/BiTCN-BiGRU-Attention SOC method is validated only on the publicly available Panasonic 18650PF drive-cycle dataset measured by Dr. Phillip Kollmeyer (Mendeley Data); no own measurements are reported.",
+    "evidence": "The specific mission profiles were measured by Dr. Phillip Kollmeyer at the McMaster University [ 44]."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_electronics14112217",
+   "doi": "10.3390/electronics14112217",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "Adaptive Recombination-Based Control Strategy for Cell Balancing in Lithium-Ion Battery Packs: Modeling and Simulation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Pure MATLAB/Simulink simulation study of a cell-balancing strategy; the NCR18650PF is represented by the predefined Simulink battery block and compared only qualitatively with the datasheet, with no measurements.",
+    "evidence": "validation was conducted in a virtual environment, and real hardware performance may vary"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.3390_math13172800",
+   "doi": "10.3390/math13172800",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "A Statistical Analysis of the Effect of Fin Design Factors on the Cooling Performance and System Mass of PCM–Fin Structured BTMS for LIB Cell",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "Pure CFD/statistical (DoE, ANOVA) simulation study of a PCM-fin BTMS for the NCR18650PF using literature heat generation; validation uses experimental results from Zhang et al., with no own measurements.",
+    "evidence": "compared with the experimental results reported by Zhang et al. [36]"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  },
+  {
+   "doi_key": "10.3390_pr13113597",
+   "doi": "10.3390/pr13113597",
+   "cell": "Panasonic_NCR18650PF; Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Panasonic_NCR18650PF",
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "A Data-Driven Method with Fusing Mechanism Information for Li-Ion Battery State of Charge Estimation",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The PINN SOC estimator is trained and tested only on public datasets: the Panasonic 18650PF data of Kollmeyer (Mendeley), the CALCE A123 data and the INR 18650-20R data from Xing et al. (CALCE); no own measurements are reported.",
+    "evidence": "Three datasets were utilized for the models employed in this paper’s validation analysis: the Panasonic 18650PF (Panasonic Corporation, Osaka, Japan) [ 22], CALCE’s A123 battery"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_s25123669",
+   "doi": "10.3390/s25123669",
+   "cell": "Panasonic_NCR18650PF",
+   "cells": [
+    "Panasonic_NCR18650PF"
+   ],
+   "title": "Noise Reduction with Recursive Filtering for More Accurate Parameter Identification of Electrochemical Sources and Interfaces",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The recursive-filtering impedance parameter estimation is tested on synthetic spectra and on EIS data of a Panasonic 18650PF cell taken from the public Kollmeyer Mendeley dataset [27]; the target-cell data are not the authors' own measurements.",
+    "evidence": "within the publicly available dataset of a 2.9 Ah Panasonic 18650PF cell [27]."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1007_s42452-025-07628-4",
+   "doi": "10.1007/s42452-025-07628-4",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "SOC fusion estimation for lithium battery using dual OCV-SOC relationships combined with fractional order extended Kalman filter",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "diamond",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "All INR18650-20R data (low-current OCV test, US06, BJDST at 25 °C) are taken from the open CALCE dataset; the author only develops and evaluates a fractional-order EKF SOC fusion method.",
+    "evidence": "The experimental data come from open dataset provided by the CALCE battery team"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1049_gtd2.70162",
+   "doi": "10.1049/gtd2.70162",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "A Cascaded Hybrid Model for Battery SOC Estimation Based on Adaptive EKF and LSTM",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "All INR18650-20R results (DST, BJDST, FUDS, US06 at 0, 25 and 45 °C) come from the University of Maryland (CALCE) open-source dataset; HPPC tests on a 2 Ah cell are mentioned without being identified as own measurements, and the only additional data are field data from an electric aerial work vehicle pack (non-target).",
+    "evidence": "The battery test dataset utilised in this study is sourced from the University of Maryland’s open-source battery dataset and specifically focuses on the INR18650-20R battery."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3600442",
+   "doi": "10.1109/access.2025.3600442",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "Estimation of Essential Battery State Parameters for Battery Management Systems (BMS) in Electric Vehicles Using Long Short Term Memory (LSTM) and Time Series Analysis Combined With Extended Kalman Filter",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The LSTM/EKF approach is tested on public data only: the CALCE INR 18650-20R battery data and the NASA battery aging dataset; no own measurements are reported.",
+    "evidence": "The Centre for Advanced Life Cycle Engineering’s (CALCE) LiNiMnCo/Graphite-ion Bat- tery datasets, specifically the INR 18650-20R Battery data, was used to test this approach"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_app15179653",
+   "doi": "10.3390/app15179653",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "Research on Estimation of State of Charge for Lithium-Ion Batteries Based on TRNN-CTA",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "All INR18650-20R data (DST, FUDS, BJDST, US06 at 0, 25, 45 °C) are taken from the public CALCE dataset of the University of Maryland; no own measurements are reported.",
+    "evidence": "The dataset used in this study is the CALCE dataset from the Center for Advanced Lifecycle Engineering at the University of Maryland"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_jmse13010126",
+   "doi": "10.3390/jmse13010126",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "State of Charge Estimation for Lithium Battery in Shipboard DC Power Grid Based on Differential Evolutionary Algorithm",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "DE-based parameter/OCV identification for SOC estimation uses only public CALCE (University of Maryland) DST data for the INR18650-20R cell; the authors performed no own measurements.",
+    "evidence": "The experimental datasets employed in this research were obtained from the battery research group at the Center for Advanced Life Cycle Engineering (CALCE)."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_math13182922",
+   "doi": "10.3390/math13182922",
+   "cell": "Samsung_SDI_INR18650-20R",
+   "cells": [
+    "Samsung_SDI_INR18650-20R"
+   ],
+   "title": "State of Charge Estimation of Lithium-Ion Batteries Based on Hidden Markov Factor Graphs",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The EKF-HMM-FG SOC method is evaluated in a section titled 'Simulation Experiment' on an INR18650-20R 'dataset' (incremental-current OCV test, DST/FUDS at 0, 25 and 45 °C); no test equipment, laboratory or own measurement campaign is described, and the conditions match an existing public data set (source not cited), so own new measurements are not demonstrated.",
+    "evidence": "In this study, experimental data from the incremental current open-circuit voltage (OCV) test were used for polynomial fitting of different orders."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1109_access.2025.3556314",
+   "doi": "10.1109/access.2025.3556314",
+   "cell": "Samsung_SDI_INR21700-50E",
+   "cells": [
+    "Samsung_SDI_INR21700-50E"
+   ],
+   "title": "Causal Physics-Infused Hybrid Learning (CPIHL) Framework for Next-Gen Battery Health Forecasting",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The CPIHL model is validated on two open-source datasets, including the previously published Zenodo Samsung INR21700-50E capacity/HPPC dataset (ref. 40, by co-authors Popp and Schmuelling, 2024); no new measurements are reported in this paper.",
+    "evidence": "The proposed framework is rigorously validated using two open-source datasets: the Samsung INR21700-50E and the Forklift Battery Degradation datasets."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.1016_j.ifacol.2025.12.377",
+   "doi": "10.1016/j.ifacol.2025.12.377",
+   "cell": "Samsung_SDI_INR21700-50G",
+   "cells": [
+    "Samsung_SDI_INR21700-50G"
+   ],
+   "title": "Practical Sizing of Hybrid Batteries using Ragone Plots and Optimization",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "diamond",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "This is a simulation/optimization sizing study; the Samsung INR21700-50G parameters and Ragone/temperature data are taken from the Batemo battery model database, and no own measurements are reported.",
+    "evidence": "Specifically, we use the Samsung INR21700-50G, a commercially available NMC- based lithium-ion battery. The cell parameters and perfor- mance characteristics are obtained from"
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_batteries11070246",
+   "doi": "10.3390/batteries11070246",
+   "cell": "Samsung_SDI_INR21700-50G",
+   "cells": [
+    "Samsung_SDI_INR21700-50G"
+   ],
+   "title": "Investigation of Convective and Radiative Heat Transfer of 21700 Lithium-Ion Battery Cells",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "Reused dataset",
+    "cells_with_own_data": [],
+    "reason": "The Samsung INR21700-50G appears only as the cell of Han et al., whose literature entropic coefficient was adopted and which is described as compatible with the cell used; the own discharge tests were on an unnamed 21700 cell (the cited data sheet is for the INR21700-50S), so no own measurements on the target cell are reported.",
+    "evidence": "The investigated cell type (Samsung INR21700-50G, NCA/graphite chemistry) is compatible with the cell used in this study."
+   },
+   "hold_reason": "no new data on target cell (Reused dataset)"
+  },
+  {
+   "doi_key": "10.3390_electricity6040063",
+   "doi": "10.3390/electricity6040063",
+   "cell": "Samsung_SDI_INR21700-50G",
+   "cells": [
+    "Samsung_SDI_INR21700-50G"
+   ],
+   "title": "Design, Prototyping, and Integration of Battery Modules for Electric Vehicles and Energy Storage Systems",
+   "year": 2025,
+   "classification": "USED",
+   "doc_type": "journal_article",
+   "oa_status": "gold",
+   "screening": {
+    "decision": "skip",
+    "data_origin": "No data",
+    "cells_with_own_data": [],
+    "reason": "The paper describes the design of a 36P12S module and a 6P12S prototype using INR21700-50G cells, a module thermal simulation and a BMS/BDU demonstration with a cell emulator, but reports no new measurement data on the cell; the cell characterization is cited from the group's previous work.",
+    "evidence": "For context, our research group previously conducted a detailed characterization of the INR-21700-50G cell (nominal capacity: 4900 mAh) [ 40]"
+   },
+   "hold_reason": "no new data on target cell (No data)"
+  }
+ ]
+}
