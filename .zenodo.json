@@ -1,0 +1,52 @@
+{
+  "title": "Cell Info Repository: battery-cell specifications as linked data (EMMO / JSON-LD) with a GraphRAG workflow",
+  "upload_type": "dataset",
+  "description": "<p>Specifications of 382 battery cells as linked data. Each cell is a JSON-LD profile typed with the EMMO battery domain ontology (https://w3id.org/emmo/domain/battery/context): rated capacity, voltage limits, currents, cycle life, mass, dimensions, case and cathode chemistry, each value with a citation of its source, plus DOI links to publications that use or reference the cell.</p><p>The repository also contains <code>batterygraph</code>, a Python package that loads the profiles into an RDF graph and answers questions about the cells with LLM-generated graph queries (GraphRAG), and a 300-question benchmark with recorded results for three models.</p>",
+  "creators": [
+    {
+      "name": "Dechent, Philipp",
+      "affiliation": "Department of Engineering Science, University of Oxford",
+      "orcid": "0000-0003-3041-1436"
+    },
+    {
+      "name": "Barbers, Elias",
+      "affiliation": "Helmholtz Institute Münster (IMD-4), Forschungszentrum Jülich",
+      "orcid": "0000-0002-5836-2210"
+    },
+    {
+      "name": "Clark, Simon",
+      "affiliation": "Battery Technology, SINTEF Industry"
+    },
+    {
+      "name": "Paarmann, Sabine",
+      "affiliation": "ISEA / CARL, RWTH Aachen University",
+      "orcid": "0000-0003-1629-6830"
+    }
+  ],
+  "license": "bsd-3-clause",
+  "access_right": "open",
+  "keywords": [
+    "battery",
+    "lithium-ion battery",
+    "battery cell specifications",
+    "linked data",
+    "JSON-LD",
+    "EMMO",
+    "BattINFO",
+    "knowledge graph",
+    "retrieval-augmented generation"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2410.23303",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://github.com/phdechent/CellInfoRepository",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "language": "eng"
+}

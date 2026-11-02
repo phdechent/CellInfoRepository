@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the article below and the archived version of the repository."
+title: "Cell Info Repository: battery-cell specifications as linked data (EMMO / JSON-LD) with a GraphRAG workflow"
+type: dataset
+authors:
+  - family-names: Dechent
+    given-names: Philipp
+    orcid: "https://orcid.org/0000-0003-3041-1436"
+    affiliation: "Department of Engineering Science, University of Oxford"
+  - family-names: Barbers
+    given-names: Elias
+    orcid: "https://orcid.org/0000-0002-5836-2210"
+    affiliation: "Helmholtz Institute Münster (IMD-4), Forschungszentrum Jülich"
+  - family-names: Clark
+    given-names: Simon
+    affiliation: "Battery Technology, SINTEF Industry"
+  - family-names: Paarmann
+    given-names: Sabine
+    orcid: "https://orcid.org/0000-0003-1629-6830"
+    affiliation: "ISEA / CARL, RWTH Aachen University"
+repository-code: "https://github.com/phdechent/CellInfoRepository"
+license: BSD-3-Clause
+keywords:
+  - battery
+  - battery cell specifications
+  - linked data
+  - JSON-LD
+  - EMMO
+  - BattINFO
+  - knowledge graph
+  - retrieval-augmented generation
+preferred-citation:
+  type: article
+  title: "Demonstrating Linked Battery Data To Accelerate Knowledge Flow in Battery Science"
+  authors:
+    - family-names: Dechent
+      given-names: Philipp
+    - family-names: Barbers
+      given-names: Elias
+    - family-names: Clark
+      given-names: Simon
+    - family-names: Lehner
+      given-names: Susanne
+    - family-names: Planden
+      given-names: Brady
+    - family-names: Adachi
+      given-names: Masaki
+    - family-names: Sauer
+      given-names: Dirk Uwe
+    - family-names: Howey
+      given-names: David A.
+    - family-names: Paarmann
+      given-names: Sabine
+  year: 2024
+  identifiers:
+    - type: other
+      value: "arXiv:2410.23303"
+      description: arXiv preprint
+  url: "https://arxiv.org/abs/2410.23303"
