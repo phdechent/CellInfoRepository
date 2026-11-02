@@ -1,0 +1,4 @@
+Configuration,not correct,query_failed,nothing_retrieved,other_data,answer_step,reference_mismatch
+gemini-3.8-flash_rag,0,0,0,0,0,0
+claude-sonnet-5-5_rag,0,0,0,0,0,0
+gpt-6.1-sol_rag,1,0,0,0,1,0

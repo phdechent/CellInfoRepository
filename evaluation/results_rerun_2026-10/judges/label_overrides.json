@@ -1,0 +1,6 @@
+{
+ "78:e2a15105ff": {"label": 0, "reason": "asked which battery has the higher capacity; the answer gives a value but names no cell"},
+ "12:71f8e7976e": {"label": 1, "reason": "“None” for the diameter of a prismatic cell says that there is no value"},
+ "116:4e4f643f7c": {"label": 0, "reason": "asked for a current; “0.2 C” does not give the current (0.84 A)"},
+ "277:0c5dd0e1ad": {"label": "ambiguous", "reason": "says the cell has no diameter, but goes on to consider 0 mm or 19.5 mm"}
+}

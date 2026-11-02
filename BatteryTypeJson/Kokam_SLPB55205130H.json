@@ -163,7 +163,7 @@
         },
         {
             "@type": [
-                "Height",
+                "Thickness",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {
@@ -191,7 +191,7 @@
         },
         {
             "@type": [
-                "Length",
+                "Height",
                 "ConventionalProperty"
             ],
             "hasNumericalPart": {

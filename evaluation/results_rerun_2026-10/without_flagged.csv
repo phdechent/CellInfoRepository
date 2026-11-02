@@ -1,0 +1,8 @@
+Configuration,questions,correct,I don't know,wrong,accuracy,hallucination robustness
+gemini-3.8-flash_rag,294,294,0,0,1.000,
+claude-sonnet-5-5_rag,294,294,0,0,1.000,
+gpt-6.1-sol_rag,294,293,0,1,0.997,0.00
+gemini-3.8-flash_llm_only,289,134,0,155,0.464,0.00
+claude-sonnet-5-5_llm_only,289,98,14,177,0.339,0.07
+claude-opus-5-5_llm_only,289,139,4,146,0.481,0.03
+gpt-6.1-sol_llm_only,289,141,0,148,0.488,0.00

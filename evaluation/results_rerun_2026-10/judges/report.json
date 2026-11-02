@@ -1,0 +1,223 @@
+[
+ {
+  "judge": "claude-haiku-5-5__published",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.8543,
+  "false_accept": 20,
+  "false_reject": 84,
+  "unclear": 12,
+  "ambiguous_as_1/0": "4/14",
+  "cost_usd": 0.018,
+  "errors_by_category": {
+   "Negative control": {
+    "false_reject": 50,
+    "false_accept": 3
+   },
+   "Comparison of two cells": {
+    "false_reject": 21,
+    "false_accept": 1
+   },
+   "Case and chemistry": {
+    "false_accept": 4,
+    "false_reject": 2
+   },
+   "Single-property lookup": {
+    "false_reject": 5,
+    "false_accept": 11
+   },
+   "Derived value": {
+    "false_reject": 6
+   },
+   "Multi-property summary": {
+    "false_accept": 1
+   }
+  }
+ },
+ {
+  "judge": "claude-haiku-5-5__with_question",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.9748,
+  "false_accept": 1,
+  "false_reject": 17,
+  "unclear": 0,
+  "ambiguous_as_1/0": "3/15",
+  "cost_usd": 0.035,
+  "errors_by_category": {
+   "Comparison of two cells": {
+    "false_reject": 16,
+    "false_accept": 1
+   },
+   "Single-property lookup": {
+    "false_reject": 1
+   }
+  }
+ },
+ {
+  "judge": "claude-opus-5-5__published",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.9244,
+  "false_accept": 8,
+  "false_reject": 46,
+  "unclear": 0,
+  "ambiguous_as_1/0": "2/16",
+  "cost_usd": 0.696,
+  "errors_by_category": {
+   "Negative control": {
+    "false_reject": 41,
+    "false_accept": 2
+   },
+   "Single-property lookup": {
+    "false_accept": 5
+   },
+   "Comparison of two cells": {
+    "false_accept": 1
+   },
+   "Case and chemistry": {
+    "false_reject": 5
+   }
+  }
+ },
+ {
+  "judge": "claude-opus-5-5__with_question",
+  "items": 732,
+  "scored": 714,
+  "agree": 1.0,
+  "false_accept": 0,
+  "false_reject": 0,
+  "unclear": 0,
+  "ambiguous_as_1/0": "3/15",
+  "cost_usd": 1.345,
+  "errors_by_category": {}
+ },
+ {
+  "judge": "claude-sonnet-5-5__published",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.8866,
+  "false_accept": 3,
+  "false_reject": 78,
+  "unclear": 0,
+  "ambiguous_as_1/0": "4/14",
+  "cost_usd": 0.458,
+  "errors_by_category": {
+   "Negative control": {
+    "false_reject": 70
+   },
+   "Single-property lookup": {
+    "false_accept": 2
+   },
+   "Comparison of two cells": {
+    "false_reject": 2,
+    "false_accept": 1
+   },
+   "Case and chemistry": {
+    "false_reject": 6
+   }
+  }
+ },
+ {
+  "judge": "claude-sonnet-5-5__with_question",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.9972,
+  "false_accept": 2,
+  "false_reject": 0,
+  "unclear": 0,
+  "ambiguous_as_1/0": "3/15",
+  "cost_usd": 0.682,
+  "errors_by_category": {
+   "Comparison of two cells": {
+    "false_accept": 1
+   },
+   "Single-property lookup": {
+    "false_accept": 1
+   }
+  }
+ },
+ {
+  "judge": "gemini-3.8-flash__published",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.979,
+  "false_accept": 1,
+  "false_reject": 14,
+  "unclear": 0,
+  "ambiguous_as_1/0": "3/15",
+  "cost_usd": 0.264,
+  "errors_by_category": {
+   "Single-property lookup": {
+    "false_reject": 3
+   },
+   "Negative control": {
+    "false_reject": 1
+   },
+   "Case and chemistry": {
+    "false_reject": 10
+   },
+   "Comparison of two cells": {
+    "false_accept": 1
+   }
+  }
+ },
+ {
+  "judge": "gemini-3.8-flash__with_question",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.9986,
+  "false_accept": 1,
+  "false_reject": 0,
+  "unclear": 0,
+  "ambiguous_as_1/0": "3/15",
+  "cost_usd": 0.312,
+  "errors_by_category": {
+   "Single-property lookup": {
+    "false_accept": 1
+   }
+  }
+ },
+ {
+  "judge": "gpt-6.1-sol__published",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.9776,
+  "false_accept": 9,
+  "false_reject": 7,
+  "unclear": 0,
+  "ambiguous_as_1/0": "5/13",
+  "cost_usd": 0.257,
+  "errors_by_category": {
+   "Negative control": {
+    "false_accept": 6
+   },
+   "Single-property lookup": {
+    "false_accept": 2,
+    "false_reject": 1
+   },
+   "Comparison of two cells": {
+    "false_accept": 1
+   },
+   "Case and chemistry": {
+    "false_reject": 6
+   }
+  }
+ },
+ {
+  "judge": "gpt-6.1-sol__with_question",
+  "items": 732,
+  "scored": 714,
+  "agree": 0.9986,
+  "false_accept": 1,
+  "false_reject": 0,
+  "unclear": 0,
+  "ambiguous_as_1/0": "3/15",
+  "cost_usd": 0.615,
+  "errors_by_category": {
+   "Single-property lookup": {
+    "false_accept": 1
+   }
+  }
+ }
+]

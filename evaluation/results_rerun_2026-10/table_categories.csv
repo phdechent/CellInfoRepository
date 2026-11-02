@@ -1,0 +1,11 @@
+Category,n,gemini-3.8-flash_rag,claude-sonnet-5-5_rag,gpt-6.1-sol_rag,gemini-3.8-flash_llm_only,claude-sonnet-5-5_llm_only,claude-opus-5-5_llm_only,gpt-6.1-sol_llm_only
+Single-property lookup,130,100%,100%,100%,42%,35%,42%,41%
+Multi-property summary,30,100%,100%,100%,40%,30%,37%,27%
+Comparison of two cells,35,100%,100%,97%,89%,46%,54%,89%
+Case and chemistry,45,100%,100%,100%,49%,36%,51%,44%
+Derived value,30,100%,100%,100%,37%,27%,37%,37%
+Negative control,30,100%,100%,100%,23%,23%,73%,73%
+All questions: correct,300,300 (100%),300 (100%),299 (100%),138 (46%),102 (34%),141 (47%),145 (48%)
+All questions: “I don’t know”,,0,0,0,0,14,4,0
+All questions: wrong answer,,0,0,1,162,184,155,155
+Hallucination robustness,,,,0.00,0.00,0.07,0.03,0.00

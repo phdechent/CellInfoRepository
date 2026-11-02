@@ -365,15 +365,19 @@ class BatteryGraph:
         if not cells:
             return [{"cell": cell_name, "note": "cell not found in the knowledge graph"}]
         q_case = self.ctx.format_query("SELECT ?t WHERE { ?cell {hasCase} ?c . ?c a ?t }")
+        # a material without a specific class is recorded by name (e.g. "... and ..." for two possible materials)
         q_mat = self.ctx.format_query(
-            "SELECT ?t WHERE { ?cell {hasPositiveElectrode}/{hasActiveMaterial} ?m . ?m a ?t }"
+            "PREFIX schema: <https://schema.org/> SELECT ?t ?name WHERE { "
+            "?cell {hasPositiveElectrode}/{hasActiveMaterial} ?m . ?m a ?t . OPTIONAL { ?m schema:name ?name } }"
         )
         q_pubs = "PREFIX schema: <https://schema.org/> SELECT (COUNT(DISTINCT ?p) AS ?n) WHERE { ?cell schema:subjectOf ?p }"
         info = []
         for cell in cells[:5]:
             b = {"cell": rdflib.URIRef(cell.iri)}
             cases = sorted({self.ctx.label(r.t) for r in self.graph.query(q_case, initBindings=b)})
-            mats = sorted({self.ctx.label(r.t) for r in self.graph.query(q_mat, initBindings=b)} - _UNINFORMATIVE_TYPES)
+            rows = list(self.graph.query(q_mat, initBindings=b))
+            mats = sorted({self.ctx.label(r.t) for r in rows} - _UNINFORMATIVE_TYPES
+                          | {str(r.name) for r in rows if r.name is not None and self.ctx.label(r.t) == "ActiveMaterial"})
             n_pubs = int(next(iter(self.graph.query(q_pubs, initBindings=b))).n)
             info.append({
                 "cell": cell.full_name,

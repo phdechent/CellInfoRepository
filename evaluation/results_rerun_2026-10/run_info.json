@@ -1,0 +1,413 @@
+{
+ "started": "2026-10-26T18:42:13+00:00",
+ "configs": [
+  {
+   "name": "gemini-3.8-flash_rag",
+   "model": "gemini-3.8-flash",
+   "rag": true
+  },
+  {
+   "name": "claude-sonnet-5-5_rag",
+   "model": "claude-sonnet-5-5",
+   "rag": true
+  },
+  {
+   "name": "gpt-6.1-sol_rag",
+   "model": "gpt-6.1-sol",
+   "rag": true
+  },
+  {
+   "name": "gemini-3.8-flash_llm_only",
+   "model": "gemini-3.8-flash",
+   "rag": false
+  },
+  {
+   "name": "claude-sonnet-5-5_llm_only",
+   "model": "claude-sonnet-5-5",
+   "rag": false
+  },
+  {
+   "name": "claude-opus-5-5_llm_only",
+   "model": "claude-opus-5-5",
+   "rag": false
+  },
+  {
+   "name": "gpt-6.1-sol_llm_only",
+   "model": "gpt-6.1-sol",
+   "rag": false
+  }
+ ],
+ "judge": "claude-opus-5-5",
+ "grader_prompt": "with_question",
+ "effort": "low",
+ "caps_usd": {
+  "openai": 3.6,
+  "gemini": 8.0,
+  "anthropic": 16.6
+ },
+ "prices_usd_per_mtok": {
+  "claude-sonnet-5-5": [
+   2.0,
+   0.2,
+   10.0
+  ],
+  "claude-haiku-5-5": [
+   0.1,
+   0.01,
+   0.5
+  ],
+  "claude-opus-5-5": [
+   4.0,
+   0.4,
+   20.0
+  ],
+  "gemini-3.8-flash": [
+   0.94,
+   0.94,
+   4.69
+  ],
+  "openai-default": [
+   2.5,
+   0.25,
+   12.5
+  ]
+ },
+ "questions": "evaluation/qa_dataset_v2.csv",
+ "questions_sha256": "3fa7af6affdfdf0eed5f5a7ee04e005f648dd4e29d107ed7e3ff2c7dd4320524",
+ "cells": 382,
+ "earlier_invocations": [
+  {
+   "started": "2026-10-26T11:21:52+00:00",
+   "configs": [
+    {
+     "name": "gemini-3.8-flash_rag",
+     "model": "gemini-3.8-flash",
+     "rag": true
+    },
+    {
+     "name": "claude-sonnet-5-5_rag",
+     "model": "claude-sonnet-5-5",
+     "rag": true
+    },
+    {
+     "name": "gpt-6.1-sol_rag",
+     "model": "gpt-6.1-sol",
+     "rag": true
+    },
+    {
+     "name": "gemini-3.8-flash_llm_only",
+     "model": "gemini-3.8-flash",
+     "rag": false
+    }
+   ],
+   "judge": "claude-haiku-5-5",
+   "effort": "low",
+   "caps_usd": {
+    "openai": 3.0,
+    "gemini": 8.0,
+    "anthropic": 14.0
+   },
+   "prices_usd_per_mtok": {
+    "claude-sonnet-5-5": [
+     2.0,
+     0.2,
+     10.0
+    ],
+    "claude-haiku-5-5": [
+     0.1,
+     0.01,
+     0.5
+    ],
+    "gemini-3.8-flash": [
+     0.94,
+     0.94,
+     4.69
+    ],
+    "openai-default": [
+     2.5,
+     0.25,
+     12.5
+    ]
+   },
+   "questions": "evaluation/qa_dataset.csv",
+   "questions_sha256": "a8a1a468a4a25fccb0aedaad0ed3f42c6303fa37ccfea2c83f3e0c5d8844e67c",
+   "cells": 382
+  },
+  {
+   "started": "2026-10-26T11:25:53+00:00",
+   "configs": [
+    {
+     "name": "gemini-3.8-flash_rag",
+     "model": "gemini-3.8-flash",
+     "rag": true
+    },
+    {
+     "name": "claude-sonnet-5-5_rag",
+     "model": "claude-sonnet-5-5",
+     "rag": true
+    },
+    {
+     "name": "gpt-6.1-sol_rag",
+     "model": "gpt-6.1-sol",
+     "rag": true
+    },
+    {
+     "name": "gemini-3.8-flash_llm_only",
+     "model": "gemini-3.8-flash",
+     "rag": false
+    }
+   ],
+   "judge": "claude-sonnet-5-5",
+   "effort": "low",
+   "caps_usd": {
+    "openai": 3.0,
+    "gemini": 8.0,
+    "anthropic": 14.0
+   },
+   "prices_usd_per_mtok": {
+    "claude-sonnet-5-5": [
+     2.0,
+     0.2,
+     10.0
+    ],
+    "claude-haiku-5-5": [
+     0.1,
+     0.01,
+     0.5
+    ],
+    "gemini-3.8-flash": [
+     0.94,
+     0.94,
+     4.69
+    ],
+    "openai-default": [
+     2.5,
+     0.25,
+     12.5
+    ]
+   },
+   "questions": "evaluation/qa_dataset.csv",
+   "questions_sha256": "a8a1a468a4a25fccb0aedaad0ed3f42c6303fa37ccfea2c83f3e0c5d8844e67c",
+   "cells": 382
+  },
+  {
+   "started": "2026-10-26T12:13:35+00:00",
+   "configs": [
+    {
+     "name": "gemini-3.8-flash_rag",
+     "model": "gemini-3.8-flash",
+     "rag": true
+    },
+    {
+     "name": "claude-sonnet-5-5_rag",
+     "model": "claude-sonnet-5-5",
+     "rag": true
+    },
+    {
+     "name": "gpt-6.1-sol_rag",
+     "model": "gpt-6.1-sol",
+     "rag": true
+    },
+    {
+     "name": "gemini-3.8-flash_llm_only",
+     "model": "gemini-3.8-flash",
+     "rag": false
+    }
+   ],
+   "judge": "claude-opus-5-5",
+   "grader_prompt": "with_question",
+   "effort": "low",
+   "caps_usd": {
+    "openai": 3.0,
+    "gemini": 8.0,
+    "anthropic": 14.0
+   },
+   "prices_usd_per_mtok": {
+    "claude-sonnet-5-5": [
+     2.0,
+     0.2,
+     10.0
+    ],
+    "claude-haiku-5-5": [
+     0.1,
+     0.01,
+     0.5
+    ],
+    "claude-opus-5-5": [
+     4.0,
+     0.4,
+     20.0
+    ],
+    "gemini-3.8-flash": [
+     0.94,
+     0.94,
+     4.69
+    ],
+    "openai-default": [
+     2.5,
+     0.25,
+     12.5
+    ]
+   },
+   "questions": "evaluation/qa_dataset.csv",
+   "questions_sha256": "a8a1a468a4a25fccb0aedaad0ed3f42c6303fa37ccfea2c83f3e0c5d8844e67c",
+   "cells": 382
+  },
+  {
+   "started": "2026-10-26T12:18:41+00:00",
+   "configs": [
+    {
+     "name": "gemini-3.8-flash_rag",
+     "model": "gemini-3.8-flash",
+     "rag": true
+    },
+    {
+     "name": "claude-sonnet-5-5_rag",
+     "model": "claude-sonnet-5-5",
+     "rag": true
+    },
+    {
+     "name": "gpt-6.1-sol_rag",
+     "model": "gpt-6.1-sol",
+     "rag": true
+    },
+    {
+     "name": "gemini-3.8-flash_llm_only",
+     "model": "gemini-3.8-flash",
+     "rag": false
+    },
+    {
+     "name": "claude-sonnet-5-5_llm_only",
+     "model": "claude-sonnet-5-5",
+     "rag": false
+    },
+    {
+     "name": "claude-opus-5-5_llm_only",
+     "model": "claude-opus-5-5",
+     "rag": false
+    },
+    {
+     "name": "gpt-6.1-sol_llm_only",
+     "model": "gpt-6.1-sol",
+     "rag": false
+    }
+   ],
+   "judge": "claude-opus-5-5",
+   "grader_prompt": "with_question",
+   "effort": "low",
+   "caps_usd": {
+    "openai": 3.6,
+    "gemini": 8.0,
+    "anthropic": 15.5
+   },
+   "prices_usd_per_mtok": {
+    "claude-sonnet-5-5": [
+     2.0,
+     0.2,
+     10.0
+    ],
+    "claude-haiku-5-5": [
+     0.1,
+     0.01,
+     0.5
+    ],
+    "claude-opus-5-5": [
+     4.0,
+     0.4,
+     20.0
+    ],
+    "gemini-3.8-flash": [
+     0.94,
+     0.94,
+     4.69
+    ],
+    "openai-default": [
+     2.5,
+     0.25,
+     12.5
+    ]
+   },
+   "questions": "evaluation/qa_dataset.csv",
+   "questions_sha256": "a8a1a468a4a25fccb0aedaad0ed3f42c6303fa37ccfea2c83f3e0c5d8844e67c",
+   "cells": 382
+  },
+  {
+   "started": "2026-10-26T12:35:19+00:00",
+   "configs": [
+    {
+     "name": "gemini-3.8-flash_rag",
+     "model": "gemini-3.8-flash",
+     "rag": true
+    },
+    {
+     "name": "claude-sonnet-5-5_rag",
+     "model": "claude-sonnet-5-5",
+     "rag": true
+    },
+    {
+     "name": "gpt-6.1-sol_rag",
+     "model": "gpt-6.1-sol",
+     "rag": true
+    },
+    {
+     "name": "gemini-3.8-flash_llm_only",
+     "model": "gemini-3.8-flash",
+     "rag": false
+    },
+    {
+     "name": "claude-sonnet-5-5_llm_only",
+     "model": "claude-sonnet-5-5",
+     "rag": false
+    },
+    {
+     "name": "claude-opus-5-5_llm_only",
+     "model": "claude-opus-5-5",
+     "rag": false
+    },
+    {
+     "name": "gpt-6.1-sol_llm_only",
+     "model": "gpt-6.1-sol",
+     "rag": false
+    }
+   ],
+   "judge": "claude-opus-5-5",
+   "grader_prompt": "with_question",
+   "effort": "low",
+   "caps_usd": {
+    "openai": 3.6,
+    "gemini": 8.0,
+    "anthropic": 16.0
+   },
+   "prices_usd_per_mtok": {
+    "claude-sonnet-5-5": [
+     2.0,
+     0.2,
+     10.0
+    ],
+    "claude-haiku-5-5": [
+     0.1,
+     0.01,
+     0.5
+    ],
+    "claude-opus-5-5": [
+     4.0,
+     0.4,
+     20.0
+    ],
+    "gemini-3.8-flash": [
+     0.94,
+     0.94,
+     4.69
+    ],
+    "openai-default": [
+     2.5,
+     0.25,
+     12.5
+    ]
+   },
+   "questions": "evaluation/qa_dataset.csv",
+   "questions_sha256": "a8a1a468a4a25fccb0aedaad0ed3f42c6303fa37ccfea2c83f3e0c5d8844e67c",
+   "cells": 382
+  }
+ ]
+}

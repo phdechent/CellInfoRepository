@@ -1,0 +1,8 @@
+{
+ "25": "Single-property lookup: cell not found under this name in the current data",
+ "30": "Comparison of two cells: reference 'Headway Group HW40152S (15 Ah vs 4.1 Ah)' not in the current data",
+ "113": "Multi-property summary: cell not found under this name in the current data",
+ "139": "Comparison of two cells: reference 'Kokam SLPB70205130P (12 Ah vs 6 Ah)' not in the current data",
+ "197": "Case and chemistry: reference 'LithiumCobaltOxide' not in the current data",
+ "291": "Case and chemistry: cell not found under this name in the current data"
+}
