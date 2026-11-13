@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the article below and the archived version of the repository."
 title: "Cell Info Repository: battery-cell specifications as linked data (EMMO / JSON-LD) with a GraphRAG workflow"
 type: dataset
+version: "2.1.0"
 authors:
   - family-names: Dechent
     given-names: Philipp
@@ -13,11 +14,12 @@ authors:
     affiliation: "Helmholtz Institute Münster (IMD-4), Forschungszentrum Jülich"
   - family-names: Clark
     given-names: Simon
+    orcid: "https://orcid.org/0000-0002-8758-6109"
     affiliation: "Battery Technology, SINTEF Industry"
   - family-names: Paarmann
     given-names: Sabine
     orcid: "https://orcid.org/0000-0003-1629-6830"
-    affiliation: "ISEA / CARL, RWTH Aachen University"
+    affiliation: "Department of Mechanical Engineering, Imperial College London; ISEA / CARL, RWTH Aachen University"
 repository-code: "https://github.com/phdechent/CellInfoRepository"
 license: BSD-3-Clause
 keywords:
@@ -31,7 +33,7 @@ keywords:
   - retrieval-augmented generation
 preferred-citation:
   type: article
-  title: "Demonstrating Linked Battery Data To Accelerate Knowledge Flow in Battery Science"
+  title: "Demonstrating Linked Battery Data to Accelerate Knowledge Flow in Battery Science"
   authors:
     - family-names: Dechent
       given-names: Philipp
@@ -51,9 +53,13 @@ preferred-citation:
       given-names: David A.
     - family-names: Paarmann
       given-names: Sabine
-  year: 2024
+  journal: "Electrochimica Acta"
+  year: 2026
+  month: 11
+  start: 150404
+  doi: "10.1016/j.electacta.2026.150404"
+  url: "https://www.sciencedirect.com/science/article/pii/S001346862602284X"
   identifiers:
-    - type: other
-      value: "arXiv:2410.23303"
-      description: arXiv preprint
-  url: "https://arxiv.org/abs/2410.23303"
+    - type: url
+      value: "https://arxiv.org/abs/2410.23303"
+      description: "Preprint, arXiv:2410.23303"

@@ -1,45 +1,26 @@
 # Cell Info Repository
 
-Battery-cell specifications as structured, semantic, linked data, and a GraphRAG workflow that answers questions about the cells from the knowledge graph instead of from an LLM's memory.
+This repository contains battery-cell specifications as linked data and a GraphRAG workflow. The workflow answers questions about the cells from the knowledge graph. The repository supports the article [Demonstrating Linked Battery Data to Accelerate Knowledge Flow in Battery Science](https://doi.org/10.1016/j.electacta.2026.150404).
 
-* **382 cell profiles** (JSON-LD) in [`BatteryTypeJson/`](BatteryTypeJson/), typed with the [EMMO battery domain ontology](https://w3id.org/emmo/domain/battery/context): rated capacity, voltages, currents, cycle life, mass, dimensions, case and cathode chemistry, plus DOI links to publications that use or reference each cell.
-* **`batterygraph`**, a small Python package that loads the profiles into an RDF graph (RDFLib), provides query helpers, and runs the GraphRAG workflow with OpenAI, Anthropic, Google Gemini or local Ollama models.
-* **Evaluation**: a 300-question benchmark with recorded results for three models with GraphRAG and one LLM-only baseline.
-
-## Repository layout
+## Contents
 
 ```
-BatteryTypeJson/            382 cell profiles (JSON-LD)
-batterygraph/
-    graph.py                load the graph, EMMO term <-> IRI mapping, query helpers
-    llm.py                  one interface for OpenAI, Anthropic, Gemini and Ollama
-    prompts.py              query-generation, answer and grading prompts
-    rag.py                  GraphRAG: question -> helper calls / SPARQL -> answer
-    evaluate.py             grading, "identifiably wrong" check, summary, figures
-notebooks/
-    KnowledgeGraphDemo.ipynb    SPARQL and helper-function examples
-    GraphRAG.ipynb              ask questions, small evaluation, recorded figures
-scripts/
-    run_eval.py             run the benchmark for a model (with or without RAG)
-    make_figures.py         recreate figures and summary from recorded results
-    generate_qa_dataset.py  generate a Q&A benchmark from the profiles
-evaluation/
-    qa_dataset.csv          the 300 questions and reference answers
-    results/                recorded answers and grades, summary.csv
-    figures/                RAG_Accuracy.svg, RAG_HallucinationRobustness.svg
+BatteryTypeJson/    382 cell profiles (JSON-LD, EMMO battery ontology): properties with
+                    their sources, case, cathode chemistry, DOIs of linked publications
+batterygraph/       Python package: RDF graph, helper functions, GraphRAG
+notebooks/          examples for SPARQL, the helper functions and GraphRAG
+scripts/            question generation, evaluation, tables and figures
+evaluation/         questions, reference answers and results
+llm-wiki-2025-oa/   agentic literature review of 2025 open-access papers
 ```
 
 ## Installation
 
 ```sh
-pip install -r requirements.txt      # or: pip install -e ".[all]"
+pip install -r requirements.txt
 ```
 
-Only the packages for the LLM providers you use are needed. The knowledge graph itself needs `rdflib`, `requests` and `pandas`.
-
-**API keys.** Copy `.env.example` to `.env` and fill in the keys you need (`OPENAI_API_KEY`, `ANTHROPIC_API_KEY`, `GEMINI_API_KEY`). `.env` is git-ignored. Local models via [Ollama](https://ollama.com) need no key.
-
-**Offline use.** The profiles reference the context `https://w3id.org/emmo/domain/battery/context`, which is downloaded once when the graph loads. To work offline, save [context.json](https://raw.githubusercontent.com/emmo-repo/domain-battery/master/context/context.json) and set `BATTERYGRAPH_CONTEXT=/path/to/context.json`.
+Copy `.env.example` to `.env` and write your API keys into it. Local models through [Ollama](https://ollama.com) need no key.
 
 ## Quick start
 
@@ -50,63 +31,41 @@ bg = BatteryGraph("BatteryTypeJson")
 bg.query_cell_property("INR21700-50E", "RatedCapacity", manufacturer="Samsung SDI")
 # [{'cell': 'Samsung SDI INR21700-50E', 'property': 'RatedCapacity', 'value': 4.9, 'unit': 'Ah'}]
 
-bg.get_cell_info("LF280K")      # manufacturer, case, cathode material, linked publications
-
-# SPARQL with readable EMMO terms in {braces}
-bg.sparql("""
-SELECT (COUNT(DISTINCT ?cell) AS ?n) WHERE {
-    ?cell {hasPositiveElectrode}/{hasActiveMaterial} ?m . ?m a {LFP} .
-}""")
-
 rag = GraphRAG(bg, model="claude-sonnet-5")
 rag.answer("Which battery has a higher rated capacity: the Saft VL 5U or the Lishen LR2170SA?")
 ```
 
-## How GraphRAG works
-
-1. The LLM receives the question, the graph structure, the property names and the manufacturer list, and writes calls to three helper functions (`query_cell_property`, `get_all_cell_properties`, `get_cell_info`) or, for questions across many cells, a SPARQL query with `{Term}` placeholders.
-2. The output is run against the graph. Helper calls are parsed, not evaluated: only these three functions with literal arguments are executed, and SPARQL must be read-only (`SELECT`/`ASK`).
-3. The LLM answers from the query result only. If the graph has no data, the answer should say so rather than guess.
-
 ## Evaluation
 
-The benchmark (`evaluation/qa_dataset.csv`) covers single-property lookups, multi-property summaries, comparisons, case and chemistry questions, derived values (Wh, mAh) and negative controls (made-up cells, missing specifications). Each answer was graded against the reference answer by the answering model itself; whether an incorrect answer admits missing data was judged by `gemini-3.5-flash` for all runs (a few unparseable grades were also re-graded by `gemini-3.5-flash`).
+`evaluation/qa_dataset_v2.csv` contains 300 questions with reference answers. Three LLMs answered them with GraphRAG and four LLMs without it. One judge (`claude-opus-5-5`) graded all answers. `evaluation/results_rerun_2026-10/` contains a record of each step.
 
-| Model | Mode | Accuracy | Hallucination robustness |
-|---|---|---|---|
-| gemini-3.5-flash | GraphRAG | 0.81 | 0.66 |
-| claude-sonnet-5 | GraphRAG | 0.79 | 0.24 |
-| gpt-5.4 | GraphRAG | 0.76 | 0.54 |
-| gemini-3.5-flash | LLM only | 0.42 | 0.01 |
+Correct answers of 300, as in the article:
 
-*Accuracy* = correct answers / all questions. *Hallucination robustness* = answers that admit missing data ("I don't know") / incorrect answers.
+| Model | GraphRAG | LLM only |
+|---|---|---|
+| gemini-3.8-flash | 300 | 138 |
+| claude-sonnet-5-5 | 300 | 102 |
+| gpt-6.1-sol | 299 | 145 |
+| claude-opus-5-5 | – | 141 |
 
-Recreate the figures and `summary.csv` from the recorded results (no model calls):
-
-```sh
-python scripts/make_figures.py
-```
-
-Run the benchmark yourself:
+To run the evaluation again with the same settings:
 
 ```sh
-python scripts/run_eval.py --check gemini-3.5-flash         # test API access
-python scripts/run_eval.py --model claude-sonnet-5          # GraphRAG
-python scripts/run_eval.py --model gemini-3.5-flash --no-rag   # LLM-only baseline
+python scripts/rerun_eval_logged.py --out evaluation/new_run \
+    --rag gemini-3.8-flash claude-sonnet-5-5 gpt-6.1-sol \
+    --no-rag gemini-3.8-flash claude-sonnet-5-5 claude-opus-5-5 gpt-6.1-sol \
+    --judge claude-opus-5-5 --grader-prompt with_question \
+    --caps openai=3.6 gemini=8.0 anthropic=16.6
+python scripts/analyze_rerun.py evaluation/new_run
 ```
 
-The recorded results were produced with an earlier version of the profiles and of the query prompt. A new run on the current data and code will give somewhat different numbers.
+`evaluation/results/` contains the results of an earlier evaluation (`scripts/run_eval.py`).
 
-## Data
+## How to cite
 
-Each file in `BatteryTypeJson/` describes one cell as JSON-LD with the [EMMO battery domain context](https://w3id.org/emmo/domain/battery/context):
+Cite the article and the archived version of this repository on Zenodo. [CITATION.cff](CITATION.cff) contains the citation data.
 
-* `@type` `BatteryCell`, `schema:name` (model) and `schema:manufacturer` (with a Wikidata link where known)
-* `hasProperty`: numerical properties such as `RatedCapacity`, `NominalVoltage`, `CycleLife` or `Mass`, each with its value, unit (where applicable) and a `schema:citation` of its source
-* `hasCase`: case / form factor (e.g. `PrismaticCase`, `R21700`); `hasPositiveElectrode`/`hasActiveMaterial`: cathode chemistry
-* `schema:subjectOf`: publications that mention the cell, identified by DOI only (3,930 links to 3,406 papers for 176 cells). `schema:additionalType` holds this project's classification of each link: `USED`, `REFERENCED` or `UNCLEAR` (154 links are unlabelled).
-
-**Identifiers.** 358 cells have a persistent battinfo IRI (`https://w3id.org/battinfo/spec/…`) as `@id`. The other 24 are not yet registered there and carry a local UID, which JSON-LD resolves against the document URL.
+> P. Dechent, E. Barbers, S. Clark, S. Lehner, B. Planden, M. Adachi, D. U. Sauer, D. A. Howey, S. Paarmann: Demonstrating Linked Battery Data to Accelerate Knowledge Flow in Battery Science. Electrochimica Acta (2026) 150404. [doi:10.1016/j.electacta.2026.150404](https://doi.org/10.1016/j.electacta.2026.150404)
 
 ## License
 

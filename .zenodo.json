@@ -1,7 +1,8 @@
 {
   "title": "Cell Info Repository: battery-cell specifications as linked data (EMMO / JSON-LD) with a GraphRAG workflow",
+  "version": "2.1.0",
   "upload_type": "dataset",
-  "description": "<p>Specifications of 382 battery cells as linked data. Each cell is a JSON-LD profile typed with the EMMO battery domain ontology (https://w3id.org/emmo/domain/battery/context): rated capacity, voltage limits, currents, cycle life, mass, dimensions, case and cathode chemistry, each value with a citation of its source, plus DOI links to publications that use or reference the cell.</p><p>The repository also contains <code>batterygraph</code>, a Python package that loads the profiles into an RDF graph and answers questions about the cells with LLM-generated graph queries (GraphRAG), and a 300-question benchmark with recorded results for three models.</p>",
+  "description": "<p>This dataset contains the specifications of 382 battery cells as linked data. Each cell is a JSON-LD profile with the EMMO battery domain ontology (https://w3id.org/emmo/domain/battery/context). A profile gives rated capacity, voltage limits, currents, cycle life, mass, dimensions, case and cathode chemistry. Each value has a citation of its source. A profile also gives the DOIs of publications that use or mention the cell.</p><p>The repository also contains:</p><ul><li><code>batterygraph</code>: a Python package. It loads the profiles into an RDF graph. It answers questions about the cells with graph queries that an LLM writes (GraphRAG).</li><li>300 questions with reference answers, the results of an earlier evaluation and a logged evaluation of current LLMs with and without the knowledge graph.</li><li>An agentic literature review of 2025 gold and diamond open-access papers (LLM wiki).</li></ul>",
   "creators": [
     {
       "name": "Dechent, Philipp",
@@ -15,11 +16,12 @@
     },
     {
       "name": "Clark, Simon",
-      "affiliation": "Battery Technology, SINTEF Industry"
+      "affiliation": "Battery Technology, SINTEF Industry",
+      "orcid": "0000-0002-8758-6109"
     },
     {
       "name": "Paarmann, Sabine",
-      "affiliation": "ISEA / CARL, RWTH Aachen University",
+      "affiliation": "Department of Mechanical Engineering, Imperial College London; ISEA / CARL, RWTH Aachen University",
       "orcid": "0000-0003-1629-6830"
     }
   ],
@@ -38,6 +40,11 @@
   ],
   "related_identifiers": [
     {
+      "identifier": "10.1016/j.electacta.2026.150404",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    },
+    {
       "identifier": "arXiv:2410.23303",
       "relation": "isSupplementTo",
       "resource_type": "publication-preprint"
@@ -46,6 +53,11 @@
       "identifier": "https://github.com/phdechent/CellInfoRepository",
       "relation": "isSupplementTo",
       "resource_type": "software"
+    },
+    {
+      "identifier": "10.5281/zenodo.23021689",
+      "relation": "references",
+      "resource_type": "dataset"
     }
   ],
   "language": "eng"
